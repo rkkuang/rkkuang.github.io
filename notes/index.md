@@ -22,12 +22,27 @@
 
 ## Resources
 
+### Astronomy and Astrophysics
+
+- [Scientific America - Astronomy and Astrophysics](https://www.scientificamerican.com/article/astronomy-and-astrophysic/)
+
+### Aerospace Engineering
+
 ### Books
 
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [springer](https://link.springer.com/)
 
+### Websites
 
+- [Arxivsorter](https://www.arxivsorter.org) or [Arxiv-astroph](https://arxiv.org/list/astro-ph/new)
+- [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
+- [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
+- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
+- [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
+- [LMU-astro](https://www.usm.uni-muenchen.de/people/adi/USM-Homepage/Lehre/Lehrveranstaltungen/masterofscience_en.php)
+- [UCLA-astro](http://www.astro.ucla.edu/) and [cources](http://www.astro.ucla.edu/education/course.html)
+- [Uchicago-astro](https://astro.uchicago.edu/courses/index.php)
 
-
+## Blogs
 
