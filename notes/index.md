@@ -18,7 +18,16 @@
 
 - [脉冲星物理 (吴鑫基等)](pulsar_physics.pdf)
 
-# Blogs
+# Collections
+
+## Resources
+
+### Books
+
+- [Library Genesis](http://gen.lib.rus.ec/)
+- [springer](https://link.springer.com/)
+
+
 
 
 
