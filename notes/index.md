@@ -46,3 +46,6 @@
 
 ## Blogs
 
+### Techniques and Tools
+
+- [Backup files using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html)
