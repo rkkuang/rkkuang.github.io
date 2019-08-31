@@ -8,15 +8,23 @@
 
 ## Astrophysics
 
-- [An Introduction to Modern Astrophysics (Carroll & Ostlie)](AnIntro2ModernAstroph.pdf)
+- [An Introduction to Modern Astrophysics (Carroll & Ostlie)](./booknotes/AnIntro2ModernAstroph.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
-- [Volume 1: MECHANICS](landau.pdf)
+- [Volume 1: MECHANICS](./booknotes/landau.pdf)
 
 ### 中外物理学精品书系
 
-- [脉冲星物理 (吴鑫基等)](pulsar_physics.pdf)
+- [脉冲星物理 (吴鑫基等)](./booknotes/pulsar_physics.pdf)
+
+## Other
+
+### 得到
+
+#### Physics
+
+- [The Future of Humanity - Michio Kaku, 人类的未来 - 加来·道雄](./booknotes/dedao/thefuture_humanity.html)
 
 # Collections
 
@@ -48,4 +56,4 @@
 
 ### Techniques and Tools
 
-- [Backup files using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html)
+- [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup), 
