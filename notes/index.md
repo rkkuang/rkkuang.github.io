@@ -33,6 +33,12 @@
 ### Astronomy and Astrophysics
 
 - [Scientific America - Astronomy and Astrophysics](https://www.scientificamerican.com/article/astronomy-and-astrophysic/)
+- [NAP - National Academies Press](https://www.nap.edu)
+
+#### Radio Astronomy
+
+- [UvA MSc Radio Astronomy 2013](https://www.astron.nl/astrowiki/doku.php?id=uva_msc_radioastronomy_2013), [link](links/uva_msc_radioastronomy_2013AstroWiki.html)
+- [Radio Astronomy - Astro Panel Reports](https://www.nap.edu/read/1635/chapter/2)
 
 ### Aerospace Engineering
 
@@ -51,8 +57,15 @@
 - [LMU-astro](https://www.usm.uni-muenchen.de/people/adi/USM-Homepage/Lehre/Lehrveranstaltungen/masterofscience_en.php)
 - [UCLA-astro](http://www.astro.ucla.edu/) and [cources](http://www.astro.ucla.edu/education/course.html)
 - [Uchicago-astro](https://astro.uchicago.edu/courses/index.php)
+- [NRAO - National Radio Astronomy Observatory]([https://public.nrao.edu](https://public.nrao.edu/))
+- [Radio Astronomy Centre of NCRA](http://rac.ncra.tifr.res.in/index.html)
 
 ## Blogs
+
+### Radio Astrophysics
+
+- [2018 - Imaging Techniques in Radio Astronomy](https://www.iist.ac.in/node/3538), [abstract](local_files/talk_imging_radioastro_2018.txt)
+- [MIT - 21 cm Radio Asotrophysics - telescope build report](http://web.mit.edu/8.13/www/JLExperiments/JLExp46.pdf)
 
 ### Techniques and Tools
 

@@ -1,0 +1,16 @@
+original file: https://www.iist.ac.in/node/3538
+
+Abstract: In this talk I will discuss image formation in radio astronomy. The primary complication that one has to deal with is that, because of the long wavelengths involved, high resolution imaging via direct image formation in the focal plane (as is typical at visible and other wavelengths), is not feasible. Instead radio astronomical imaging uses an indirect technique, viz. interferometry. In this talk (which will be largely pedagogical) I will set up the required framework for understanding how this imaging proceeds. I will also discuss several current challenges in high dynamic range imaging.
+
+Departments:
+Earth & Space Sciences
+Date: 
+Wednesday, May 30, 2018 - 09:30
+Date Remarks: 
+4:00 PM - 5:00 PM
+Speaker Name: 
+Prof. Jayaram Chengalur
+Speaker Remarks: 
+National Centre for Radio Astrophysics (an institute affiliated to the TIFR)
+Venue: 
+Science Block (D2), Room No. C305 (3rd Floor)
