@@ -42,6 +42,8 @@
 
 ### Aerospace Engineering
 
+- [SpaceX](https://www.spacex.com/)
+
 ### Books
 
 - [Library Genesis](http://gen.lib.rus.ec/)
@@ -52,21 +54,34 @@
 - [Arxivsorter](https://www.arxivsorter.org) or [Arxiv-astroph](https://arxiv.org/list/astro-ph/new)
 - [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
 - [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
+- [NASA](https://www.nasa.gov/)
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
 - [LMU-astro](https://www.usm.uni-muenchen.de/people/adi/USM-Homepage/Lehre/Lehrveranstaltungen/masterofscience_en.php)
 - [UCLA-astro](http://www.astro.ucla.edu/) and [cources](http://www.astro.ucla.edu/education/course.html)
 - [Uchicago-astro](https://astro.uchicago.edu/courses/index.php)
-- [NRAO - National Radio Astronomy Observatory]([https://public.nrao.edu](https://public.nrao.edu/))
+- [NRAO - National Radio Astronomy Observatory](https://public.nrao.edu)
+- [ICRAR - International Centre for Radio Astronomy Research](https://www.icrar.org)
 - [Radio Astronomy Centre of NCRA](http://rac.ncra.tifr.res.in/index.html)
+- [SKA](https://www.skatelescope.org/), [MWA](http://www.mwatelescope.org/)
+- [VLBI ](https://ivscc.gsfc.nasa.gov/about/vlbi/whatis.html), [NASA-VLBI](https://space-geodesy.nasa.gov/techniques/VLBI.html), [IERS - VLBI](https://www.iers.org/IERS/EN/Science/Techniques/vlbi.html), [ATNF - VLBI](https://www.atnf.csiro.au/vlbi/)
+- [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
 
 ## Blogs
 
-### Radio Astrophysics
+### People
+
+#### Radio Astronomy
+
+- [ICRAR - DR PAUL HANCOCK](https://www.icrar.org/people/phancock/)
+
+### Radio Astronomy
 
 - [2018 - Imaging Techniques in Radio Astronomy](https://www.iist.ac.in/node/3538), [abstract](local_files/talk_imging_radioastro_2018.txt)
 - [MIT - 21 cm Radio Asotrophysics - telescope build report](http://web.mit.edu/8.13/www/JLExperiments/JLExp46.pdf)
+- [VERY LONG BASELINE INTERFEROMETRY IMAGING](https://blackholecam.org/research/bhshadow/vlbi/)
+- [MACHINE LEARNING TECHNIQUES IN RADIO ASTRONOMY](https://www.icrar.org/study-with-icrar/postgraduate-opportunities/postgraduate-research-projects/mwa-science/machine-learning-techniques-radio-astronomy/)
 
 ### Techniques and Tools
 
-- [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup), 
+- [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup)
