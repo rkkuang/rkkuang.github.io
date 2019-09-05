@@ -9,6 +9,7 @@
 ## Astrophysics
 
 - [An Introduction to Modern Astrophysics (Carroll & Ostlie)](./booknotes/AnIntro2ModernAstroph.pdf)
+- [Essential Radio Astronomy Lecture Notes](./booknotes/essential_radio_astronomy_lecture_notes.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
@@ -33,7 +34,6 @@
 ### Astronomy and Astrophysics
 
 - [Scientific America - Astronomy and Astrophysics](https://www.scientificamerican.com/article/astronomy-and-astrophysic/)
-- [NAP - National Academies Press](https://www.nap.edu)
 
 #### Radio Astronomy
 
@@ -48,6 +48,7 @@
 
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [springer](https://link.springer.com/)
+- [NAP - National Academies Press](https://www.nap.edu)
 
 ### Websites
 
@@ -66,6 +67,10 @@
 - [SKA](https://www.skatelescope.org/), [MWA](http://www.mwatelescope.org/)
 - [VLBI ](https://ivscc.gsfc.nasa.gov/about/vlbi/whatis.html), [NASA-VLBI](https://space-geodesy.nasa.gov/techniques/VLBI.html), [IERS - VLBI](https://www.iers.org/IERS/EN/Science/Techniques/vlbi.html), [ATNF - VLBI](https://www.atnf.csiro.au/vlbi/)
 - [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
+
+### Lectures
+
+- [European Radio Interferometry School 2017](https://www.astron.nl/eris2017/)
 
 ## Blogs
 
