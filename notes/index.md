@@ -10,6 +10,7 @@
 
 - [An Introduction to Modern Astrophysics (Carroll & Ostlie)](./booknotes/AnIntro2ModernAstroph.pdf)
 - [Essential Radio Astronomy Lecture Notes](./booknotes/essential_radio_astronomy_lecture_notes.pdf)
+- [Cutting Edge Scientific Researches in Radio Astronomy - A Survey](./booknotes/cutting_edge_radioastro.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
@@ -86,6 +87,7 @@
 - [MIT - 21 cm Radio Asotrophysics - telescope build report](http://web.mit.edu/8.13/www/JLExperiments/JLExp46.pdf)
 - [VERY LONG BASELINE INTERFEROMETRY IMAGING](https://blackholecam.org/research/bhshadow/vlbi/)
 - [MACHINE LEARNING TECHNIQUES IN RADIO ASTRONOMY](https://www.icrar.org/study-with-icrar/postgraduate-opportunities/postgraduate-research-projects/mwa-science/machine-learning-techniques-radio-astronomy/)
+- [第一张黑洞照片全靠VLBI，这个Github项目教你用Python实现](https://news.hexun.com/2019-04-12/196806016.html), [Github achael/eht-imaging](https://github.com/achael/eht-imaging)
 
 ### Techniques and Tools
 
