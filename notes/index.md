@@ -11,6 +11,7 @@
 - [An Introduction to Modern Astrophysics (Carroll & Ostlie)](./booknotes/AnIntro2ModernAstroph.pdf)
 - [Essential Radio Astronomy Lecture Notes](./booknotes/essential_radio_astronomy_lecture_notes.pdf)
 - [Cutting Edge Scientific Researches in Radio Astronomy - A Survey](./booknotes/cutting_edge_radioastro.pdf)
+- [Synthesis Imaging in Radio Astronomy](./booknotes/SynthesisImagingInRadioAstronomy.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
@@ -56,6 +57,7 @@
 - [Arxivsorter](https://www.arxivsorter.org) or [Arxiv-astroph](https://arxiv.org/list/astro-ph/new)
 - [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
 - [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
+- [MPA - Astrophysics](https://www.mpa-garching.mpg.de/), [Studying at MPA](https://www.mpa-garching.mpg.de/437094/StudyingatMPA)
 - [NASA](https://www.nasa.gov/)
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
@@ -88,7 +90,10 @@
 - [VERY LONG BASELINE INTERFEROMETRY IMAGING](https://blackholecam.org/research/bhshadow/vlbi/)
 - [MACHINE LEARNING TECHNIQUES IN RADIO ASTRONOMY](https://www.icrar.org/study-with-icrar/postgraduate-opportunities/postgraduate-research-projects/mwa-science/machine-learning-techniques-radio-astronomy/)
 - [第一张黑洞照片全靠VLBI，这个Github项目教你用Python实现](https://news.hexun.com/2019-04-12/196806016.html), [Github achael/eht-imaging](https://github.com/achael/eht-imaging)
+- [Jupyter Notebooks for Radio Astronomy Research](https://www.youtube.com/watch?v=L5TxeCwNV_4&t=940s), [my note no this tutorial](https://github.com/rkkuang/learning_notes/blob/master/astronomy/Jupyter_Notebooks_for_Radio_Astronomy_Research.txt)
+- [Introduction to Radio Astronomy Data Analysis I - GROWTH Astronomy School 2018](https://www.youtube.com/watch?v=uCPazA_-rmg)
 
 ### Techniques and Tools
 
-- [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup)
+- [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup), [My simple linux backup shell script](./local_files/.sysbak.sh)
+- [All kinds of daily learning notes/materials of mine](https://github.com/rkkuang/learning_notes)
