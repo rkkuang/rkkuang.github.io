@@ -12,6 +12,7 @@
 - [Essential Radio Astronomy Lecture Notes](./booknotes/essential_radio_astronomy_lecture_notes.pdf)
 - [Cutting Edge Scientific Researches in Radio Astronomy - A Survey](./booknotes/cutting_edge_radioastro.pdf)
 - [Synthesis Imaging in Radio Astronomy](./booknotes/SynthesisImagingInRadioAstronomy.pdf)
+- [Difmap Roadmap](./booknotes/difmap.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
