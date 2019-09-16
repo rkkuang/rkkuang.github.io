@@ -1,0 +1,12 @@
+http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/492/-/co-evolution-of-the-first-supermassive-black-holes-and-their-host-galaxies
+
+Title:	 Co-evolution of the first supermassive black holes and their host galaxies
+Speaker:	 Prof. Ran Wang (KIAA)
+
+ABSTRACT
+
+Quasars discovered at the highest redshift probe the early evolution of the first supermassive black holes (SMBHs) and their host galaxies at the epoch of cosmic reionization. The dust and gas in the host galaxies of these earliest quasars have been studied at submillimeter and millimeter wavelengths using thermal continuum emission, molecular (mostly CO), and fine structure lines, such as the [C II] 158um emission line . The observations reveal active star formation at rates of hundreds to thousands Msun/yr. The source size measurements with ALMA suggest that the star formation regions are compact, over scales of a few kpcs. The most far-infrared (FIR) luminous objects show peak surface brightnesses comparable to that found in the submillimeter galaxies, indicating a similar high surface density of star formation in the nuclear region of the quasar hosts. The kinematics of the star forming interstellar medium traced by the [C II] and CO lines appear to be very turbulent, and show features of tidal perturbation from companion interaction and/or outflows from AGN and star formation feedback. The young quasars at the earliest epoch are unique laboratories with rich physics of the interstellar medium (ISM) in extreme AGN-starburst environments. In this talk, I will present recent observations of the atomic and molecular gas content, and discuss our current knowledge on the evolutionary properties of the young quasar host galaxies at z>=6.
+
+BIO
+Ran Wang got Bachelor from Peking University in 2004 and Ph.D degrees from Peking University in 2009. She did postdoctoral research as a Jansky fellow during 2010 – 2013, supported from NRAO and hosted in Steward Observatory at University of Arizona. In Oct. 2013, she joined Kavli Institute of Astronomy and Astrophysics in Peking University and became a Youth Qianren Research Professor in 2015. Her research field is on the millimeter and radio observations of AGN hosts, especially on the dust and gas components from high redshift quasar host galaxies. Recent interests focus on the formation and co-evolution of the supermassive black hole and their host galaxies in the early universe.
+
