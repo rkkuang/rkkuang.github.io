@@ -1,0 +1,28 @@
+Title:	 Cosmological Inference using Gravitational Wave Standard Sirens: A Mock Data Challenge
+Speaker:	 Dr. Hong Qi (Univ. of Cardiff)
+
+ABSTRACT
+
+The observation of binary neutron star merger GW170817 provides the first constraint on the Hubble constant $H_0$ using counterpart standard siren method. For the case where a counterpart is not identified, a statistical standard siren method with a galaxy catalog can be exploited to estimate $H_0$. In this colloquium I will talk about the Bayesian framework that LIGO-Virgo Collaboration's Cosmology group have developed to estimate the Hubble constant using both the counterpart and the statistical standard siren methods. I will also show the application of the framework to a series of mock data challenges from O2-like detection simulation of 249 binary neutron star mergers with focuses on gravitational wave selection and electromagnetic selection effects.
+
+BIO
+Dr. Hong Qi is currently a postdoctoral research associate at Cardiff University in UK. She obtained her PhD with Prof. Patrick Brady at University of Wisconsin - Milwaukee in US in 2018. She has been a member of the LIGO Scientific Collaboration (LSC) since 2015 and is part of the LSC Parameter Estimation group and Cosmology group. She has also been a Laser Interferometer Space Antenna (LISA) consortium member since 2018.
+
+
+I asked mainly three questions:
+1. on Page 19, 25% Complete: how to choose these 25%, is it select randomly or have some criteria?
+
+--> 25% brightest
+
+2. on Page 20, Convergence of Fractional ...
+Dr. Hong mentioned to get the results, 比如对于求10个事例的误差，她们做了多次实验，多次随机选取10个事例，然后取平均得到结果。
+我的疑问是，选取多少次，比如从100里取10，有A_100^10 种可能的选取方式
+
+她的回答是200里取10， 大概取1000次？
+
+3. 第三个问题：
+她提到现在探测到的引力波事件平均每周一个，我问了探测到引力波的同时是否能同时探测电磁波信号
+
+回答是她们探测到引力波事件后，会立即通知其合作伙伴，但受限于观测条件，延时可能会达到8小时
+
+

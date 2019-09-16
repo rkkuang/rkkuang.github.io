@@ -4,7 +4,7 @@
 
 [Main page](https://rkkuang.github.io/)
 
-# Reading notes
+# Reading/Seminar notes
 
 ## Astrophysics
 
@@ -20,6 +20,8 @@
 ### 中外物理学精品书系
 
 - [脉冲星物理 (吴鑫基等)](./booknotes/pulsar_physics.pdf)
+
+## [Seminar Notes](seminar_notes/seminar_notes.html)
 
 ## Other
 
