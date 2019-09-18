@@ -10,3 +10,54 @@ Quasars discovered at the highest redshift probe the early evolution of the firs
 BIO
 Ran Wang got Bachelor from Peking University in 2004 and Ph.D degrees from Peking University in 2009. She did postdoctoral research as a Jansky fellow during 2010 – 2013, supported from NRAO and hosted in Steward Observatory at University of Arizona. In Oct. 2013, she joined Kavli Institute of Astronomy and Astrophysics in Peking University and became a Youth Qianren Research Professor in 2015. Her research field is on the millimeter and radio observations of AGN hosts, especially on the dust and gas components from high redshift quasar host galaxies. Recent interests focus on the formation and co-evolution of the supermassive black hole and their host galaxies in the early universe.
 
+page:
+http://kiaa.pku.edu.cn/cn/people/ran-wang
+
+Research interests: 
+formation and co-evolution of supermassive black holes and their host galaxies in the early universe
+
+Research Highlights: 
+I am working on millimeter and radio observations of the dust and gas components from high redshift quasar host galaxies. I am interested in studying the formation and co-evolution of the supermassive black hole and their host galaxies in the early universe. Specifically, my research interests are focused on the following topics:
+
+I. SMBH-Bulge relationships and quasar-galaxy evolution in the early universe.
+
+II. Interstellar medium (ISM) properties and star forming activity in quasar host galaxies at high redshift.
+
+我主要从事对高红移类星体寄主星系中尘埃和气体成分的毫米射电波段的观测和研究。主要关注宇宙早期超大质量黑洞和寄主星系的形成和共同演化。我目前的研究主要集中在如下两个方面：I. 超大质量黑洞和寄主星系核球的相关性以及宇宙早期类星体和星系的演化。II. 高红移类星体中的恒星形成活动以及星际介质的性质。
+
+ALMA Cycle 0 and Cycle 1 programs to observe the [C II] line and dust continuum emission from quasar host galaxies at z~6.
+
+First results : Wang, R. et al. 2013, ApJ, 773, 44
+
+JVLA imaging of the CO (2-1) line emission from millimeter bright z~6 quasars.
+
+Herschel studies of the dust emission and star formation in the host galaxies of weak emission line quasars at z~2 to 3
+
+
+Prof Wang's paper since 2014
+http://kiaa.pku.edu.cn/biblio?f%5Bauthor%5D=94
+and:
+http://kiaa.pku.edu.cn/biblio?f%5Bauthor%5D=4490
+
+And her recent paper:
+https://iopscience.iop.org/article/10.3847/1538-4357/ab133d/pdf
+
+Star Formation and ISM Properties in the Host Galaxies of Three Far-infrared
+Luminous Quasars at z ~ 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -65,6 +65,7 @@
 - [NASA](https://www.nasa.gov/)
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
+- [THE KAVLI FOUNDATION](http://www.kavlifoundation.org/)
 - [LMU-astro](https://www.usm.uni-muenchen.de/people/adi/USM-Homepage/Lehre/Lehrveranstaltungen/masterofscience_en.php)
 - [UCLA-astro](http://www.astro.ucla.edu/) and [cources](http://www.astro.ucla.edu/education/course.html)
 - [Uchicago-astro](https://astro.uchicago.edu/courses/index.php)
@@ -75,9 +76,17 @@
 - [VLBI ](https://ivscc.gsfc.nasa.gov/about/vlbi/whatis.html), [NASA-VLBI](https://space-geodesy.nasa.gov/techniques/VLBI.html), [IERS - VLBI](https://www.iers.org/IERS/EN/Science/Techniques/vlbi.html), [ATNF - VLBI](https://www.atnf.csiro.au/vlbi/)
 - [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
 
+### PHD thesis
+
+- [Astronomy Thesis Collection](https://zenodo.org/communities/astrothesis/?page=1&size=20)
+- [An Open, Online Astronomy Thesis Collection](https://www.astrobetter.com/blog/2016/04/11/an-open-online-astronomy-thesis-collection/)
+- [Astrophysical Sciences](https://dataspace.princeton.edu/jspui/handle/88435/dsp015m60qr913)
+- [Astronomy and Astrophysics:  Theses](https://canterbury.libguides.com/astr/theses)
+
 ### Lectures
 
 - [European Radio Interferometry School 2017](https://www.astron.nl/eris2017/)
+- [U-Arizona Astronomy/Planetary Sciences Course](http://ircamera.as.arizona.edu/Astr_518/)
 
 ## Blogs
 
