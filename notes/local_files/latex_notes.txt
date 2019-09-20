@@ -1,0 +1,38 @@
+latex 花体
+\usepackage{mathrsfs}
+%\mathscr{T}
+%如果觉得太花了，可以换成
+\usepackage{amsmath}
+%\mathcal{T}
+
+分割线
+\noindent\rule[0.25\baselineskip]{\textwidth}{1pt}\\
+
+Matrix
+$$
+\left[
+\begin{matrix}
+RR^* & RL^*\\
+LR^* & LL^*
+\end{matrix}
+\right]
+$$
+
+Sun：
+\odot or \bigodot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
