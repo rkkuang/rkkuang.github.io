@@ -27,7 +27,7 @@
 
 - [脉冲星物理 (吴鑫基等)](./booknotes/pulsar_physics.pdf)
 
-## [Seminar Notes](seminar_notes/seminar_notes.html)
+## [Seminar Notes](seminar_notes/seminar_notes.md)
 
 ## Other
 

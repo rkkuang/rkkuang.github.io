@@ -1,0 +1,28 @@
+http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/487/-/the-formation-of-jupiter-s-diluted-core-by-a-giant-impact
+
+Time:	 Thursday, September 26, 2019, 02:00pm
+Title:	 The formation of Jupiter's diluted core by a giant impact
+https://www.nature.com/articles/d41586-019-02401-1
+Speaker:	 Prof. Shangfei Liu (Sun Yat-sen University)
+Location:	蒙民伟科技南楼S727
+
+ABSTRACT
+
+The Juno mission has provided an accurate determination of Jupiter’s gravitational field, which has been used to obtain information about the planet’s composition and internal structure. Several models of Jupiter’s structure that fit the probe’s data suggest that the planet has a diluted core, with a total heavy-element mass ranging from ten to a few tens of Earth masses (about 5 to 15 per cent of the Jovian mass), and that heavy elements (elements other than hydrogen and helium) are distributed within a region extending to nearly half of Jupiter’s radius. Planet-formation models indicate that most heavy elements are accreted during the early stages of a planet's formation to create a relatively compact core and that almost no solids are accreted during subsequent runaway gas accretion. Jupiter’s diluted core, combined with its possible high heavy-element enrichment, thus challenges standard planet-formation theory. A possible explanation is erosion of the initially compact heavy-element core, but the efficiency of such erosion is uncertain and depends on both the immiscibility of heavy materials in metallic hydrogen and on convective mixing as the planet evolves. Another mechanism that can explain this structure is planetesimal enrichment and vaporization during the formation process, although relevant models typically cannot produce an extended diluted core. Here we show that a sufficiently energetic head-on collision (giant impact) between a large planetary embryo and the proto-Jupiter could have shattered its primordial compact core and mixed the heavy elements with the inner envelope. Models of such a scenario lead to an internal structure that is consistent with a diluted core, persisting over billions of years. We suggest that collisions were common in the young Solar system and that a similar event may have also occurred for Saturn, contributing to the structural differences between Jupiter and Saturn.
+
+BIO
+Shangfei Liu obtained his PhD degree from Peking University in 2013 under the supervision of Prof. Doug Lin. He did his first postdoc at the University of California at Santa Cruz working on giant impact simulations. Then he spent one year in Los Alamos National Laboratory as a visiting scholar. After that, he moved to Rice University as a postdoc to work on protoplanetary disks. In 2018, he joined the faculty of School of Physics and Astronomy at Sun Yat-sen University in Zhuhai China.
+
+Host: Chris Ormel
+
+
+
+主题是李尚飞教授上个月发在Nature上的文章中的工作，https://www.nature.com/articles/d41586-019-02401-1
+解决的是一个理论于观测不符的问题：
+理论：标准的行星形成理论认为行星形成早期（富含的）重元素会在中心聚集，成为一个致密的核
+观测：Juno mission精确测定了木星的重力场，一些研究给木星结构建模并拟合 Juno 的观测数据，发现木星核心并不那么致密（extended diluted core）
+尽管已有一些研究提出了一些解释，但仍旧不能很好地解释cannot produce an extended diluted core。
+李教授于是提出，如果在行星形成早期发生一起强大的撞击事件，有可能将其原初致密核撞散，并让重元素于行星核心混合。
+a sufficiently energetic head-on collision (giant impact) between a large planetary embryo and the proto-Jupiter could have shattered its primordial compact core and mixed the heavy elements with the inner envelope.
+针对这一模型做的模拟结果与 diluted core 一致，diluted core状态能保持几十亿年。
+他们还认为这种撞击在早期的太阳系很普遍，有可能土星也遭受过撞击。
