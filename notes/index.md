@@ -14,6 +14,10 @@
 - [Synthesis Imaging in Radio Astronomy](./booknotes/SynthesisImagingInRadioAstronomy.pdf)
 - [Difmap Roadmap](./booknotes/difmap.pdf)
 - [天体物理概论 - 向守平](./booknotes/天体物理概论.pdf)
+- [University Michigan Radio Astronomy Observatory - UMRAO](./booknotes/umrao.pdf)
+- [Tools for Radio Astronomy](./booknotes/Tools4Radio_Astronomy.pdf)
+- [The Astronomy Revolution](./booknotes/TheAstronomyRevolution.pdf)
+- [射电天文工具](./booknotes/射电天文工具.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
@@ -75,6 +79,7 @@
 - [SKA](https://www.skatelescope.org/), [MWA](http://www.mwatelescope.org/)
 - [VLBI ](https://ivscc.gsfc.nasa.gov/about/vlbi/whatis.html), [NASA-VLBI](https://space-geodesy.nasa.gov/techniques/VLBI.html), [IERS - VLBI](https://www.iers.org/IERS/EN/Science/Techniques/vlbi.html), [ATNF - VLBI](https://www.atnf.csiro.au/vlbi/)
 - [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
+- [NASA Technical Reports Server](https://ntrs.nasa.gov/search.jsp)
 
 ### PHD thesis
 
