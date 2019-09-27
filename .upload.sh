@@ -1,4 +1,5 @@
 ./.update_bycp.sh
+./.uphtml.sh
 
 git add --all
 git commit -m "update"
