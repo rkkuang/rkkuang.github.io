@@ -1,1 +1,1 @@
-website template clone from https://github.com/adrn/adrn.github.io
+Personal webpage htmls simply generated using typora and pandoc tools.
