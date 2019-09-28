@@ -1,7 +1,3 @@
-------
-
-[TOC]
-
 [Main page](https://rkkuang.github.io/)
 
 # Reading/Seminar notes

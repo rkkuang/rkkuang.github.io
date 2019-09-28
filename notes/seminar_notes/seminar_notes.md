@@ -1,4 +1,6 @@
-[TOC]
+[Main page](https://rkkuang.github.io/)
+
+[Notes page](https://rkkuang.github.io/notes/)
 
 # THCA Seminars Notes
 
