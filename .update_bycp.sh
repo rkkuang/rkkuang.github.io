@@ -11,6 +11,10 @@ cp ~/THU/astro/notes/Tools4RA/Tools4Radio_Astronomy.pdf ~/Documents/rkkuang.gith
 cp ~/THU/astro/notes/天文学革命-仰望星空40年/TheAstronomyRevolution.pdf ~/Documents/rkkuang.github.io/notes/booknotes/TheAstronomyRevolution.pdf
 cp ~/THU/astro/notes/射电天文工具/射电天文工具.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
 
+#cp ~/THU/astro/notes/ehtim/ehtim.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
+cp ~/THU/astro/notes/ehtim/ehtim.pdf ~/Documents/rkkuang.github.io/notes/booknotes 
+
+
 cp ~/Documents/me/CV/cv1908/cv1908.pdf ~/Documents/rkkuang.github.io/cv.pdf 
 
 

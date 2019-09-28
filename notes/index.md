@@ -13,6 +13,7 @@
 - [Cutting Edge Scientific Researches in Radio Astronomy - A Survey](./booknotes/cutting_edge_radioastro.pdf)
 - [Synthesis Imaging in Radio Astronomy](./booknotes/SynthesisImagingInRadioAstronomy.pdf)
 - [Difmap Roadmap](./booknotes/difmap.pdf)
+- [eht-imaging Roadmap](./booknotes/ehtim.pdf)
 - [天体物理概论 - 向守平](./booknotes/天体物理概论.pdf)
 - [University Michigan Radio Astronomy Observatory - UMRAO](./booknotes/umrao.pdf)
 - [Tools for Radio Astronomy](./booknotes/Tools4Radio_Astronomy.pdf)
