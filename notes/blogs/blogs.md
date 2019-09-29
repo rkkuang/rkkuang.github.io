@@ -32,6 +32,6 @@
 
 ## Cutting edge technologies
 
-- [马斯克今发布最强宇宙飞船！半年内密集试飞，冲刺星际旅行](https://mp.weixin.qq.com/s/_hMZiUbloxGSyUrqq2rkTw), [my_note 190929_musk_starship_Mk1](190929_musk_starship_Mk1.txt)
+- [马斯克今发布最强宇宙飞船！半年内密集试飞，冲刺星际旅行](https://mp.weixin.qq.com/s/_hMZiUbloxGSyUrqq2rkTw)
 
-## Knowledge
+  一开场，SpaceX 首席执行官埃隆·马斯克表示，“世界上有许多让人担心的、关心的事情，也有很多的麻烦，这些都很重要，我们需要解决它们。但我们也需要能找到让我们为活着而感到兴奋的东西，让我们在早上醒来时能兴奋地为未来的一部分进行思考，这是很棒的，而太空探索就是其中之一，让人类成为一种太空文明存在。”这瞬间点燃了现场人们的激情，他说，“我们要为人类成为一个太空文明需要做出重大突破。”
