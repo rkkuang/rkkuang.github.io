@@ -39,4 +39,3 @@
 - [为什么宇宙会将最大速度限制在光速？](https://www.zhihu.com/question/309934940/answer/838518688), [190929-about-speed-of-light](190929-about-speed-of-light.txt)
 - [如何理解那个把嫦娥送上天的卡尔曼滤波算法Kalman filter?](https://zhuanlan.zhihu.com/p/77327349), [如何通俗并尽可能详细解释卡尔曼滤波？](https://www.zhihu.com/question/23971601/answer/770830003) , [理解与推导贝叶斯滤波(Bayes Filter)算法](https://zhuanlan.zhihu.com/p/75880143) [190929-kalmam-filter](190929-kalmam-filter.txt)
 - 
-
