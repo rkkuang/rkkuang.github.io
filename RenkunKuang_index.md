@@ -1,4 +1,4 @@
-% [Renkun Kuang](https://rkkuang.github.io/)
+% Renkun Kuang
 
 ## [bio](https://rkkuang.github.io/bio_me.html), [cv](https://rkkuang.github.io/cv.pdf), [research](https://rkkuang.github.io/research_me.html), [notes](https://rkkuang.github.io/notes)
 
@@ -18,3 +18,4 @@ Github: https://github.com/rkkuang
 Mailing Address: Zijing Apartment, Tsinghua University, Beijing, 100084, P. R. China
 
 Email: krk18@mails.tsinghua.edu.cn
+
