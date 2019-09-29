@@ -7,3 +7,4 @@ pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o notes/index.html notes/i
 
 pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o notes/seminar_notes/seminar_notes.html notes/seminar_notes/seminar_notes.md
 
+pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/blogs.html notes/local_files/blogs.md
