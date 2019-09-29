@@ -1,15 +1,4 @@
-
-
-<head>
-	<meta charset="utf-8">
-	<title>rkk — renkun kuang</title>
-	<meta name="description" content="description">
-	<meta name="author" content="rkkuang">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://rkkuang.github.io/theme/css/local.css" rel="stylesheet">
-</head>
-
-# [Renkun Kuang](https://rkkuang.github.io/)
+% [Renkun Kuang](https://rkkuang.github.io/)
 
 ## [bio](https://rkkuang.github.io/bio_me.html), [cv](https://rkkuang.github.io/cv.pdf), [research](https://rkkuang.github.io/research_me.html), [notes](https://rkkuang.github.io/notes)
 
