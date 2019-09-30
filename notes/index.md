@@ -17,6 +17,7 @@
 - [Tools for Radio Astronomy](./booknotes/Tools4Radio_Astronomy.pdf)
 - [The Astronomy Revolution](./booknotes/TheAstronomyRevolution.pdf)
 - [射电天文工具](./booknotes/射电天文工具.pdf)
+- [CLEAN Algorithm Roadmap](./booknotes/clean.pdf)
 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
