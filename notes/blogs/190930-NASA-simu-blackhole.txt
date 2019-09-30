@@ -1,0 +1,30 @@
+[NASA模拟展现最清晰的黑洞外貌](https://mp.weixin.qq.com/s/l2U3YkWwa8hNaP5Sl3PMGQ)
+
+近日，NASA戈达德太空飞行中心的科学家发布了一段展示黑洞侧面精确结构的视频
+https://svs.gsfc.nasa.gov/13326
+。这段通过计算机模拟得到的视频，由黑洞本体、周围的光线及吸积盘组成。视频中心黑色区域为黑洞的阴影，大小相当于事件视界的两倍；周围一圈细细的亮线为光子圈。而外围围绕黑洞旋转的，就是巨大的吸积盘，里面包含了大量高速旋转、逐渐坠入黑洞的物质。（看过《星际穿越》的同学，是不是感觉很眼熟？）
+
+
+Black Hole Accretion Disk Visualization
+https://svs.gsfc.nasa.gov/13326
+
+This new visualization of a black hole illustrates how its gravity distorts our view, warping its surroundings as if seen in a carnival mirror. The visualization simulates the appearance of a black hole where infalling matter has collected into a thin, hot structure called an accretion disk. The black hole’s extreme gravity skews light emitted by different regions of the disk, producing the misshapen appearance.
+
+Bright knots constantly form and dissipate in the disk as magnetic fields wind and twist through the churning gas. Nearest the black hole, the gas orbits at close to the speed of light, while the outer portions spin a bit more slowly. This difference stretches and shears the bright knots, producing light and dark lanes in the disk.
+
+Viewed from the side, the disk looks brighter on the left than it does on the right. Glowing gas on the left side of the disk moves toward us so fast that the effects of Einstein’s relativity give it a boost in brightness; the opposite happens on the right side, where gas moving away us becomes slightly dimmer. This asymmetry disappears when we see the disk exactly face on because, from that perspective, none of the material is moving along our line of sight.
+
+Closest to the black hole, the gravitational light-bending becomes so excessive that we can see the underside of the disk as a bright ring of light seemingly outlining the black hole. This so-called “photon ring” is composed of multiple rings, which grow progressively fainter and thinner, from light that has circled the black hole two, three, or even more times before escaping to reach our eyes. Because the black hole modeled in this visualization is spherical, the photon ring looks nearly circular and identical from any viewing angle. Inside the photon ring is the black hole’s shadow, an area roughly twice the size of the event horizon — its point of no return.
+
+Simulations and movies like these really help us visualize what Einstein meant when he said that gravity warps the fabric of space and time.
+
+黑洞撕裂恒星的罕见画面
+在一项发表于《天体物理学杂志》的研究中，NASA的凌日系外行星勘测卫星（TESS）意外捕捉到一个超大质量黑洞将一颗恒星撕成碎片的画面。当恒星离黑洞很近时，会发生潮汐扰动事件。这时黑洞会吸取恒星的物质，将恒星撕成像意大利面一样的长条物质。这类事件是非常罕见的，在银河系大小的星系中，每1万~10万年才能发生一次。这次事件中超大质量黑洞距离地球3.75亿光年，位于一个编号为2MASX J07001137-6602251的星系中心，其质量约为太阳质量的600万倍。
+
+https://iopscience.iop.org/article/10.3847/1538-4357/ab3c66
+
+
+
+
+
+
