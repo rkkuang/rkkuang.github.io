@@ -1,4 +1,5 @@
 cp ~/THU/astro/notes/difmap/difmap.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
+cp ~/THU/astro/notes/clean/clean.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
 cp ~/THU/astro/notes/AnIntro2ModernAstroph/AnIntro2ModernAstroph.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
 cp ~/THU/astro/notes/ska_mwa_lofar/radio_frontedge_scigoals.pdf ~/Documents/rkkuang.github.io/notes/booknotes/
 cp ~/THU/astro/notes/essential_radio_astronomy/essential_radio_astronomy_lecture_notes.pdf ~/Documents/rkkuang.github.io/notes/booknotes/

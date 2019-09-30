@@ -30,13 +30,16 @@
 - [Radio Astronomy Software Group](https://github.com/RadioAstronomySoftwareGroup)
 - [Astronomy Softwares](http://blog.sciencenet.cn/blog-587102-949176.html)
 - [Latex symbols](https://blog.csdn.net/Ying_Xu/article/details/51240291), [my_note](local_files/latex_notes.txt)
+- [python 12306](https://github.com/testerSunshine/12306)
 
 ## Cutting edge technologies
 
 - [马斯克今发布最强宇宙飞船！半年内密集试飞，冲刺星际旅行](https://mp.weixin.qq.com/s/_hMZiUbloxGSyUrqq2rkTw), [my_note 190929_musk_starship_Mk1](190929_musk_starship_Mk1.txt)
 - [NASA模拟展现最清晰的黑洞外貌 & 黑洞撕裂恒星的罕见画面](https://mp.weixin.qq.com/s/l2U3YkWwa8hNaP5Sl3PMGQ), [Black Hole Accretion Disk Visualization](https://svs.gsfc.nasa.gov/13326), [190930-NASA-simu-blackhole](190930-NASA-simu-blackhole.txt)
+- [NASA局长：核能热推进技术是未来太空探索任务的转折点！](https://mbd.baidu.com/newspage/data/landingsuper?context={"nid"%3A"news_10042390126574701774"}&n_type=0&p_from=1), [190930-NASA-nuclear-thrust](190930-NASA-nuclear-thrust.txt)
 
 ## Knowledge
 
 - [为什么宇宙会将最大速度限制在光速？](https://www.zhihu.com/question/309934940/answer/838518688), [190929-about-speed-of-light](190929-about-speed-of-light.txt)
 - [如何理解那个把嫦娥送上天的卡尔曼滤波算法Kalman filter?](https://zhuanlan.zhihu.com/p/77327349), [如何通俗并尽可能详细解释卡尔曼滤波？](https://www.zhihu.com/question/23971601/answer/770830003) , [理解与推导贝叶斯滤波(Bayes Filter)算法](https://zhuanlan.zhihu.com/p/75880143), [190929-kalmam-filter](190929-kalmam-filter.txt)
+
