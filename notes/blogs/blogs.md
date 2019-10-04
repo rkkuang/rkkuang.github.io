@@ -26,6 +26,9 @@
 
 - [朗道《力学》](https://www.zhihu.com/question/348029701/answer/841692861), [191003-Landau-mechanics](191003-Landau-mechanics.txt)
 - [物理专业的真的要学那么多东西吗？](https://www.zhihu.com/question/30129574/answer/804900733?), [2nd-answer](https://www.zhihu.com/question/30129574/answer/192231905), [191003-Physics-need-learn-lots](191003-Physics-need-learn-lots.txt)
+- [如何理解麦克斯韦方程中的不对称性](https://zhuanlan.zhihu.com/p/81453538), [电磁场的激发过程](https://zhuanlan.zhihu.com/p/77808968)
+- [中科大最年轻的教授，4次刷新光子纠缠世界记录，却只称量子力学太好玩！](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657461599&idx=1&sn=49e8efbb6df5450bfe8ab8301f128e96&chksm=bdd9b24e8aae3b587417d95f41714b4dbde21ae118742d5cfb0425b26c32f33106f2179ed6d2&mpshare=1&scene=1&srcid=&sharer_sharetime=1569767323619&sharer_shareid=018a77f5729d3c3da89b671a59dbccac#rd)
+- 
 
 ## Techniques and Tools
 
@@ -38,6 +41,7 @@
 - [python 12306](https://github.com/testerSunshine/12306)
 - [Universe Sandbox](http://universesandbox.com/)
 - [23 best free CS courses around the world](https://zhuanlan.zhihu.com/p/84599789), [Class Central](https://www.classcentral.com/)
+- [Hacker](191004-hacker.txt)
 
 ## Cutting edge technologies
 
