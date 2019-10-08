@@ -92,5 +92,7 @@
 
 - [European Radio Interferometry School 2017](https://www.astron.nl/eris2017/)
 - [U-Arizona Astronomy/Planetary Sciences Course](http://ircamera.as.arizona.edu/Astr_518/)
+- [Open Yale Courses](https://oyc.yale.edu/)
 
 ## [Blogs](./blogs/blogs.html)
+
