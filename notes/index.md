@@ -53,6 +53,7 @@
 ### Aerospace Engineering
 
 - [SpaceX](https://www.spacex.com/)
+- [NASA](https://www.nasa.gov/)
 
 ### Books
 
@@ -66,7 +67,6 @@
 - [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
 - [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
 - [MPA - Astrophysics](https://www.mpa-garching.mpg.de/), [Studying at MPA](https://www.mpa-garching.mpg.de/437094/StudyingatMPA)
-- [NASA](https://www.nasa.gov/)
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
 - [THE KAVLI FOUNDATION](http://www.kavlifoundation.org/)
@@ -93,6 +93,6 @@
 - [European Radio Interferometry School 2017](https://www.astron.nl/eris2017/)
 - [U-Arizona Astronomy/Planetary Sciences Course](http://ircamera.as.arizona.edu/Astr_518/)
 - [Open Yale Courses](https://oyc.yale.edu/)
+- [Open Source Society University](https://github.com/ossu)
 
 ## [Blogs](./blogs/blogs.html)
-
