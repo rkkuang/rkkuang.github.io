@@ -19,4 +19,97 @@ Graduated from National University of Defense Technology, and obtained PhD from 
 
 Host: Prof. Dandan Xu
 
+========================================================
+Intro of RM - Reverberation Mapping
+SMBH mass
+delay response = reverberation --> distance of the ionized gas to the SMBH
+type I AGN - reverberation is the unique method to measure SMBH mass, and the ionized gas around SMBH
+
+distance and delay --> SMBH mass
+
+uncertainty -- 100-200%
+--> still get lots concepts
+e.g. coevolution
+
+Quasars
+
+RM compaigns: 100 AGNs
+DES will detect 100 million AGNs
+100 VS 100 million
+
+among the 100 AGNs which have done RM:
+chinese -- 50/100 AGNs 
+
+BLR scaling law: R-L relation
+
+Widely applied to:
+	SMBH mass
+	accration physics
+	evolution
+	coevolution (SMBH and galaxies)
+
+Observation and theory
+Three basic assumptions
+	Ionizing sources (isotropic - mass, point souece-accration rate, SED-spin)
+	SMBH: single (may be wrong at some systems)
+	Ionized gas: homogeneous
+
+
+Difficulties
+
+Breakthrough in 2018
+Spatially resolved rotation of the broad-line region of a quasar at sub-parsec scale
+
+Reverberation - linear size
+
+Spectro Astronomy
+
+Gravity () - angular size
+
+--->combine -- we can get the distance
+
+distance is even more important than mass
+
+pure geometrical measurement
+
+Cutting edge sciences
+	Precision SMBH mass
+	Coevolution
+	SMBH candles, H_0 and expansion history
+	close-binary, nano-Hz GWs
+
+Cosmology - high vs low-z universe
+
+SpectroAstronomy + RM = SARM (complementary)
+GRAVITY+2m telescope
+
+SARM Analysis: Mass and distances
+
+H_0, \pm 15%
+indipemdant of calibration
+
+SMBH binaries and low-f GWs: a new window
+
+paper:
+differiential intererometric signature of close bnaries of supermassivvve black holes...
+in activ galactic nucle 
+
+satura luminosities
+
+饱和光度，
+
+type I 超新星在高红移很难发现，因为形成需要长时间？
+
+Full available souftware from IHEP
+
+Spin evolution: fueling BHs
+
+从观测数据寻找双黑洞系统
+
+
+高红移的 Quasar， 1+z 延迟，
+z = 2时，若延迟为半年，就变为了 1.5 年， 就要观测 ~ 5年
+这时候可以每 20 天采一次样
+
+对于低红移， 几天就要采一次样
 

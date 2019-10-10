@@ -1,6 +1,6 @@
 % Blogs
 
-[Main page](https://rkkuang.github.io/)
+[Home page](https://rkkuang.github.io/)
 
 [Notes page](https://rkkuang.github.io/notes/)
 
@@ -42,6 +42,7 @@
 - [Universe Sandbox](http://universesandbox.com/)
 - [23 best free CS courses around the world](https://zhuanlan.zhihu.com/p/84599789), [Class Central](https://www.classcentral.com/)
 - [Hacker](191004-hacker.txt)
+- [Debian pakaging tutorial](https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.zh_TW.pdf)
 - 
 
 ## Cutting edge technologies

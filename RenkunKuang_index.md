@@ -13,9 +13,8 @@ Here I will post my daily study [[notes](https://rkkuang.github.io/notes)] inclu
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ql9o894hut&amp;s=260&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
-Github: https://github.com/rkkuang
+Github: [https://github.com/rkkuang](https://github.com/rkkuang)
 
 Mailing Address: Zijing Apartment, Tsinghua University, Beijing, 100084, P. R. China
 
 Email: krk18@mails.tsinghua.edu.cn
-

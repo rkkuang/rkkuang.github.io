@@ -1,6 +1,6 @@
 % Reading/Seminar notes
 
-[Main page](https://rkkuang.github.io/)
+[Home page](https://rkkuang.github.io/)
 
 ## Astrophysics
 
@@ -30,6 +30,8 @@
 ## [Seminar Notes](seminar_notes/seminar_notes.html)
 
 ## Other
+
+- [宇宙-卡尔萨根](./booknotes/cosmos_Carl_Sagan.txt)
 
 ### 得到
 
@@ -76,7 +78,7 @@
 - [NRAO - National Radio Astronomy Observatory](https://public.nrao.edu)
 - [ICRAR - International Centre for Radio Astronomy Research](https://www.icrar.org)
 - [Radio Astronomy Centre of NCRA](http://rac.ncra.tifr.res.in/index.html)
-- [SKA](https://www.skatelescope.org/), [MWA](http://www.mwatelescope.org/)
+- [SKA](https://www.skatelescope.org/), [MWA](http://www.mwatelescope.org/), [LOFAR](http://lofar.org/)
 - [VLBI ](https://ivscc.gsfc.nasa.gov/about/vlbi/whatis.html), [NASA-VLBI](https://space-geodesy.nasa.gov/techniques/VLBI.html), [IERS - VLBI](https://www.iers.org/IERS/EN/Science/Techniques/vlbi.html), [ATNF - VLBI](https://www.atnf.csiro.au/vlbi/)
 - [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
 - [NASA Technical Reports Server](https://ntrs.nasa.gov/search.jsp)
