@@ -9,6 +9,7 @@
 - [An Introduction to Modern Astrophysics (Carroll & Ostlie)](./booknotes/AnIntro2ModernAstroph.pdf)
 - [天体物理概论 - 向守平](./booknotes/天体物理概论.pdf)
 - [The Astronomy Revolution](./booknotes/TheAstronomyRevolution.pdf)
+- [PHD qualification prepare]()
 ### Radio Astronomy
 
 - [Essential Radio Astronomy Lecture Notes](./booknotes/essential_radio_astronomy_lecture_notes.pdf)
@@ -21,7 +22,7 @@
 - [University Michigan Radio Astronomy Observatory - UMRAO](./booknotes/umrao.pdf)
 - [Tools for Radio Astronomy](./booknotes/Tools4Radio_Astronomy.pdf)
 - [Synthetic Aperture Radar Basis and Its Applications](./booknotes/SyntheticApertureRadarBasis_ItsApplications.pdf)
-- [PHD qualification prepare]()
+- 
 ### Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
 
 - [Volume 1: MECHANICS](./booknotes/landau.pdf)
