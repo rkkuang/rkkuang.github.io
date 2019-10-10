@@ -1,4 +1,4 @@
-dest="~/Documents/rkkuang.github.io/notes/booknotes/"
+dest="~/Documents/rkkuang.github.io/notes/booknotes"
 
 cp ~/THU/astro/notes/difmap/difmap.pdf $dest
 cp ~/THU/astro/notes/clean/clean.pdf $dest
