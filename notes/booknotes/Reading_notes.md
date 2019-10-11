@@ -46,4 +46,4 @@
 
 #### Economics and Management
 
-- [《西贝的服务员为什么总爱笑》]()
+- [《西贝的服务员为什么总爱笑》](xibei.txt)
