@@ -43,3 +43,7 @@
 #### Physics
 
 - [The Future of Humanity - Michio Kaku, 人类的未来 - 加来·道雄](../booknotes/dedao/thefuture_humanity.html)
+
+#### Economics and Management
+
+- [《西贝的服务员为什么总爱笑》]()

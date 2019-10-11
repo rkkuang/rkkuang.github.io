@@ -58,6 +58,7 @@
 - [European Radio Interferometry School 2017](https://www.astron.nl/eris2017/)
 - [U-Arizona Astronomy/Planetary Sciences Course](http://ircamera.as.arizona.edu/Astr_518/)
 - [Open Yale Courses](https://oyc.yale.edu/)
-- [Open Source Society University](https://github.com/ossu)
+- [Open Source Society University](https://github.com/ossu), [OSSU - CS](https://github.com/ossu/computer-science)
 
 ## [Blogs](./blogs/blogs.html)
+
