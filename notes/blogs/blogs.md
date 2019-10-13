@@ -43,7 +43,7 @@
 - [23 best free CS courses around the world](https://zhuanlan.zhihu.com/p/84599789), [Class Central](https://www.classcentral.com/)
 - [Hacker](191004-hacker.txt)
 - [Debian pakaging tutorial](https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.zh_TW.pdf)
-- 
+- [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html), [my_note](191013_assembly.txt)
 
 ## Cutting edge technologies
 

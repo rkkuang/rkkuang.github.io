@@ -25,6 +25,7 @@
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [springer](https://link.springer.com/)
 - [NAP - National Academies Press](https://www.nap.edu)
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 
 ### Websites
 

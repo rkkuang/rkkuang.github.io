@@ -26,9 +26,13 @@
 - [Tools for Radio Astronomy](../booknotes/Tools4Radio_Astronomy.pdf)
 - [Synthetic Aperture Radar Basis and Its Applications](../booknotes/SyntheticApertureRadarBasis_ItsApplications.pdf)
 
-## Course of Theoretical Physics(LEV DAVIDOVICH LANDAU)
+## Course of Theoretical Physics(LANDAU)
 
 - [Volume 1: MECHANICS](../booknotes/landau.pdf)
+
+## The Feynman Lectures on Physics
+
+- [Volume 1]()
 
 ## 中外物理学精品书系
 

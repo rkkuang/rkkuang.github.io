@@ -1,0 +1,78 @@
+http://spimsimulator.sourceforge.net/
+SPIM: A MIPS32 Simulator
+
+sum = 1+2+...+10
+
+L1 R1 1
+L1 R3 0
+ADDU R1 R3 R3
+ADDIU R1 1
+SLTI R1 B
+BTNEZ FC
+NOP
+RET
+
+
+Linux调试工具
+https://blog.csdn.net/hzrandd/article/details/50849329
+
+
+https://blog.csdn.net/Notzuonotdied/article/details/70888205
+汇编调试程序Debug使用
+
+gdb调试汇编指令和查看寄存器
+https://www.linuxidc.com/Linux/2014-10/108574.htm
+
+https://www.cnblogs.com/lfri/p/10780994.html
+调试工具DEBUG的使用（8086）
+
+
+Linux Assembly Debugger	3 answers	Apr 23, 2011
+Good Assembly Language Debuggers for Linux?	3 answers	Nov 14, 2010
+DEBUG For Linux	4 answers	Jan 28, 2010
+Debug assembly code using Kdbg	2 answers	Apr 3, 2012
+
+
+
+https://stackoverflow.com/questions/2157833/debug-for-linux
+
+I used DEBUG mostly to assemble rather than "debugging"... if that's your goal,
+
+NASM is a good assembler with more similar syntax
+
+Use gdb to then run the code, allow disassembly, and examine memory
+
+0
+
+gdb - the GNU project debugger is the Linux standard debugger. It is far more powerful than DEBUG (if by that you mean the old DOS tool) and you should really learn at least the basics of how to use it if you are programming on Linux.
+
+
+https://stackoverflow.com/questions/5761171/linux-assembly-debugger
+
+http://web.cecs.pdx.edu/~apt/cs491/gdb.pdf
+Debugging Assembly Code with gdb
+
+==============================
+
+sudo apt install nasm --> need input file
+
+sudo apt install gdb
+
+==============================
+https://bbs.csdn.net/topics/380169698
+GDB 么，直接layout asm，或者bochs 也行的，你说的全在里面，GDB很强大!
+
+https://bbs.csdn.net/topics/392034371
+
+https://bbs.csdn.net/topics/100167060
+
+gdb很强大，应该包含类似windows里面 DEBUG 程序的功能，所以应该去学习如何使用 gdb
+
+
+
+
+
+
+
+
+
