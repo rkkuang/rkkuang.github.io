@@ -13,3 +13,6 @@ pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o notes/seminar_notes/semi
 pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/blogs/blogs.html notes/blogs/blogs.md
 
 pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/booknotes/Reading_notes.html notes/booknotes/Reading_notes.md
+
+pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/Feynman1.html notes/local_files/Feynman1.md
+pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/cosmos_Carl_Sagan.html notes/local_files/cosmos_Carl_Sagan.md

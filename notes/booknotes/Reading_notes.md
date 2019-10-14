@@ -32,7 +32,7 @@
 
 ## The Feynman Lectures on Physics
 
-- [Volume 1]()
+- [Volume 1](../local_files/Feynman1.html)
 
 ## 中外物理学精品书系
 
@@ -40,13 +40,13 @@
 
 # Other
 
-- [宇宙-卡尔萨根](../booknotes/cosmos_Carl_Sagan.txt)
+- [宇宙-卡尔萨根](../local_files/cosmos_Carl_Sagan.html)
 
 ## 得到
 
 ### Physics
 
-- [The Future of Humanity - Michio Kaku, 人类的未来 - 加来·道雄](../booknotes/dedao/thefuture_humanity.html)
+- [The Future of Humanity - Michio Kaku, 人类的未来 - 加来·道雄](./dedao/thefuture_humanity.html)
 
 ### Economics and Management
 
