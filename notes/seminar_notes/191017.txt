@@ -1,0 +1,17 @@
+http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/500/-/revealing-the-nature-of-dark-matter-in-the-local-group
+Revealing the nature of dark matter in the Local Group
+
+Time:	 Thursday, October 17, 2019, 02:00pm
+ Title:	 Revealing the nature of dark matter in the Local Group
+ Speaker:	 Dr. Shi Shao (Durham University)
+ Location:
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+The standard cosmological model, the ‘Λ cold dark matter’ model (ΛCDM) is being challenged by observations on small scales, such as those of our Local Group, where the nature and properties of dark matter are most clearly manifest. The Local Group consists of our own Milky Way (MW), the neighbouring Andromeda, as well as hundreds of smaller dwarf galaxies. Its proximity and abundance of observational data offer an unmatched window into the physics of the Universe, such as understanding galaxy formation and evolution at the faint end and of one of the most fundamental problems in physics, the nature of dark matter. In the next decade, we will witness an explosion in the number of dedicated surveys such as GAIA, WEAVE, 4MOST, and LSST, which will allow us to probe galaxy formation and the underlying dark matter distribution to an even greater detail. In this talk, I will present a few of my recent studies on addressing the small-scale structure problems using state-of-the-art numerical simulations. In particular, I will discuss what the orbits of the MW satellites can tell us about the shape and orientation of the MW dark matter halo.
+
+BIO
+Dr. Shi Shao is a postdoc at the Institute for Computational Cosmology (ICC) at Durham University since February, 2017. He received his Ph.D. in 2016 in numerical cosmology under the supervision of Prof. Liang Gao from National Astronomical Observatories of China (NAOC) and received his B.Sc. in 2009 in astronomy, from Nanjing University. His current research interests include dark matter, structure formation and evolution with a focus on galactic scale problems using high-resolution simulations and semi-analytic models.
+
+Host: Prof. Dandan Xu

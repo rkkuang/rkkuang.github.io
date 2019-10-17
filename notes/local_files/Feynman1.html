@@ -97,8 +97,28 @@
 </ul></li>
 <li><a href="#第11章-矢量">第11章 矢量</a><ul>
 <li><a href="#物理学中的对称性">物理学中的对称性</a></li>
+<li><a href="#平移">平移</a></li>
+<li><a href="#转动">转动</a></li>
+<li><a href="#矢量">矢量</a></li>
+<li><a href="#矢量代数">矢量代数</a></li>
+<li><a href="#牛顿定律的矢量表示法">牛顿定律的矢量表示法</a></li>
+<li><a href="#矢量的标积">矢量的标积</a></li>
 </ul></li>
-<li><a href="#第12章">第12章</a></li>
+<li><a href="#第12章-力的特性">第12章 力的特性</a><ul>
+<li><a href="#什么是力-1">什么是力</a></li>
+<li><a href="#摩擦">摩擦</a></li>
+<li><a href="#分子力">分子力</a></li>
+</ul></li>
+<li><a href="#第13章-功与势能上">第13章 功与势能(上)</a><ul>
+<li><a href="#落体的能量">落体的能量</a></li>
+<li><a href="#万有引力所作的功">万有引力所作的功</a></li>
+<li><a href="#能量的求和">能量的求和</a></li>
+<li><a href="#巨大物体的引力场">巨大物体的引力场</a></li>
+</ul></li>
+<li><a href="#第14章-功与势能下">第14章 功与势能（下）</a><ul>
+<li><a href="#功">功</a></li>
+</ul></li>
+<li><a href="#第15章">第15章</a></li>
 </ul>
 </nav>
 <h2 id="第1章-原子的运动">第1章 原子的运动</h2>
@@ -435,6 +455,74 @@ $$</span><br /> 其中 simga, 称为标准偏差，抛硬币实验中 sigma = sq
 <h2 id="第11章-矢量">第11章 矢量</h2>
 <h3 id="物理学中的对称性">物理学中的对称性</h3>
 <p>物理定律的对称性。</p>
-<h2 id="第12章">第12章</h2>
+<p>亥曼韦尔(Hermann Woyl)教授曾给对称性下了这样一个定义：如果能对一个事物施加某种操作, 并且操作以后的情况与原米的完全相同, 则这个事物是对称的。例如，如果我们观察一个左右对称的瓶子，那么当把它绕竖直轴转过180度后,看上去它就和原来完全一样, 关于对称性的定义, 我们将用韦尔的更一般的形式, 并以此来讨论物理定律的对称性.</p>
+<h3 id="平移">平移</h3>
+<p>物理定律对于平移是对称的 —— 当把坐标作一平移时，物理定律不变</p>
+<h3 id="转动">转动</h3>
+<p>无论把轴选择在哪个方向都没有影响。</p>
+<h3 id="矢量">矢量</h3>
+<p>简化分析 —— 设计出一种数学工具：矢量分析</p>
+<h3 id="矢量代数">矢量代数</h3>
+<h3 id="牛顿定律的矢量表示法">牛顿定律的矢量表示法</h3>
+<h3 id="矢量的标积">矢量的标积</h3>
+<p><br /><span class="math display"><strong>a</strong> <strong>⋅</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|cos <em>θ</em></span><br /></p>
+<p><a href="https://zh.wikipedia.org/wiki/叉积">矢量叉积</a></p>
+<p><a href="https://blog.csdn.net/dcrmg/article/details/52416832">向量点乘（内积）和叉乘（外积、向量积）概念及几何意义解读</a></p>
+<p><a href="https://blog.csdn.net/u012419410/article/details/41897439">叉积 的 推导，以及证明叉积的几何意义</a> <br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span><br /> 叉乘几何意义的推导：</p>
+<p>对于三维空间中任意维数的两个向量 <strong>a,b</strong>，都能在这两个向量所共的平面内，让 <strong>a</strong> 在 x 轴建立坐标系，有： <br /><span class="math display"><strong>a</strong> = (<em>x</em><sub>1</sub>, 0, 0), <strong>b</strong> = (<em>x</em><sub>2</sub>, <em>y</em><sub>2</sub>, 0)</span><br /></p>
+<p><br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = <em>x</em><sub>1</sub><em>y</em><sub>2</sub><strong>k</strong></span><br /></p>
+<p><br /><span class="math display">|<strong>a</strong> <strong>×</strong> <strong>b</strong>|<sup>2</sup> = <em>x</em><sub>1</sub><sup>2</sup><em>y</em><sub>2</sub><sup>2</sup></span><br /></p>
+<p><br /><span class="math display"><strong>|</strong><strong>a</strong><strong>|</strong><sup><strong>2</strong></sup><strong>|</strong><strong>b</strong><strong>|</strong><sup><strong>2</strong></sup> = <em>x</em><sub>1</sub><sup>2</sup>(<em>x</em><sub>2</sub><sup>2</sup> + <em>y</em><sub>2</sub><sup>2</sup>)</span><br /></p>
+<p><br /><span class="math display">$$
+\sin^2\theta=1-\cos^2\theta=1-(\frac{\mathbf{a\cdot b}}{\mathbf{|a||b|}})^2=1-\frac{x_1^2x_2^2}{x_1^2(x_2^2+y_2^2)}
+$$</span><br /></p>
+<p>于是 <br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span><br /></p>
+<h2 id="第12章-力的特性">第12章 力的特性</h2>
+<h3 id="什么是力-1">什么是力</h3>
+<p>力的最重要的特征之一就是它具有物质的起源，</p>
+<p>如果你坚持要获得力的精确定义，你将永远得不到它。因为首先，牛二是不精确的，其次要理解物理定律，就必须懂得所有这些物理定律都是某种近似。</p>
+<p>窍门在于使之理想化。</p>
+<p>要是我们有一个论述真实世界的体系，那么这种体系，至少对目前来说，必定包含着某些近似。</p>
+<h3 id="摩擦">摩擦</h3>
+<p>作用在飞机上的阻力近似： F ~ cv^2</p>
+<p>这是由风洞试验大致得出的经验公式</p>
+<p>对于系数 c 如何依赖于飞机前缘形状的研究进展不尽如人意，根据飞机形状来决定系数的简单定律是不存在的。</p>
+<p>固体表面间的摩擦力： F = mu N, N 为法向力，mu 为摩擦系数</p>
+<h3 id="分子力">分子力</h3>
+<p>分子力/即原子间的力是摩擦的根本起因。分子力在距离大时吸引，距离小时排斥。</p>
+<p>正、负电荷中心不重合的分子称为极性分子，电荷与电荷中心间距离的乘积称为电耦极距。</p>
+<p>非极性分子是电荷中心重合的分子。对于所有非极性分子，在较大距离上的作用力仍然是引力，而且与距离的 7 次方成反比 F = k/r^7, k 是一个取决于分子的常数。</p>
+<p><img src="http://www.crickcollege.com/uploads/allimg/161011/1_1008534941.jpg" /></p>
+<p>当形变较小时，力与位移成正比。—— 胡克定律/弹性定律</p>
+<p><a href="https://www.zhihu.com/question/38966526">为什么分子间作用力和距离的七次方成反比？</a></p>
+<p><a href="http://www.crickcollege.com/news/146.html">别靠我太近，也别离太远–论范德华力的浪子本色</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/電磁力">Wiki 电磁力</a></p>
+<h2 id="第13章-功与势能上">第13章 功与势能(上)</h2>
+<h3 id="落体的能量">落体的能量</h3>
+<p>能量守恒与牛顿定律想符合——牛二可以推导出能量守恒</p>
+<p>设 T 为动能， <br /><span class="math display">$$
+\frac{dT}{dt}=m\frac{d\mathbf{v}}{dt}\cdot\mathbf{v}=\mathbf{F\cdot v}=\mathbf{F\cdot }\frac{d\mathbf{s}}{dt}
+$$</span><br /> Fv 称为功率——</p>
+<p>一个物体动能的变化率等于作用于该物体的力所消耗的功率</p>
+<p>动能的改变量等于作用于物体的力所做的功。</p>
+<h3 id="万有引力所作的功">万有引力所作的功</h3>
+<p>引力场中，环绕任何封闭路径运行一周所作的功是零。</p>
+<h3 id="能量的求和">能量的求和</h3>
+<h3 id="巨大物体的引力场">巨大物体的引力场</h3>
+<p>无限大物质薄片作用于一个物体上的万有引力 —— 与物体距离薄片的距离无关 —— 无限大带电薄板对平板外一个电荷的电场力 —— 两块带相反电荷的薄板的讨论</p>
+<p>地球对其表面或外面一点所产生的力，就像地球质量全部集中在地心时所产生的力一样</p>
+<p>不论物体在球内什么地方，其势能都相同，因此不存在作用力。（<strong>没跟上费曼这里的思路</strong>）</p>
+<p><a href="https://wenku.baidu.com/view/e4519371915f804d2b16c1e8.html">均匀球体对质点的万有引力的计算及应用</a></p>
+<p><a href="https://zybang.com/question/8012998161df8b5433803b6f793176be.html">一个均匀球壳,对球壳内物质的万有引力为零</a></p>
+<p>球壳单位面积的质量密度为σ=M/4πR^2</p>
+<p>对于壳内任意一点,做锥角极小的对顶圆锥,分别截球面面积为S1和S2,且该点到两球面的距离为r1和r2；可得S1正比于r1<sup>2,S2正比于r2</sup>2.</p>
+<p>下面我证明,两球面产生的万有引力相互抵消.F1=GmσS1/r1<sup>2=kσGm;F2=GmσS2/r2</sup>2=kσGm(S1正比于r1<sup>2,S2正比于r2</sup>2,设比例系数为常数k).可得F1和F2大小相等,方向相反.过该点做一系列的这些对顶小圆锥最终覆盖球面,所有的都是相互抵消.</p>
+<p>故球壳内部万有引力为0.</p>
+<p>球壳内的引力为0.所以势能等于球壳表面引力势能,相当于将质量集中在球心处时半径R处的势能,以无穷远处势能为0,则为-GMm/R</p>
+<p><img src="http://f.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=d3a782bc3a87e9504242fb6a20087f7b/1e30e924b899a90129afd6491d950a7b0208f533.jpg" /></p>
+<p><a href="https://www.zhihu.com/question/34637215">试证明：质量分布均匀的球壳对壳内物体的万有引力为零？</a></p>
+<h2 id="第14章-功与势能下">第14章 功与势能（下）</h2>
+<h3 id="功">功</h3>
+<h2 id="第15章">第15章</h2>
 </body>
 </html>
