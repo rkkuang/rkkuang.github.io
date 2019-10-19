@@ -153,7 +153,37 @@ SKA1 阶段的 13 个优先科学目标，优先级靠前的包括利用中性�
 
 ## 21 厘米辐射观测与宇宙学研究 陈学雷
 
+#### 关键问题
 
+对不同红移的 21 厘米辐射的观测可以揭示宇宙不同时期的氢原子的分布，通过这些观测，可以勾绘出宇宙中第一代恒星和星系形成及气体再电离的复杂过程，揭示其中各种天体物理效应，并能精确测量宇宙大尺度结构的分布，从而为解决暗能量、暗物质、宇宙起源等宇宙学中的重大问题提供重要的信息和线索。
+
+在大爆炸以后到第一代恒星和类星体形成之前，宇宙处于”黑暗时期“ (dark age)，恒星和星系尚未形成，这时宇宙中的气体处在未电离的状态。21厘米辐射观测是观测宇宙黑暗时期的仅有的少数几种方法中最重要的一种。
+
+[什么是宇宙黑暗时代（Dark Ages）？](https://www.zhihu.com/question/268034997) (里面交大[张鹏杰]老师的[回答](https://link.zhihu.com/?target=http%3A//www.kexuemag.cn/Article/showinfo.asp%3Finfoid%3D1507)挺好)
+
+通过观测 21cm 辐射的信号，天文学家们可以了解寒冷的宇宙'黑暗时代”，以及之后的宇宙再电离过程。近日美国亚利桑那州立大学的 Judd Bowman 和麻省理工的 Alan Rogers 等人合作首次探测到了宇宙早期的 21 厘米氢原子辐射信号，相关论文 [28 February 2018 - http://nature.com/articles/doi:10.1038/nature25791](https://link.zhihu.com/?target=http%3A//nature.com/articles/doi%3A10.1038/nature25791) 发表在最新一期的《自然》（Nature）上。
+
+[探索黑暗时代和宇宙黎明, 中科院之声 - 2018-03-16](https://zhuanlan.zhihu.com/p/34607258)
+
+[宇宙的黑暗时期 - 2009 - 科学网 - 陈学雷](http://blog.sciencenet.cn/home.php?mod=space&uid=3061&do=blog&id=272644)
+
+[光线如何从宇宙黑暗时代逃逸：黑洞让宇宙变光明 - 2017](https://www.jianshu.com/p/2d35ca75eecd)
+
+[照亮宇宙的第一缕光从何而来 - 2017](http://www.xinhuanet.com/world/2017-07/16/c_129656390.htm)
+
+[从宇宙的黑暗部分到太阳系天体，如何通过X射线获取关键信息？](https://new.qq.com/omn/20190826/20190826A03AYC00.html)
+
+[Wikiwand 宇宙年表]([https://www.wikiwand.com/zh-sg/%E5%AE%87%E5%AE%99%E5%B9%B4%E8%A1%A8#](https://www.wikiwand.com/zh-sg/宇宙年表#))
+
+[Revealing the Universe’s Mysterious Dark Age](https://www.pbs.org/wgbh/nova/article/cosmic-dark-age/), methods: 1. optical band, Hubble Space Telescope/ James Webb ... --> galaxies—large populations of small galaxies, in particular—did seem to have enough ultraviolet light to ionize the universe; 2. 21 cm line
+
+[CfA - The Dark Ages of the Universe -- Astronomers are trying to fill in the blank pages in our photo album of the infant universe - By Abraham Loeb](https://www.cfa.harvard.edu/~loeb/sciam.pdf)
+
+[Arxiv /Science 2003 - The Dark Age of the Universe - Jordi Miralda-Escude](https://arxiv.org/pdf/astro-ph/0307396.pdf)
+
+[Dark Ages Radio Explorer](https://www.colorado.edu/dark-ages-radio-explorer/)
+
+第一代恒星、星系和类星体在黑暗时期末期开始形成，此后恒星和类星体发出的光导致宇宙再电离 reionization ，黑暗时期至此结束。
 
 
 
