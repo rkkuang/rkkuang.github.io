@@ -26,6 +26,7 @@
 - [Tools of Radio Astronomy](../booknotes/Tools4Radio_Astronomy.pdf)
 - [Synthetic Aperture Radar Basis and Its Applications](../booknotes/SyntheticApertureRadarBasis_ItsApplications.pdf)
 - [射电天文的干涉测量与合成孔径(Interferometer and Synthesis in Radio Astronomy II)]()
+- [中国平方公里阵科学目标 2017.08](../local_files/China_SKA_scigoals.html)
 
 ## Course of Theoretical Physics(LANDAU)
 
