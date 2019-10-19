@@ -1,4 +1,4 @@
-% Reading notes
+% Collections
 
 [Home page](https://rkkuang.github.io/)
 

@@ -10,3 +10,4 @@
 - 2019.10.10 Reverberation mapping of AGNs: roles in the interferometer era, [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/496/-/reverberation-mapping-of-agns-roles-in-the-interferometer-era), [my_note](191010.txt) 
 
 - 2019.10.17 Revealing the nature of dark matter in the Local Group, [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/500/-/revealing-the-nature-of-dark-matter-in-the-local-group), [my note](191017.txt)
+
