@@ -5,6 +5,8 @@
 
 pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o index.html RenkunKuang_index.md
 
+pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o research/research.html research/research.md
+
 pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o notes/index.html notes/index.md
 pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o notes/collections.html notes/collections.md
 

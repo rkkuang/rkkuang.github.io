@@ -1,12 +1,12 @@
 % Renkun Kuang
 
-## [bio](https://rkkuang.github.io/bio_me.html), [cv](https://rkkuang.github.io/cv.pdf), [research](https://rkkuang.github.io/research_me.html), [notes](https://rkkuang.github.io/notes)
+[bio](https://rkkuang.github.io/bio.html), [cv](https://rkkuang.github.io/cv.pdf), [research](https://rkkuang.github.io/research/research.html), [notes](https://rkkuang.github.io/notes)
 
 Welcome to my homepage!
 
 I'm currently a PhD student at the [DoA](http://astro.tsinghua.edu.cn/) of [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html).[[bio](https://rkkuang.github.io/bio_me.html)]
 
-I love Aerospace Engineering and Astrophysics, currently I mainly working on implementing an All-Sky Nanosecond-Response Low-frequency Radio Interferometry. [[research](https://rkkuang.github.io/research_me.html)]
+I love Aerospace Engineering and Astrophysics, currently I mainly working on implementing an All-Sky Nanosecond-Response Low-frequency Radio Interferometry. [[research](https://rkkuang.github.io/research/research.html)]
 
 Here I will post my daily study [[notes](https://rkkuang.github.io/notes)] including reading notes, experiences, resources, blogs, thoughts, etc.
 
