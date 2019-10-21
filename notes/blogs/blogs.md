@@ -11,6 +11,7 @@
 - [ICRAR - DR PAUL HANCOCK](https://www.icrar.org/people/phancock/)
 - [Andrew Chael (EHT eht-imaging)](https://achael.github.io/)
 - [Dou Wei](https://dw839566105.github.io/)
+- [Prof. Tegmark's TECHNICAL UNIVERSE](https://space.mit.edu/home/tegmark/technical.html)
 
 ## Radio Astronomy
 
