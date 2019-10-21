@@ -2,7 +2,7 @@
 
 # Projects
 
-## All-Sky Nano-second Response Low Frequency Array
+## All-Sky Nanosecond-Response Low-Frequency Radio Interferometry
 
 
 

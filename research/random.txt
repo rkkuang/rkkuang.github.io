@@ -2,3 +2,33 @@
 
 191020: 射电干涉阵成像工具包，能够对Dirty Map进行重建，现在ehtimaimg 用的是 maximum entropy方法这一种，那么能不能将clean等多种重建方法整合到一个包里面，方便调用，而且提供计算一些反映重建质量的指标参数的接口。这样当有研究者想研究新的重建算法时，结果讨论部分可以调用这个模块去分析TA的数据，比较TA的算法跟之前这些算法的性能。(就像pytorch里可以很方便地比较各种图像分类神经网络，如resnet, alexnet等的效果一样)
 
+191021:
+在用 ocr 记笔记的过程中：
+[ocr output: 守宙, ---> 实际是宇宙，那么能否将神经网络的输出与先验信息”宇宙“很常见而”守宙“不常见结合起来？也就是让预测等于神经网络+贝叶斯（或者别的方法）的加权？---> jointocr]
+Joint prediction by deep learning and bayesian 
+
+Deep learning and bayesian joint chinese simplified optical character recognition
+
+A New Deep Learning-Based Handwritten Character Recognition System on Mobile Computing Devices
+https://link.springer.com/article/10.1007/s11036-019-01243-5
+
+Drawing and Recognizing Chinese Characters
+with Recurrent Neural Network
+https://arxiv.org/pdf/1606.06539.pdf
+
+High performance offline handwritten Chinese character recognition using GoogLeNet and directional feature maps
+https://dl.acm.org/citation.cfm?id=2880863
+
+Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models
+https://dl.acm.org/citation.cfm?id=3051290
+
+Chapter 4: Online Handwritten Chinese Character Recognition: From a Bayesian Approach to Deep Learning
+https://www.worldscientific.com/doi/abs/10.1142/9789813143685_0004
+
+Advances in Chinese Document and Text Processing -- Book
+https://b-ok.cc/book/3399371/7fe405
+
+
+
+
+
