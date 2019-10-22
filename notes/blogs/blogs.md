@@ -29,6 +29,8 @@
 - [物理专业的真的要学那么多东西吗？](https://www.zhihu.com/question/30129574/answer/804900733?), [2nd-answer](https://www.zhihu.com/question/30129574/answer/192231905), [191003-Physics-need-learn-lots](191003-Physics-need-learn-lots.txt)
 - [如何理解麦克斯韦方程中的不对称性](https://zhuanlan.zhihu.com/p/81453538), [电磁场的激发过程](https://zhuanlan.zhihu.com/p/77808968)
 - [中科大最年轻的教授，4次刷新光子纠缠世界记录，却只称量子力学太好玩！](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657461599&idx=1&sn=49e8efbb6df5450bfe8ab8301f128e96&chksm=bdd9b24e8aae3b587417d95f41714b4dbde21ae118742d5cfb0425b26c32f33106f2179ed6d2&mpshare=1&scene=1&srcid=&sharer_sharetime=1569767323619&sharer_shareid=018a77f5729d3c3da89b671a59dbccac#rd)
+- [李郑道](https://books.google.com.hk/books?id=jZzDCQAAQBAJ&pg=PT311&lpg=PT311&dq=主序星内部温度分布&source=bl&ots=mROFrBTYG2&sig=ACfU3U17do6GktbbDYvumdro1HeSssrvfg&hl=en&sa=X&ved=2ahUKEwiEl8rw063lAhUZxosBHVbDCSsQ6AEwBnoECAkQAQ#v=onepage&q=主序星内部温度分布&f=false)
+- [core temperature of the sun](../local_files/sun_core.txt)
 - 
 
 ## Techniques and Tools
