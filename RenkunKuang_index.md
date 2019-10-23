@@ -6,7 +6,10 @@ Welcome to my homepage!
 
 I'm currently a PhD student at the [DoA](http://astro.tsinghua.edu.cn/) of [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html).[[bio](https://rkkuang.github.io/bio_me.html)]
 
-I love Aerospace Engineering and Astrophysics, currently I mainly working on implementing an All-Sky Nanosecond-Response Low-Frequency Radio Interferometry. [[research](https://rkkuang.github.io/research/research.html)]
+I love Aerospace Engineering and Astrophysics, currently I am mainly working on:
+
+1. Implementing an All-Sky Nanosecond-Response Low-Frequency Radio Interferometry. 
+2. Gravitational Lensing and its combination with radio telescopes.[[research](https://rkkuang.github.io/research/research.html)]
 
 Here I will post my daily study [[notes](https://rkkuang.github.io/notes)] including reading notes, experiences, resources, blogs, thoughts, etc.
 

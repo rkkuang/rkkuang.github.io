@@ -6,6 +6,14 @@
 
 ## People
 
+### Cosmology
+
+- [Dr. Wen Zhao](http://staff.ustc.edu.cn/~wzhao7/)
+
+### Particle astrophysics
+
+- [Dr. Xu, Renxin](http://www.phy.pku.edu.cn/~xurenxin/)
+
 ### Radio Astronomy
 
 - [ICRAR - DR PAUL HANCOCK](https://www.icrar.org/people/phancock/)
