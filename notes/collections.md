@@ -61,6 +61,9 @@
 - [U-Arizona Astronomy/Planetary Sciences Course](http://ircamera.as.arizona.edu/Astr_518/)
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Open Source Society University](https://github.com/ossu), [OSSU - CS](https://github.com/ossu/computer-science)
+- [Observational Cosmology](https://home.strw.leidenuniv.nl/~bouwens/obscosmo/)
+- [TUM Lectures](https://wwwmpa.mpa-garching.mpg.de/~gamk/TUM_Lectures/)
+- [Introduction to Cosmology](https://cosmologist.info/teaching/Cosmology/)
 
 ## [Blogs](./blogs/blogs.html)
 

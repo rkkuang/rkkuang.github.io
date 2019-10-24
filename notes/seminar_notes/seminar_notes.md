@@ -11,3 +11,4 @@
 
 - 2019.10.17 Revealing the nature of dark matter in the Local Group, [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/500/-/revealing-the-nature-of-dark-matter-in-the-local-group), [my note](191017.txt)
 
+- 2019.10.24 Testing Gravity on Cosmological Scales, [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/488/-/testing-gravity-on-cosmological-scales), [my_note](191024.txt)
