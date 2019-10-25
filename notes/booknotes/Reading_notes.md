@@ -25,7 +25,7 @@
 - [University Michigan Radio Astronomy Observatory - UMRAO](../booknotes/umrao.pdf)
 - [Tools of Radio Astronomy](../booknotes/Tools4Radio_Astronomy.pdf)
 - [Synthetic Aperture Radar Basis and Its Applications](../booknotes/SyntheticApertureRadarBasis_ItsApplications.pdf)
-- [射电天文的干涉测量与合成孔径(Interferometer and Synthesis in Radio Astronomy II)]()
+- [射电天文的干涉测量与合成孔径(Interferometer and Synthesis in Radio Astronomy II)](../local_files/IntSyninRadioAstro2.html)
 - [中国平方公里阵科学目标 2017.08](../local_files/China_SKA_scigoals.html)
 
 ## Course of Theoretical Physics(LANDAU)

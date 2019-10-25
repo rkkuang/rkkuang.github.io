@@ -64,6 +64,7 @@
 - [Observational Cosmology](https://home.strw.leidenuniv.nl/~bouwens/obscosmo/)
 - [TUM Lectures](https://wwwmpa.mpa-garching.mpg.de/~gamk/TUM_Lectures/)
 - [Introduction to Cosmology](https://cosmologist.info/teaching/Cosmology/)
+- [Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
 
 ## [Blogs](./blogs/blogs.html)
 
