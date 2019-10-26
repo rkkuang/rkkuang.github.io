@@ -1,4 +1,4 @@
-% Accumulate richly and break forth vastly (厚积薄发)
+% Accumulate richly and break forth vastly
 
 [Home page](https://rkkuang.github.io/)
 
