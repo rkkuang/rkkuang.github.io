@@ -50,6 +50,7 @@
 - [Arxivsorter](https://www.arxivsorter.org) or [Arxiv-astroph](https://arxiv.org/list/astro-ph/new)
 - [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
 - [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
+- [THE NET ADVANCE OF PHYSICS](http://web.mit.edu/redingtn/www/netadv/)
 - [MPA - Astrophysics](https://www.mpa-garching.mpg.de/), [Studying at MPA](https://www.mpa-garching.mpg.de/437094/StudyingatMPA)
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - [Stanford-astro](https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/astronomy/)
@@ -83,6 +84,3 @@
 - [TUM Lectures](https://wwwmpa.mpa-garching.mpg.de/~gamk/TUM_Lectures/)
 - [Introduction to Cosmology](https://cosmologist.info/teaching/Cosmology/)
 - [Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
-
-## [Blogs](./blogs/blogs.html)
-

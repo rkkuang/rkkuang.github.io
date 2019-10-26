@@ -1,4 +1,4 @@
-% Reading/Seminar notes
+% Accumulate richly and break forth vastly (厚积薄发)
 
 [Home page](https://rkkuang.github.io/)
 
@@ -8,3 +8,4 @@
 
 # [Collections](collections.html)
 
+# [Blogs](blogs/blogs.html)
