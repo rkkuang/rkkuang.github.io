@@ -4,6 +4,24 @@
 
 [Notes page](https://rkkuang.github.io/notes/)
 
+## There is always someone to learn from
+
+### Cosmology
+
+- [Dr. Wen Zhao](http://staff.ustc.edu.cn/~wzhao7/)
+- [Masamune Oguri - Grav-lensing - glafic](http://www-utap.phys.s.u-tokyo.ac.jp/~oguri/index-e.html)
+
+### Particle astrophysics
+
+- [Dr. Xu, Renxin](http://www.phy.pku.edu.cn/~xurenxin/)
+
+### Radio Astronomy
+
+- [ICRAR - DR PAUL HANCOCK](https://www.icrar.org/people/phancock/)
+- [Andrew Chael (EHT eht-imaging)](https://achael.github.io/)
+- [Dou Wei](https://dw839566105.github.io/)
+- [Prof. Tegmark's TECHNICAL UNIVERSE](https://space.mit.edu/home/tegmark/technical.html)
+
 ## Resources
 
 ### Astronomy and Astrophysics

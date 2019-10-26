@@ -4,23 +4,6 @@
 
 [Notes page](https://rkkuang.github.io/notes/)
 
-## People
-
-### Cosmology
-
-- [Dr. Wen Zhao](http://staff.ustc.edu.cn/~wzhao7/)
-
-### Particle astrophysics
-
-- [Dr. Xu, Renxin](http://www.phy.pku.edu.cn/~xurenxin/)
-
-### Radio Astronomy
-
-- [ICRAR - DR PAUL HANCOCK](https://www.icrar.org/people/phancock/)
-- [Andrew Chael (EHT eht-imaging)](https://achael.github.io/)
-- [Dou Wei](https://dw839566105.github.io/)
-- [Prof. Tegmark's TECHNICAL UNIVERSE](https://space.mit.edu/home/tegmark/technical.html)
-
 ## Radio Astronomy
 
 - [2018 - Imaging Techniques in Radio Astronomy](https://www.iist.ac.in/node/3538), [abstract](local_files/talk_imging_radioastro_2018.txt)
