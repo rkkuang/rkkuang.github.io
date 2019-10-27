@@ -11,6 +11,7 @@
 - [An Introduction to Modern Astrophysics (Carroll & Ostlie)](../booknotes/AnIntro2ModernAstroph.pdf)
 - [天体物理概论 - 向守平](../booknotes/天体物理概论.pdf)
 - [The Astronomy Revolution](../booknotes/TheAstronomyRevolution.pdf)
+- [General Relativity](../local_files/General_Relativity.html)
 - [PHD qualification prepare]()
 
 ## Radio Astronomy

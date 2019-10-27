@@ -22,3 +22,4 @@ pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/Feynman
 pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/cosmos_Carl_Sagan.html $mdnotesorig/cosmos_Carl_Sagan.md
 pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/China_SKA_scigoals.html $mdnotesorig/China_SKA_scigoals.md
 pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/IntSyninRadioAstro2.html $mdnotesorig/IntSyninRadioAstro2.md
+pandoc -f markdown -s --toc -c theme/css/pandoc.css -o notes/local_files/General_Relativity.html $mdnotesorig/General_Relativity.md
