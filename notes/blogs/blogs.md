@@ -59,6 +59,7 @@
 
 - [WikiCFP](http://www.wikicfp.com/cfp/), [Conference Monkey](https://conferencemonkey.org/)
 
-## Interesting
+## Miscellaneous
 
 - [Why do prime numbers make these spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ), [blog](https://math.stackexchange.com/questions/885879/meaning-of-rays-in-polar-plot-of-prime-numbers/885894), [my_code]()
+- [Randomly jot notes](../local_files/randomnote.txt)

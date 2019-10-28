@@ -8,6 +8,8 @@
 
 ### Cosmology
 
+- [Prof. Leonard Susskind & The Theoretical Minimum](http://theoreticalminimum.com/)
+
 - [Dr. Wen Zhao](http://staff.ustc.edu.cn/~wzhao7/)
 - [Masamune Oguri - Grav-lensing - glafic](http://www-utap.phys.s.u-tokyo.ac.jp/~oguri/index-e.html)
 
