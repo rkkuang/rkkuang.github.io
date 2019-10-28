@@ -22,6 +22,10 @@
 - [Dou Wei](https://dw839566105.github.io/)
 - [Prof. Tegmark's TECHNICAL UNIVERSE](https://space.mit.edu/home/tegmark/technical.html)
 
+### Astronomy
+
+- [Bo Zhang](http://bzhang.lamost.org/website/)
+
 ## Resources
 
 ### Astronomy and Astrophysics
@@ -48,6 +52,7 @@
 ### Websites
 
 - [Arxivsorter](https://www.arxivsorter.org) or [Arxiv-astroph](https://arxiv.org/list/astro-ph/new)
+- [The SAO/NASA Astrophysics Data System](http://ads.harvard.edu/)
 - [Nature-astro](https://www.nature.com/subjects/astronomy-and-astrophysics)
 - [Science-astro](https://search.sciencemag.org/?searchTerm=astronomy%20and%20astrophysics&order=newest&limit=textFields&pageSize=10&&)
 - [THE NET ADVANCE OF PHYSICS](http://web.mit.edu/redingtn/www/netadv/)

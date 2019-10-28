@@ -4,7 +4,7 @@
 
 [Notes page](https://rkkuang.github.io/notes/)
 
-## Radio Astronomy
+## Astronomy & Astrophysics
 
 - [2018 - Imaging Techniques in Radio Astronomy](https://www.iist.ac.in/node/3538), [abstract](local_files/talk_imging_radioastro_2018.txt)
 - [MIT - 21 cm Radio Asotrophysics - telescope build report](http://web.mit.edu/8.13/www/JLExperiments/JLExp46.pdf)
@@ -13,6 +13,9 @@
 - [第一张黑洞照片全靠VLBI，这个Github项目教你用Python实现](https://news.hexun.com/2019-04-12/196806016.html), [Github achael/eht-imaging](https://github.com/achael/eht-imaging)
 - [Jupyter Notebooks for Radio Astronomy Research](https://www.youtube.com/watch?v=L5TxeCwNV_4&t=940s), [my note no this tutorial](https://github.com/rkkuang/learning_notes/blob/master/astronomy/Jupyter_Notebooks_for_Radio_Astronomy_Research.txt)
 - [Introduction to Radio Astronomy Data Analysis I - GROWTH Astronomy School 2018](https://www.youtube.com/watch?v=uCPazA_-rmg)
+- [Core List of Astronomy Books](http://ads.harvard.edu/books/clab/)
+- [Duke - Physics 55: Astronomy Courses and Textbooks](http://webhome.phy.duke.edu/~hsg/134/courses-and-textbooks.html)
+- [Links To Astronomy Related Web Pages](http://umich.edu/~lowbrows/links/)
 
 ## Physics
 
