@@ -42,6 +42,7 @@
 - [Debian pakaging tutorial](https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.zh_TW.pdf)
 - [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html), [my_note](191013_assembly.txt)
 - [CS技术提升书](https://github.com/songhuiqing/book)
+- [cool website background](https://www.cnblogs.com/ning-blogs/)
 
 ## Cutting edge technologies
 
@@ -61,5 +62,7 @@
 
 ## Miscellaneous
 
-- [Why do prime numbers make these spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ), [blog](https://math.stackexchange.com/questions/885879/meaning-of-rays-in-polar-plot-of-prime-numbers/885894), [my_code]()
+- [Why do prime numbers make these spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ), [blog](https://math.stackexchange.com/questions/885879/meaning-of-rays-in-polar-plot-of-prime-numbers/885894), [my_code](https://github.com/rkkuang/learning_notes/tree/master/funpython/playwithprime)
 - [Randomly jot notes](../local_files/randomnote.txt)
+- [物理学史上的迈克尔逊-莫雷实验](https://www.jianshu.com/p/66440a5a3680)
+

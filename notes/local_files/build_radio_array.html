@@ -11,12 +11,23 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="theme/css/pandoc.css" />
+  <link rel="stylesheet" href="../../theme/css/pandoc.css" />
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Building Radio Array</h1>
 </header>
+<h4 id="survey">Survey</h4>
+<p>接收机：</p>
+<p>输入频率(1.35-1.45 GHz)</p>
+<p>增益(<span class="math inline"> ≥ 70<em>d</em><em>B</em></span>)</p>
+<p>输出中频信号及其中心频率(70 MHz)</p>
+<p>整体噪声系数(&lt;0.6 dB，等效噪声温度 &lt; 43 K)</p>
+<p>输入、输出阻抗 (50 欧姆)</p>
+<p>工作带宽可调整</p>
+<p>每套天线配备两路LNA和信道设备，将天线送来的左、右旋圆极化信号同时送至数据处理中心；将接收机送来的6路信号同时进行高速A/D转换、并进行存储。</p>
+<p>考虑系统用于天线观测，对系统噪温要求较高，这里拟选用高性能LNA，控制馈线插损，在噪温上能够满足要求，无技术风险。系统G/T值设计分析如下：</p>
+<p>（查无线电接收机）</p>
 <h4 id="references">References</h4>
 <p><strong>Whole System</strong></p>
 <ul>
@@ -27,6 +38,7 @@
 <li><a href="https://forum.hkas.org.hk/forum.php?mod=viewthread&amp;tid=6499&amp;highlight=射電望遠鏡">香港梁振声博士在2012年的时候做过一个算是公众科普项目的小项目，直接利用电视锅的锅和接收器（馈源喇叭，高频头）外接一个数据记录器（data logger）来探测太阳射电辐射和银心射电辐射。</a>, <a href="https://forum.hkas.org.hk/forum.php?mod=viewthread&amp;tid=6604&amp;highlight=射電望遠鏡">Data logger</a>, <a href="http://www.hokoon.edu.hk/weeklysp/1407_4.html">Small Radio Telescope</a></li>
 <li><a href="https://www.haystack.mit.edu/edu/undergrad/srt/index.html">MIT Small Radio Telescope</a>, <a href="https://wikis.mit.edu/confluence/display/SRT/SRT+Wiki+Home">MIT SRT Wiki Home</a></li>
 <li><a href="https://arxiv.org/abs/1601.06161">Paper: A Michelson-type Radio Interferometer for University Education</a></li>
+<li><a href="http://www.rollanet.org/~n0klu/Ham_Radio/(eBook)%20Electronics%20-%20The%20Electrical%20Engineering%20Handbook.pdf">Electrical Engineering Handbook - RollaNet</a></li>
 </ul>
 <p><strong>Receiver</strong></p>
 <ul>

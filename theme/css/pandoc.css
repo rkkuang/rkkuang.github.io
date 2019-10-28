@@ -10,6 +10,9 @@ body {
     font-size: 100%;
     line-height: 140%;
     color: #333; 
+background-image: url("../../bg2.jpg");
+background-repeat:no-repeat;
+background-size:cover;
 }
 pre {
     border: 1px dotted gray;
@@ -22,12 +25,32 @@ code {
 }
 h1 a, h2 a, h3 a, h4 a, h5 a { 
     text-decoration: none;
-    color: #7a5ada; 
+    color: #00FFFF;
+    <!--#7a5ada; https://www.computerhope.com/htmcolor.htm-->
 }
+p, ol, li{
+color: #00FF00; <!--#4EE2EC;-->
+}
+p1{
+display:inline-block;
+text-align: center;
+color: #98AFC7; <!--#4EE2EC;-->
+font-family: "楷体","楷体_GB2312";
+line-height: 200%;
+font-size:300%;
+text-shadow: 0 0 20px #fdec84,
+            10px -10px 30px #ffae35,
+            20px -20px 40px #ec760c,
+            -20px -60px 50px #cd4607,
+            0px -80px 60px #973717,
+            10px -40px 70px #451b0e;
+
+}
+
 h1, h2, h3, h4, h5 { font-family: verdana;
                      font-weight: bold;
                      border-bottom: 1px dotted black;
-                     color: #7a5ada; }
+                     color: #00FFFF; }
 h1 {
         font-size: 130%;
 }
