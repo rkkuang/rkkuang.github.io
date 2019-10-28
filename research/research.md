@@ -4,6 +4,10 @@
 
 ## All-Sky Nanosecond-Response Low-Frequency Radio Interferometry
 
+#### References
+
+- [Building Radio Array](../notes/local_files/build_radio_array.html)
+
 ## Gravitational Lensing
 
 #### References

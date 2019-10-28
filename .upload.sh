@@ -1,5 +1,6 @@
 ./.update_bycp.sh
-./.uphtml.sh
+./.uphtml.sh 2> /dev/null
+#https://www.cnblogs.com/vijayfly/p/6234575.html
 
 git add --all
 git commit -m "update"
