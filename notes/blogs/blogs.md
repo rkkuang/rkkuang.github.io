@@ -16,6 +16,7 @@
 - [Core List of Astronomy Books](http://ads.harvard.edu/books/clab/)
 - [Duke - Physics 55: Astronomy Courses and Textbooks](http://webhome.phy.duke.edu/~hsg/134/courses-and-textbooks.html)
 - [Links To Astronomy Related Web Pages](http://umich.edu/~lowbrows/links/)
+- [袁峰-黑洞时空弯曲的神秘旋涡](https://b23.tv/av73621184), [Gravitation - Kip Thorne](http://gen.lib.rus.ec/book/index.php?md5=4CA0C023B62E7ABC3D2BC1B4825DFAAD), [Topics in Theoretical and Experimental Gravitation Physics](http://gen.lib.rus.ec/book/index.php?md5=4BECE74DD437525F782B653F1F700A32)
 
 ## Physics
 
@@ -34,7 +35,7 @@
 - [Python read fits files](https://blog.csdn.net/kdyyh/article/details/72652110), [other link](https://blog.csdn.net/fupotui7870/article/details/82148620), [Python pyuvdata tutorial](https://pyuvdata.readthedocs.io/en/latest/tutorial.html), 
 - [Radio Astronomy Software Group](https://github.com/RadioAstronomySoftwareGroup)
 - [Astronomy Softwares](http://blog.sciencenet.cn/blog-587102-949176.html)
-- [Latex symbols](https://blog.csdn.net/Ying_Xu/article/details/51240291), [my_note](local_files/latex_notes.txt)
+- [Latex symbols](https://blog.csdn.net/Ying_Xu/article/details/51240291), [my_note](../local_files/latex_notes.txt)
 - [python 12306](https://github.com/testerSunshine/12306)
 - [Universe Sandbox](http://universesandbox.com/)
 - [23 best free CS courses around the world](https://zhuanlan.zhihu.com/p/84599789), [Class Central](https://www.classcentral.com/)
