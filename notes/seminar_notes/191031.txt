@@ -1,0 +1,17 @@
+Time:	 Thursday, October 31, 2019, 04:00pm
+ Title:	 LHAASO Status and First Results
+ Speaker:	 Prof. Zhen Cao (IHEP)
+ Location:	
+理科楼郑裕彤讲堂
+
+ABSTRACT
+
+The Large High Altitude Air Shower Observatory (LHAASO) as the largest ground based Gamma Ray detector array is under construction. The first 1/4 array with the coverage of 1/4 km2 has been put in operation for science. It has an array of 1314 scintillator counters and 304 muon detectors in the array nearby a Water Cherenkov Detector with an active area of 22500 m2. The size of the array is still growing rapidly. By the end of this year, 1/2 of the array will be turned on for scientific operation. The construction of the entire array will be concluded in next year. Finding the galactic Cosmic Ray (CR) origin has been set as the goal of the mega project, by surveying for the gamma ray sources and precisely measuring the gamma ray spectra of them up to 1 PeV. Many related scientific questions can be addressed with the experiment using LHAASO. Preliminary results of the analysis of data taken by the first quarter of array and expectations are presented.
+
+BIO
+Zhen Cao, male, was born at Kunming, China, in September 1962. He graduated from Physics Department of Yunan University in 1982, then he was awarded the Ph. Doctoral degree at the Institute of High Energy Physics(IHEP), Beijing, in 1994.He worked for the Physics Department of University of Oregon as a Research Associate since 1994 and moved to the Physics Department of University of Utah also as a research associate in 1998, then was promoted as a research associate professor since 2003 until he left the position in 2009.In 2004, he was selected as an “outstanding Scientist abroad (as known as “Hundred Talents”)” by Chinese Academy of Science (CAS) and was employed as a professor in the Particle Astrophysics Research Center of IHEP and was qualified to be an advisor of Ph. Doctoral students. Since 2012, he has been the deputy director of the Particle Astrophysics Research Center and the Particle Astrophysics Key Laboratory of CAS. Since 2013, he has been appointed to be the Chief Scientist and director of the project Large High Altitude Air Shower Observatory (LHAASO), one of mega projects for the major national infrastructure building. He was employed as a professor of University of CAS since 2015. He has been elected as the director of “Tianfu Cosmic Ray Research Center” of IHEP since 2019. He devoted himself in cosmic ray physics and gamma ray astronomy since 1994, and has been very active throughout his research career. He participated a couple of major cosmic ray experiments in the world. He has been leading a couple of experiments and playing a central role in proposing and implementation of the experiments. He has established significant achievements in the field with more than 120 scientific articles published in the major journals around the world. The citation of those articles counts about 4900 in total. He was elected to be the standing board member and the deputy secretary general of the High Energy Physics Society of Chinese Physics Society since 2007. Currently, he has been the members of Astroparticle Physics Commission (C4) of International Union of Pure and Applying Physics (IUPAP) and of Astroparticle Physics International Committee (WG10) of IUPAP since 2014.
+
+Host: Prof. Wei Cui
+
+slide
+http://astro.tsinghua.edu.cn/images/jevents/5dba8a675ee0e5.24104908.pdf
