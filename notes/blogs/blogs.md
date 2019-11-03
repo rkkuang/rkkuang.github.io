@@ -17,6 +17,10 @@
 - [Duke - Physics 55: Astronomy Courses and Textbooks](http://webhome.phy.duke.edu/~hsg/134/courses-and-textbooks.html)
 - [Links To Astronomy Related Web Pages](http://umich.edu/~lowbrows/links/)
 - [袁峰-黑洞时空弯曲的神秘旋涡](https://b23.tv/av73621184), [Gravitation - Kip Thorne](http://gen.lib.rus.ec/book/index.php?md5=4CA0C023B62E7ABC3D2BC1B4825DFAAD), [Topics in Theoretical and Experimental Gravitation Physics](http://gen.lib.rus.ec/book/index.php?md5=4BECE74DD437525F782B653F1F700A32)
+- [一些广义相对论的初步常识*****](https://zhuanlan.zhihu.com/p/29868603)
+- [引力弯曲光线的推导](http://www.kepuchina.cn/wiki/science/201904/t20190412_1040282.shtml)
+- [颠覆：时间与空间的统一](https://www.coursera.org/lecture/tianwenxue/dian-fu-shi-jian-yu-kong-jian-de-tong-b3VYh)
+- [relativitycalculator](http://www.relativitycalculator.com/)
 
 ## Physics
 

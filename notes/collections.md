@@ -9,9 +9,10 @@
 ### Cosmology
 
 - [Prof. Leonard Susskind & The Theoretical Minimum](http://theoreticalminimum.com/)
-
 - [Dr. Wen Zhao](http://staff.ustc.edu.cn/~wzhao7/)
 - [Masamune Oguri - Grav-lensing - glafic](http://www-utap.phys.s.u-tokyo.ac.jp/~oguri/index-e.html)
+- [Dr. Matthew R. Becker](https://beckermr.github.io/index.html)
+- [Prof. Sean Carroll](https://www.preposterousuniverse.com/)
 
 ### Particle astrophysics
 
@@ -27,6 +28,7 @@
 ### Astronomy
 
 - [Bo Zhang](http://bzhang.lamost.org/website/)
+- [Prof. Jonathan Pritchard](https://pritchardjr.github.io/)
 
 ## Resources
 

@@ -10,6 +10,10 @@
 
 ## Gravitational Lensing
 
+#### Slides
+
+- [Gravitational Lensing - Renkun Kuang](../notes/local_files/GravLens_RenkunKuang.pdf)
+
 #### References
 
 - [McKean, J. et al., Strong gravitational lensing with the SKA](https://arxiv.org/abs/1502.03362)
