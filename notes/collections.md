@@ -93,3 +93,5 @@
 - [TUM Lectures](https://wwwmpa.mpa-garching.mpg.de/~gamk/TUM_Lectures/)
 - [Introduction to Cosmology](https://cosmologist.info/teaching/Cosmology/)
 - [Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
+- [GFM - Group of Mathematical Physics](http://gfm.cii.fc.ul.pt/), [lecture series](http://gfm.cii.fc.ul.pt/events/lecture_series)
+- [Teaching Homepage of Prof. Vitaly Vanchurin](http://www.d.umn.edu/~vvanchur/)
