@@ -48,6 +48,7 @@
 - [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html), [my_note](191013_assembly.txt)
 - [CS技术提升书](https://github.com/songhuiqing/book)
 - [cool website background](https://www.cnblogs.com/ning-blogs/)
+- [Paper: Zetero](https://www.zotero.org/)
 
 ## Cutting edge technologies
 
