@@ -29,6 +29,7 @@
 
 - [Bo Zhang](http://bzhang.lamost.org/website/)
 - [Prof. Jonathan Pritchard](https://pritchardjr.github.io/)
+- [The Spectrum Of Riemannium](http://www.thespectrumofriemannium.com/)
 
 ## Resources
 
