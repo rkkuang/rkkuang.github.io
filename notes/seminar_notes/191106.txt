@@ -1,0 +1,17 @@
+ Time:	 Wednesday, November 06, 2019, 10:30am
+ Title:	 Probing the Invisible: Weighing Supermassive Black Holes with ALMA (informal talk)
+ Speaker:	 Prof. Martin Gilles Bureau (Univ. of Oxford)
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+I will present key results from the mm-Wave Interferometric Survey of Dark Object Masses (WISDOM), a high resolution survey of molecular gas in galaxy nuclei. First, I will show that CO can be used to easily and accurately measure the masses of the supermassive black holes lurking at galaxy centres. I will then discuss substantial ongoing efforts to do this, and present many spectacular new ALMA measurements, the latest of which rival the best black hole measurements to date. This opens the way to literally hundreds of measurements across the Hubble sequence (in both active and non-active galaxies) with a unique method. I will also briefly show how the same data allow to study the spatially-resolved properties of the giant molecular clouds in nearly all the galaxies studied. This will yield cloud censuses in non-local galaxies (including early-type galaxies) for the first time, providing a new tool to understand and contrast the star formation efficiency across galaxies. Already, it appears that basic cloud properties are not universal and vary systematically along the Hubble sequence, contrary to long-held assumptions.
+
+BIO
+* PhD from the Australian National University, in Canberra, Australia.
+* Postdoctoral fellow at the Sterrewacht Leiden of Universitat Leiden, in the Netherlands.
+* Hubble Fellow at the Columbia Astrophysics Laboratory, Columbia University.
+* Professor of Astrophysics, Department of Astrophysics at the University of Oxford.
+
+Host: Prof. Shude Mao
