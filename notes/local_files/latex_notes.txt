@@ -24,7 +24,23 @@ Sun：
 \langle \rangle --> <>
 
 
+Beamer PPT 分栏
+\begin{columns}[onlytextwidth,T]
+	\begin{column}{.45\linewidth}
+part1
+	\end{column}
+	\begin{column}{.45\linewidth}
+part2
+\end{figure}
+	\end{column}
+\end{columns}
 
+
+Latex中Beamer修改公式字体
+%%math formula font setting, https://www.qingtingip.com/h_295551.html
+%\def\mathfamilydefault{\rmdefault}
+%or
+\usefonttheme[onlymath]{serif}
 
 
 

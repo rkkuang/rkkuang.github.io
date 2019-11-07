@@ -17,7 +17,9 @@ cp ~/THU/astro/notes/射电天文工具/射电天文工具.pdf $dest
 cp ~/THU/astro/notes/ehtim/ehtim.pdf $dest
 
 cp ~/Documents/me/CV/cv1908/cv1908.pdf ~/Documents/rkkuang.github.io/cv.pdf 
-cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/GravLens_RenkunKuang.pdf notes/local_files/ 
+#cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/GravLens_RenkunKuang.pdf notes/local_files/ 
+cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/texppt/gravlens_rkkuang.pdf  notes/local_files/GravLens_RenkunKuang.pdf
+ 
 
 
 
