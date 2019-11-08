@@ -1,0 +1,14 @@
+Time:	 Thursday, November 07, 2019, 02:00pm
+ Title:	 Dust evolution and planetesimal formation inside, outside, and at the snow line
+ Speaker:	 Prof. Satoshi Okuzumi (Tokyo Inst. Tech)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+Planet formation starts with the growth of micron-sized dust grains into kilometer-sized planetesimals. It is widely accepted that dust grains collisionally grow into macroscopic aggregates (the so-called pebbles). However, it is much less well understood how large the pebbles can become and how they are finally converted into planetesimals. The mechanisms responsible for the formation of rocky and icy planetesimals can differ greatly because the stickiness of dust grains is highly material-dependent. Ice sublimation and related processes also affect dust growth and can even facilitate planetesimal formation when combined with the radial transport of the solids in protoplanetary gas disks. All these imply that the radial distribution of planetesimals, and perhaps of planets, could reflect the location of the snow line (ice sublimation front) in the parent protoplanetary disks. In this talk, I will review the current theoretical understanding of how dust inside/outside/at the the snow line can grow and form planetesimals. I will also point out the more fundamental question of where the snow line is in real protoplanetary disks and discuss prospects for future observations of the snow lines.
+
+BIO
+Dr. Satoshi Okuzumi is an Associate Professor in the Department of Earth and Planetary Sciences at Tokyo Institute of Technology, Japan. He is a theoretical astrophysicist working on planet formation and protoplanetary disk evolution. His research is particularly focused on dust evolution, planetesimal formation, and magnetohydrodynamic evolution of protoplanetary disks. He received his PhD from Kyoto University, Japan, in 2010.
+
+Host: Prof. Chris Ormel

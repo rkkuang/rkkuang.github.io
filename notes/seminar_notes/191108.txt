@@ -1,0 +1,100 @@
+Hubble Constant
+2nd:
+CMB --> Hubble constant
+Wang Sen
+How to derive H_0 from CMB
+
+phidutial model -- calibrated in low z
+
+
+
+https://www.physicsforums.com/threads/using-wmap-to-measure-the-hubbles-constant.552885/
+Using WMAP to measure the Hubble's constant
+
+
+https://arxiv.org/abs/1910.09881
+Measuring the Hubble constant from the cooling of the CMB monopole
+
+https://www.quora.com/How-is-Hubble-constant-calculated-from-Cosmic-Microwave-Background-Radiation-measurements
+
+
+
+
+
+Baryon Acoustic Oscillation
+
+scale factor a=1/(1+z), number density of photons
+enerfy density, Stefan-Boltzmann law
+T propto 1/a, propto (1+z)
+--> T of recombination 3000K, --> z~1100
+
+define sound speed, c_s = c/sqrt(3(1+R)), 光子扰动传播的速度
+流体力学
+R = 3\rho_b/4\rho_r
+
+阻尼对波的传播速度有没有影响
+
+
+
+
+
+1st:
+Li Xiao
+Supervisor Prof. Cai Zheng
+
+It set the scale for all cosmological distance and times
+It help to determine other cosmological parameter
+
+Methods:
+Gravitational Lensing
+Type Ia SNe - Standard candle
+and many more
+(a review paper, )
+
+
+history
+
+2001 HST Key project, 10% uncertainty
+2018 Plank collaboration: 67.4 \pm 0.5
+2019 SHOES Project 74 \pm 1.42
+
+Time delay cosmology
+Lens equation
+
+angular diameter distance is related to r, and thus H_0
+D_d, D_s how to compute?
+
+low z:
+cz = H_0 d
+
+high z:
+integrate, H as a function of z
+H(z) = sqrt{\Omega_M(1+z)^3+\Omega_{^}}/H_0  ,for flat univese
+
+6 lens systems now are available (what's the z of lensing galaxies of those 6 systems, low z? )
+	1% -- 40 lenses are needed
+
+
+late-universe measurement
+
+
+Explosion of carbon-oxygen white dwarf
+peak luminosity is related to the shape of the light curve
+
+
+2 methods:
+Stretch method
+Multicolor light curve shapes (MCLS)
+
+sigma-tension
+
+
+hubble tension - observational effect
+examine potential alternatives to the standard ^CDM model
+
+
+
+
+
+
+
