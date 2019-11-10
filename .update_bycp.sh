@@ -21,5 +21,6 @@ cp ~/Documents/me/CV/cv1908/cv1908.pdf ~/Documents/rkkuang.github.io/cv.pdf
 cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/texppt/gravlens_rkkuang.pdf  notes/local_files/GravLens_RenkunKuang.pdf
  
 
+cp /home/anything/THU/astro/projs/radio_microlensing/paper_find_by_myself/multiplane/multiplane_link.txt notes/local_files/
 
 

@@ -1,0 +1,88 @@
+#### References:
+
+
+
+[Multiplane gravitational lensing. I. Morse theory and image](https://aip.scitation.org/doi/10.1063/1.530961)
+
+[Multiplane gravitational lensing. II. Global geometry of caustics](https://aip.scitation.org/doi/citedby/10.1063/1.530962)
+
+[Multiplane gravitational lensing. III. Upper bound on number of](https://phy.duke.edu/multiplane-gravitational-lensing-iii-upper-bound-number-images)
+
+
+
+
+
+[Shude Mao](https://aip.scitation.org/author/Mao%2C+Shude), [Hans J. Witt](https://aip.scitation.org/author/Witt%2C+Hans+J), [Jin H. An](https://aip.scitation.org/author/An%2C+Jin+H). (2014) Three-dimensional microlensing. *Monthly Notices of the Royal Astronomical Society* **437**:2, 1554-1560.
+
+https://arxiv.org/pdf/1310.5486.pdf
+
+Notice also that the second lensing galaxy in this case should in principle be “microlensed” by the
+first galaxy, although in practice, due to the extended size nature of the galaxy, the effect may be small unless there are bright compact sources such as a new supernovae or an active galactic nucleus at the centre of the second galaxy.
+
+Critical lens, caustics, mag and light curves
+
+Also consider second  gravlens (with bright compact centre) lensed by the first lens
+
+
+
+2 point mass on the same plane
+
+On the Minimum Magnification Between Caustic Crossings for Microlensing by Binary and Multiple Stars
+
+http://articles.adsabs.harvard.edu/pdf/1995ApJ...447L.105W
+
+
+
+Investigation of high amplification events in light curves of gravitationally lensed quasars.
+
+https://ui.adsabs.harvard.edu/abs/1990A%26A...236..311W/abstract , http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990A%26A...236..311W&defaultprint=YES&page_ind=0&filetype=.pdf
+
+
+
+
+
+Images for a binary gravitational lens from a single real algebraic equation
+
+https://www.aanda.org/articles/aa/pdf/2002/28/aaee022.pdf , or http://cds.cern.ch/record/560759/files/0206267.pdf
+
+
+
+https://arxiv.org/pdf/astro-ph/9408064.pdf
+
+The complex theory of gravitational lensing: Beltrami equation and cluster lensing
+
+
+
+[Statistics of Gravitational Microlensing Magnification. II. Three-Dimensional Lens Distribution](https://arxiv.org/abs/astro-ph/9608139)
+
+https://arxiv.org/pdf/astro-ph/9608139.pdf
+
+
+
+Astrometric Properties of Gravitational Binary-Microlens Events and Their Applications
+
+https://iopscience.iop.org/article/10.1086/307996/fulltext/40430.text.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRITICAL CURVES AND CAUSTICS OF TRIPLE-LENS MODELS
+
+https://iopscience.iop.org/article/10.1088/0004-637X/806/1/99/meta
+
+
+
+[Perturbation theory of N point-mass gravitational lens systems without
+symmetry: small mass-ratio approximation](https://watermark.silverchair.com/mnras0394-0818.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnIwggJuBgkqhkiG9w0BBwagggJfMIICWwIBADCCAlQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM8-R3fpZ-vKcveQmLAgEQgIICJbFuLl2ng1Wx97f3NyF7rkUMjKFAZHLWeWTGWSqygvaqb-ne_dioFDymqEHvdlCl0HaHShS84Nvd10ikKrPU_JuUNdMCRJmaBlAOLJay7mpy_qhTLjV8GxCe_hWxzmqSdG9QoHWKDv3I4nh1_Lovz111jg0SmowCPQcGNUF3SnqoueVbIGefDWfBdcrngjYVFkQxd-emzl39AmuJLJ3YpbqQgJUMntP4Z7iTl3qS3QkFVM_XWc2xSVrM2pA9uCTAiWsIz5LRLcwWVCdbfei7_DIg06vHFBcJvI1iC6YXoqDF1-rauigYGAoznL3VGiR3J133--HNASlGogpiA54cmvvfkuAcTG7KUCcscuf00ud7SNW28tzGBT1mFH27tV4ZFSy8w1pJPn8VBIF73Fnt8cA-CUkB7MdBf8TxOL3pFxBXNTzyFQTT4CAX4dZB1ykv83AQyO3lkSRntDBLGpeSKXNnLjAAS2PxiAa7xg2zvk4PUFmVydNAuJ30M9oBb4l02jmVtNWg1sgmmFguW_LmnGRbuTI2g-_GCkYbzXVqNzTIvxN3CLy4raAt8JIykKne0n_u7RSXbVV5oDw5DuM9gf_14UPDeI6AC3SmdBdTbsCgY9dKja-zDPxALgcS5ntG7TP-m-B9GXsifcq5T6Go0oowzetx_Et7B0Xc8akoqcPo4HqEEL8r3gr1qlE9Jw8VNNC7BLvMf06i_pRuuOrp9i_ydX_nMA)
+
+
+
