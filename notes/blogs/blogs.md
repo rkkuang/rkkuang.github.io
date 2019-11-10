@@ -71,4 +71,6 @@
 - [Why do prime numbers make these spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ), [blog](https://math.stackexchange.com/questions/885879/meaning-of-rays-in-polar-plot-of-prime-numbers/885894), [my_code](https://github.com/rkkuang/learning_notes/tree/master/funpython/playwithprime)
 - [Randomly jot notes](../local_files/randomnote.txt)
 - [物理学史上的迈克尔逊-莫雷实验](https://www.jianshu.com/p/66440a5a3680)
+- [Website miracles-of-quran](http://www.miracles-of-quran.com/index.htm)
+- [Zhihu topic 射电天文学](https://www.zhihu.com/topic/19775272/)
 

@@ -1,0 +1,33 @@
+MWA Technical Details
+1. Instrument description paper
+Tingay et al. 2013
+https://ui.adsabs.harvard.edu/abs/2013PASA...30....7T/abstract
+
+2. Correlator paper
+Ord et al. 2015
+The Murchison Widefield Array Correlator,
+http://adsabs.harvard.edu/abs/2015PASA...32....6O
+
+3. Digital-receiver paper
+Prabu et al. (2015),
+https://ui.adsabs.harvard.edu/abs/2015ExA....39...73P/abstract
+
+4. Archive paper
+Wu et al. (2013)
+Optimising NGAS for the MWA Archive
+https://ui.adsabs.harvard.edu/abs/2013ExA....36..679W/abstract
+
+5. leakages and beam model
+Sutinjo et al. (2015),
+Understanding instrumental Stokes leakage in Murchison Widefield Array polarimetry,
+https://ui.adsabs.harvard.edu/abs/2015RaSc...50...52S/abstract
+
+6. Wayth et al. Phase II definition paper
+The Phase II Murchison Widefield Array: Design overview,
+https://ui.adsabs.harvard.edu/abs/2018PASA...35...33W/abstract
+
+
+7.other
+7.1. The challenges of low-frequency radio polarimetry: lessons from the Murchison Widefield Array, https://arxiv.org/abs/1708.05799
+7.2. http://www.mwatelescope.org/data/publications,
+or https://ui.adsabs.harvard.edu/public-libraries/LLDgjqnpQdS1fLMFuZ9h1A
