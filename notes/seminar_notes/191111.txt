@@ -1,0 +1,84 @@
+http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/494/-/tba
+
+Time:	 Monday, November 11, 2019, 10:30am
+ Title:	 TBA
+Understanding Cluster Formation and Galaxy Evolution ... ORELSE
+
+The Observations of Redshift Evolution in Large Scale Enviroments Survey
+
+
+ Speaker:	 Prof. Lori Lubin (Univ. of California, Davis)
+
+http://physics.ucdavis.edu/people/faculty/lori-lubin
+Personal Website: http://lubin.physics.ucdavis.edu
+
+
+UC Davis Cosmology Group
+http://physics.ucdavis.edu/research/research-areas/cosmology
+
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+Host: Prof. Shude Mao
+
+
+Spectrospec z
+Photometric z
+
+Shen Lu et al 2017, Radio Galaxies
+	Color-SRL criteria
+
+Shen Lu et al 2019, CGALE
+The starburst AGN connection
+
+VUDS| VIMOS Ultra Deep Survey
+
+https://academic.oup.com/mnras/article/484/2/2433/5289614
+Possible evidence of the radio AGN quenching of neighbouring galaxies at z ∼ 1
+
+https://academic.oup.com/mnras/article/472/1/998/4062206
+The properties of radio galaxies and the effect of environment in large-scale structures at z ∼ 1
+
+Image processing and sources identification using CASA, AIPS and SExtractor.
+applying statistical models in astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Interests:
+Professor Lori Lubin joined the faculty at UCD in 2002. She is an observational cosmologist whose has spent her career detecting and studying the most massive virialized structures in the Universe, clusters of galaxies, across the full wavelength regime from the X-ray to the optical to the infrared. Because of their impact on both galaxy evolution and the global cosmology, clusters of galaxies provide the key environment to constrain cosmological models, as well as to study the physical processes that affect galaxies as they assembly into larger structures.
+
+Her current research program focuses on studying galaxy associations -- from groups, to clusters, to superclusters - in their very early stages of development in order to understand the evolutionary history of galaxies and the formation of structure. With colleagues at UCD, UCSC, UCLA, Caltech, University of Hawaii, and University of Maryland, Lubin is Principal Investigator (PI) of the Observations of Redshift Evolution in Large Scale Environments (ORELSE) Survey, a comprehensive multi-wavelength study of galaxy properties in the large scale structure around 20 distant clusters of galaxies. This survey is the first of its kind to explore the large-scale filamentary structure, on scales of over 100 Megaparsecs, in the high-redshift Universe. It also capitalizes on all of the major observational facilities, including the three Great Observatories (the Hubble Space Telescope, the Spitzer Space Telescope, and the Chandra X-ray Satellite), the largest optical/near-infrared telescopes in the world (the Keck 10-m Observatory), and the premier radio-wave facility (the Very Large Array).
+
+Professor Lubin is also active in other projects including near-infrared spectral studies of high-redshift, active (starburst and active galactic nuclei) galaxies, X-ray and optical properties of moderate-redshift groups, and gravitational lenses and their environments. In addition, she is involved in the planning and preparation for the next generation of observational facilities, including the James Webb Space Telescope (JWST) -- the successor to the Hubble Space Telescope, the Thirty Meter Telescope (TMT) -- a new ground-based facility led by the University of California, and the Large Synoptic Survey Telescope (LSST).
+
+
+=============================================================
+Welcome to the UC Davis Cosmology Group Homepage.
+Observational faculty (Robert Becker, Patricia Boeshaar, Marusa Bradac, Lori Lubin, Christopher Fassnacht, Tony Tyson, Stefano Valenti, Tucker Jones and David Wittman) probe dark matter and dark energy through gravitational lensing, high-redshift quasars and the reionization of the Universe, high-redshift clusters of galaxies and the assembly and evolution of large-scale structures, low-mass stars and brown dwarfs, and wide-area optical and radio surveys. Learn more by going to the Research page.
+
+Theoretical faculty (Andreas Albrecht, Nemanja Kaloper, Lloyd Knox and Andrew Wetzel) study the implications of modern ideas of high energy physics for the early Universe (and vice-versa), dark energy, dark matter, predictions of observable effects, and analysis and interpretation of cosmological data with an emphasis on its implications for fundamental physics, as well as galaxy formation and cosmic structure formation across the history of the Universe.
+

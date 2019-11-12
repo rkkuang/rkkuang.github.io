@@ -15,3 +15,4 @@
 - 2019.11.07 Dust evolution and planetesimal formation inside, outside, and at the snow line, [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/483/-/dust-evolution-and-planetesimal-formation-inside-outside-and-at-the-snow-line)
 - 2019.11.08 THDoA Student Seminar, Hubble Constant, [my_note](191108.txt)
 - 2019.11.11 TBA, Prof. Lori Lubin (Univ. of California, Davis), (Cosmology),  [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/494/-/tba), [my_note](191111.txt)
+- 2019.11.12  Intrinsic alignments of cosmic density and velocity fields as a cosmological probe, Prof. Teppei Okumura (ASIAA), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/493/-/intrinsic-alignments-of-cosmic-density-and-velocity-fields-as-a-cosmological-probe-special-seminar), [my_note](191112.txt)

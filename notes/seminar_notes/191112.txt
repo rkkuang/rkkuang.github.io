@@ -1,0 +1,62 @@
+Time:	 Tuesday, November 12, 2019, 10:30am
+ Title:	 Intrinsic alignments of cosmic density and velocity fields as a cosmological probe (special seminar)
+ Speaker:	 Prof. Teppei Okumura (ASIAA)
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+The kinematic Sunyaev-Zel’dovich effect enables us to directly probe the density-weighted velocity field up to very large cosmic scales. We investigate the effects of intrinsic alignments (IA) of dark-matter halo shapes on cosmic density and velocity fields on such large scales. In literature IA have been detected up to ~100 Mpc/h using the gravitational shear-intrinsic ellipticity (GI) correlation and the alignment correlation function. In this talk we introduce the corresponding various velocity statistics: the (density-weighted) velocity-intrinsic ellipticity (VI) correlation as well as the alignment pairwise infall momentum, momentum correlation function, and density-weighted pairwise velocity dispersion. We derive theoretical expressions for these velocity alignment statistics for the first time based on the assumption that the density fluctuation is a Gaussian random field. Using large-volume, high-resolution N-body simulations, we measure the alignment statistics of density and velocity fields. Behaviors of IA in the velocity statistics are similar to those in the density statistics, except that the halo orientations are aligned with the velocity field up to scales larger than those with the density field, r >> 100 Mpc/h, because of a factor of the wavenumber in the linear relation between the density and velocity fields in Fourier space, v ∝ \delta / k. We show that the detected IA of the velocity field can be well predicted by the linear alignment model. We also demonstrate that the baryon acoustic oscillation (BAO) features can be detected in both the conventional and alignment velocity statistics. Our results indicate that observations of IA with the velocity field on large scales can provide additional information on cosmological models, complementary to those with the density field.
+
+BIO
+Teppei Okumura got his PhD in physics in 2008 at Nagoya University in Japan. He is an expert on observational cosmology, particularly large-scale structures of the universe as a probe of the accelerating universe. After eight years of postdoctoral research at Shanghai Astronomical Observatory in China, Ewha Womans university in Korea, University of California Berkeley in the US, and Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) in Japan, he joined Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) in Taiwan in 2017 as an associate research fellow (associate professor).
+
+Host: Prof. Cheng Li
+
+arxiv 1907.00750
+
+https://arxiv.org/abs/1907.00750
+Intrinsic alignment statistics of density and velocity fields at large scales: Formulation, modeling, and baryon acoustic oscillation features
+
+2019 Peebles
+3 books
+	Large-scale structure of the universe
+	Principles of physical cosmology
+
+Acoustic waves(predicted by Peebles 1970) due to tighty coupled baryon-photon fluid
+first observed on 2000
+
+unresolved issues in observational cosmology
+
+cosmological probes
+
+ongoing and future surveys
+
+SuMIRe = Subaru Measurement of Images and Redshifts
+
+GR+LCDM
+
+Cosmological impact of IA (Intrinsic Alighment)
+
+Combining IA to the clustering analyssis significantly improves cosmological constrains
+
+Kinetic SZ effect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
