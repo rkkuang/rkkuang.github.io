@@ -30,6 +30,7 @@
 - [Bo Zhang](http://bzhang.lamost.org/website/)
 - [Prof. Jonathan Pritchard](https://pritchardjr.github.io/)
 - [The Spectrum Of Riemannium](http://www.thespectrumofriemannium.com/)
+- [CfA Harvard - Astronomer Dr. Jun-Hui Zhao's Home Page](https://www.cfa.harvard.edu/~jzhao/index.html)
 
 ## Resources
 
@@ -45,7 +46,7 @@
 ### Aerospace Engineering
 
 - [SpaceX](https://www.spacex.com/)
-- [NASA](https://www.nasa.gov/)
+- [NASA](https://www.nasa.gov/), [NASA software](http://software.nasa.gov), [related blog](https://mp.weixin.qq.com/s/7Yp2CkkCKBlnTSShCGp5Nw)
 
 ### Books
 

@@ -1,0 +1,45 @@
+Time:	 Wednesday, November 13, 2019, 10:30am
+ Title:	 Space and Ground-based Searching for Earth 2.0s (informal talk)
+ Speaker:	 Prof. Jian Ge (Univ. of Florida)
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+The 2019 Nobel prize in Physics was awarded to Drs. Mayor and Queloz for detection of the first giant planet orbiting a sun-like star, 51 Peg. This has concluded the first phase of mankind’s search for extrasolar worlds. We can now answer that we are NOT the only planet in the universe. There are thousands of known extrasolar worlds out there. All of them show very different characteristics from our own system. The next natural phase of mankind’s search for extrasolar worlds is to look for Earth-like habitable worlds orbiting sun-like stars, called Earth 2.0s, and possible life signatures on them. I will first summarize the current status, including work carried out by my group, in this search, then present a four-year space mission concept, called Super Kepler, to monitor over 200,000 sun-like stars in the original Kepler and its surrounding 1800 square-degree field (17 times the Kepler field) with a seven 30cm telescope array from year 2025 to 2029. The goals are to detect over 10 Earth 2.0s and determine the occurrence rate of Earth 2.0s for the first time. The extremely weak signals produced by these Earth 2.0s creates major challenges not only in detecting them with space high precision photometry missions, but also in characterizing them with ground-based spectroscopy facilities. Our study shows that only future 30-meter class telescopes equipped with a high stable, high precision, and high-resolution optical spectrograph can effectively characterize these elusive planet signals to measure their masses and densities, which can eventually determine their habitability. Specifically, the combination of the Super Kepler space mission with the TMT High Resolution Optical Spectrograph led by China’s team will provide the unique and most powerful next generation facilities to detect Earth 2.0s and help address mankind’s fundamental questions: “Are we alone in the universe?” and “Where did we come from?”.
+
+BIO
+Dr. Jian Ge is a professor of astronomy at University of Florida. He was an assistant professor at Pennsylvania State University in 2000-2004, and a postdoc research fellow at Lawrence Livermore National Lab in 1998-2000. He received his Ph.D in Astronomy at the University of Arizona in 1998 and his BSc at University of Science and Technology of China in 1989.
+
+Dr. Ge is the Principal Investigator of the Dharma Planet Survey and a collaborator of the NASA TESS mission. He was PI for the MARVELS survey of the SDSS-III program in 2008-2014, PI for the TOU, EXPERT, LiJET, and W.M. Keck Exoplanet Tracker optical Doppler instruments and also FIRST near IR Doppler instrument. He led the development of dispersed fixed-delay interferometry for both single and multiple object Doppler spectroscopy and the first silicon grism and large format silicon immersion grating. He also led the development of advanced image slicer integral field optics, and new generation coronagraphic image and pupil masks for NASA Terrestrial Planet Finder (TPF). His team discovered five new planets (including planet Vulcan orbiting 40 Eridani), confirmed three transiting planets, 24 brown dwarfs, over 400 new binaries and over 10 low-mass planet candidates. Dr. Ge and his team also discovered about 700 high redshift quasar 2175 Å dust absorbers and molecular hydrogen in four high-redshift damped Lyman alpha quasar absorbers, and measured high redshift Cosmic Microwave Background Radiation temperatures. He has published over 300 refereed journal and technical papers and abstracts, and was awarded with three US patents.
+
+Idea rather than facility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
