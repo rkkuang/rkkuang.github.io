@@ -14,6 +14,10 @@
 
 ## Gravitational Lensing
 
+#### Related Theories/Algorithms
+
+- [Inverse ray shooting for caustics]()
+
 #### Slides
 
 - [Gravitational Lensing - Renkun Kuang](../notes/local_files/GravLens_RenkunKuang.pdf)
