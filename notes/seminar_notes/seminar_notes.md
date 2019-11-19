@@ -18,3 +18,6 @@
 - 2019.11.12  Intrinsic alignments of cosmic density and velocity fields as a cosmological probe, Prof. Teppei Okumura (ASIAA), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/493/-/intrinsic-alignments-of-cosmic-density-and-velocity-fields-as-a-cosmological-probe-special-seminar), [my_note](191112.txt)
 - 2019.11.13 Space and Ground-based Searching for Earth 2.0s ,Prof. Jian Ge (Univ. of Florida), [THDoA](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/519/-/space-and-ground-based-searching-for-earth-2-0s-informal-talk), [my_note](191113.txt)
 - 2019.11.14 What the Juno mission tells us about the origin of giant planets, Prof. Jonathan I. Lunine (Cornell Univ.), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/416/-/what-the-juno-mission-tells-us-about-the-origin-of-giant-planets), [my_note](191114.txt)
+- 2019.11.18 Automated Analysis of Astronomical Data with Machine Learning, Dr. Nan Li [note](191118.txt)
+- 2019.11.19 Cast Light on the Massive Galaxies via their Dark Side, Dr. Song Huang (Princeton Univ.) [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/505/-/cast-light-on-the-massive-galaxies-via-their-dark-side-special-seminar)
+

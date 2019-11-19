@@ -1,0 +1,25 @@
+
+ Time:	 Tuesday, November 19, 2019, 10:30am
+ Title:	 Cast Light on the Massive Galaxies via their Dark Side (special seminar)
+ Speaker:	 Dr. Song Huang (Princeton Univ.)
+
+黃崧 - zhihu
+github: dr-guangtou
+
+
+
+
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+Massive galaxies have experienced complex hierarchical assembly and dramatic evolution along with the massive dark matter halos that host them. They possess unique roles in the quest for cosmology and galaxy evolution. With the help from the fantastic Subaru Hyper Suprime-Cam (HSC) images, I will show: 1) The faintest outskirt of massive galaxies encode valuable insights into their assembly history. 2) The direct characterization of their dark matter halos enabled by the galaxy-galaxy lensing method vastly improves our understanding of the galaxy-halo connection. I will demonstrate through a phenomenological model that we can constrain the so-called two-phase assembly of massive galaxies using the above observations. And I will compare these observations and our model with the state-of-the-art hydrodynamic simulations and highlight a few critical challenges. I will also discuss the implications of these new observations on 1) improving our capability to locate an unbiased sample of massive halos and 2) investigating the impact of the baryonic effect on the galaxy-halo connection model and cosmology.
+
+BIO
+Song Huang received his Ph.D from Nanjing University at 2014. He was a post-doc researcher at Kavli-IPMU for two and half years working with the Subaru Hyper Suprime-Cam (HSC) survey team. From 2017 to 2019, he worked at the University of California Santa Cruz with Prof. Alexie Leauthaud as a post-doc research. Now, Song Huang just started at Princeton University as research assistant to continue to work on science related to HSC survey. Song Huang’s main scientific interests involves the formation and evolution of the most and least massive galaxies in the universe. Right now, he is pushing to combine deep photometry and weak lensing capability to advance our understanding of galaxy-halo connection.
+
+Host: Prof. Dandan Xu
+
+
+galaxy color hard to simulate/reproduce

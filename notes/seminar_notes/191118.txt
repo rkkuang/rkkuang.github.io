@@ -1,0 +1,29 @@
+Talk title: Automated analysis ...
+
+Dr. Nan Li
+http://linan7788626.github.io/
+
+http://linan7788626.github.io/pages/Hoopla/index.html
+
+http://linan7788626.github.io/pdfs/lcv.pdf
+A lot of techniques to learn from Dr. Li Nan
+
+rbgirshick/py-faster-rcnn
+
+
+detecting
+predicting
+fitting
+modelling
+
+CSST - telescope, 2m, TianGong, --> Weak lensing, Strong grav lensing(multi wavelength), 
+
+
+An End2End pipeline for the analysis of GGSLs
+Madireddy, Li er al. 2019
+
+Avestruz, Li et al. 2019 & Lanusse, Ma, Li et al, 2017
+
+plasticc astronomical classification
+and paper -- data, random forest
+

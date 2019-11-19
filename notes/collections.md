@@ -17,6 +17,7 @@
 ### Particle astrophysics
 
 - [Dr. Xu, Renxin](http://www.phy.pku.edu.cn/~xurenxin/)
+- [Prof. Xu Benda](http://hep.tsinghua.edu.cn/~orv/)
 
 ### Radio Astronomy
 

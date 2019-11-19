@@ -1,0 +1,28 @@
+dependencies:
+
+sudo apt install gettext intltool gconf2 gir1.2-gconf-2.0 python3-gi-cairo python3-distutils python3-dbus python3-xdg
+# and for documentation
+sudo apt install gnome-doc-utils yelp
+
+
+downloading pakage from https://github.com/projecthamster/hamster/releases
+
+then extract, cd into hamster-version directory
+
+then:
+Building and installing
+./waf configure build
+# thanks to the parentheses the umask of your shell will not be changed
+( umask 0022 && sudo ./waf install; )
+
+************* or use following:
+./waf configure build --prefix=/usr && sudo ./waf install
+sudo rm -rf /usr/lib/python3.X/site-packages/hamster
+sudo cp -r /usr/lib/python2.7/site-packages/hamster /usr/lib/python3.X/site-packages/
+
+python3.X is the version you currently use, check with python3 --version
+
+then use command: hamster, to start to use it
+
+or use synapses to search for "time tracker"
+and add it to the autostart list in tweaks

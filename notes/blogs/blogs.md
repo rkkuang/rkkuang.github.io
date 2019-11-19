@@ -50,6 +50,7 @@
 - [CS技术提升书](https://github.com/songhuiqing/book)
 - [cool website background](https://www.cnblogs.com/ning-blogs/)
 - [Paper: Zetero](https://www.zotero.org/)
+- [Time managing, Hamster](https://github.com/projecthamster/hamster), [installing notes](../local_files/hamster_install)
 
 ## Cutting edge technologies
 
