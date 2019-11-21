@@ -20,4 +20,5 @@
 - 2019.11.14 What the Juno mission tells us about the origin of giant planets, Prof. Jonathan I. Lunine (Cornell Univ.), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/416/-/what-the-juno-mission-tells-us-about-the-origin-of-giant-planets), [my_note](191114.txt)
 - 2019.11.18 Automated Analysis of Astronomical Data with Machine Learning, Dr. Nan Li [note](191118.txt)
 - 2019.11.19 Cast Light on the Massive Galaxies via their Dark Side, Dr. Song Huang (Princeton Univ.) [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/505/-/cast-light-on-the-massive-galaxies-via-their-dark-side-special-seminar)
-
+- [2019.11.20] An X-ray Spectral View of the Innermost Regions of Violent Black Hole Accretion, Dr. Jiachen Jiang (DoA, Tsinghua), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/518/-/an-x-ray-spectral-view-of-the-innermost-regions-of-violent-black-hole-accretion-informal-talk), 
+- 2019.11.21 The Origin of Life from a planetary perspective, Dr. Eric Smith (Tokyo Inst. Tech.& Georgia Inst. Tech), 

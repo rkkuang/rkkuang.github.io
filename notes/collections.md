@@ -32,6 +32,7 @@
 - [Prof. Jonathan Pritchard](https://pritchardjr.github.io/)
 - [The Spectrum Of Riemannium](http://www.thespectrumofriemannium.com/)
 - [CfA Harvard - Astronomer Dr. Jun-Hui Zhao's Home Page](https://www.cfa.harvard.edu/~jzhao/index.html)
+- [Cambridge - THDoA Dr. Jiachen Jiang](https://jianghello.jimdo.com/), [Cambridge](https://www.ast.cam.ac.uk/people/jiachen.jiang)
 
 ## Resources
 

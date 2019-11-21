@@ -1,0 +1,17 @@
+Time:	 Wednesday, November 20, 2019, 10:30am
+ Title:	 An X-ray Spectral View of the Innermost Regions of Violent Black Hole Accretion (informal talk)
+ Speaker:	 Dr. Jiachen Jiang (DoA, Tsinghua)
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+I will briefly introduce an X-ray view of the black hole accretion process, and show the similarity between the solar-mass black holes in X-ray binaries and the supermassive black holes in active galactic nuclei. The X-ray emission from the innermost regions of black hole accretion shows violent variability, which is related to a highly variable compact coronal region in the centre. The reprocessing spectrum from the accretion disc (“reflection” spectrum) changes accordingly. The narrow-line Seyfert 1 galaxy IRAS 13224-3809 will be given as an example as its X-ray emission shows fast flux peaks on a time scale of kiloseconds, registering at about 100 times the minimum flux seen during the 1.5 Ms XMM-Newton and NuSTAR legacy campaign.
+
+Host: Prof. Dandan Xu
+
+https://www.ast.cam.ac.uk/people/jiachen.jiang
+
+https://www.researchgate.net/scientific-contributions/2050213623_Jiachen_Jiang
+
+
