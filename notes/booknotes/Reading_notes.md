@@ -49,7 +49,8 @@
 ### Physics
 
 - [The Future of Humanity - Michio Kaku, 人类的未来 - 加来·道雄](./dedao/thefuture_humanity.html)
-- [给忙碌者的天体物理学](./dedao/AstrophysicsforPeopleinaHurry.txt)
+- [Astrophysics for People in a Hurry](./dedao/AstrophysicsforPeopleinaHurry.txt)
+- [The Order of Time](./dedao/TheOrderofTime.txt)
 
 ### Economics and Management
 
