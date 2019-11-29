@@ -21,6 +21,8 @@
 - [引力弯曲光线的推导](http://www.kepuchina.cn/wiki/science/201904/t20190412_1040282.shtml)
 - [颠覆：时间与空间的统一](https://www.coursera.org/lecture/tianwenxue/dian-fu-shi-jian-yu-kong-jian-de-tong-b3VYh)
 - [relativitycalculator](http://www.relativitycalculator.com/)
+- [entropy of the universe], [What Was The Entropy Of The Universe At The Big Bang?](https://medium.com/starts-with-a-bang/ask-ethan-what-was-the-entropy-of-the-universe-at-the-big-bang-45ce2622ecb7)
+- [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/), *An MIT physicist has proposed the provocative idea that life exists because the law of increasing entropy drives matter to acquire lifelike physical properties.*
 
 ## Physics
 
