@@ -1,0 +1,22 @@
+references:
+
+Searching for Exoplanets with Low-Frequency Radio
+https://physics.unh.edu/events/colloquium/searching-exoplanets-low-frequency-radio
+
+Searching for exoplanets using a microresonator astrocomb
+https://www.nature.com/articles/s41566-018-0312-3
+
+Searching for low-frequency emission from star-exoplanet interactions
+http://www.astro-th.phys.nagoya-u.ac.jp/SALF2018/talk_files/CLynch_inv.pdf
+
+The search for radio emission from exoplanets using LOFAR low-frequency beam-formed observations: Data pipeline and preliminary results for the 55 Cnc system
+https://ui.adsabs.harvard.edu/abs/2017pre8.conf..301T/abstract
+
+The search for radio emission from exoplanets using LOFAR low-frequency beam-formed observations: Data pipeline and preliminary results for the 55 Cnc system
+https://arxiv.org/abs/1710.04997
+
+
+
+
+
+
