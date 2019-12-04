@@ -1,0 +1,134 @@
+Time:	 Wednesday, December 04, 2019, 10:30am
+ Title:	 Some new applications of strong lensing systems (informal talk)
+ Speaker:	 Prof. Marek Biesiada (Univ. of Silesia)
+
+National Centre for Nuclear Research, Warsaw, Poland
+
+
+ Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+Following the first observational confirmation of General Relativity in famous expedition led by Eddington, whose centenary was celebrated this year, strong gravitational lensing has emerged as a fruitful theoretical and observational discipline.
+
+By now strong lensing has become a mature research field and brought important results both in extragalactic astronomy (study of galactic structure), dark matter and extrasolar planets searches (microlensing) and cosmology (alternative determination of the Hubble constant). However, the potential in this field is much bigger and not sufficiently explored yet. Moreover, the forthcoming sky surveys like DES and the LSST will provide an unprecedented catalogs of strong lensing systems.
+
+In my talk I will review some recent results on new avenues along which the strong lensing can be developed. First is the cosmological model independent determination of cosmic curvature possible by using strong lensing systems. Second is the possibility to constrain modified gravity theories in the parametrized post-newtonian (PPN) formalism. Third promissing application is connected with recent successful detections of gravitational waves. This opened up a new window on the Universe and in the not so far future we could expect to see some of such signals being lensed. I will also discuss the vision of what the strong lensing of gravitational waves can bring.
+
+Host: Prof. Dandan Xu
+
+
+Kelly et al. 2016, APJL
+supernova 1 yr's time delay
+
+1. Strong Lesing as a new probe of cosmic curvature
+
+
+Plank
+Univ is spacialy flat, inferenced from ...
+
+Formation of the large scale structure induces non-zero curvature at local scales
+
+
+The distance sum rule from strong lensing systems and quasars - test of cosmic curvature and beyond
+2019 MNARS
+
+LSST
+
+Strongly gravitationally lensed type Ia supernovae: Direct test of the FLRW metric, 2019 paper
+
+Simulated LSST Stronly Lensed SNIa
+
+Prediction according the Silent Universe model
+K.Bolejko 2017
+
+Direct ... wave
+Cao Shuo
+Nature paper
+
+
+Parametrized post-Newtonian (PPN) formalism is a very convenient way to study and compare gravity theories beyond GR
+
+Test of Para... With galaxy-scale strong lensing systems
+
+
+
+Science:
+A precise extragalactic test of General Relativity
+Science 360, 1342-1346, 2018
+
+3. Strong lensing of Gravitational Waves
+
+Einstein Telescope
+
+
+How does the earth's rotation affect predictions of Gravitational wave strong lensing rate?
+paper
+
+grav lens of grav waves, a statistical perspective
+paper
+
+Precision cosmology from future ...
+paper
+
+What if LIGO's grav wave detections ...
+paper
+
+arxiv: 1802.05273
+arxiv: 1901.02674
+
+Speed of grav wave...
+paper
+
+Tests of GR with GW150914
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

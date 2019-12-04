@@ -1,0 +1,14 @@
+Time:	 Thursday, December 05, 2019, 02:00pm
+ Title:	 The Cosmic Ray-Dominated Circumgalactic Medium
+ Speaker:	 Dr. Suoqing Ji (Caltech)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+Recent observations suggest that large quantities of cool gas are found in the circumgalactic medium (CGM) of the galaxy halo, with temperatures of a few 10^4 K. In addition, detections of highly-ionized oxygen (O VI) indicate the existence of warm gas at a few 10^5 K around star-forming galaxies. However, the origin and stability of the combined cool, warm and hot multiphase CGM are not fully understood yet. With the FIRE-2 simulations in which cosmic ray physics is incorporated, we have found that Milky Way-mass galaxy halos at low redshifts could potentially be dominated by cosmic ray pressure rather than ordinary thermal gas pressure. This insight fundamentally reshapes our understanding of the physical states of the multiphase CGM, and may help solve long-standing puzzles such as the survival of the ubiquitous cool gas, and the usually under-predicted O VI.
+
+BIO
+Dr. Suoqing Ji is currently a Sherman Fairchild Fellow in theoretical physics at California Institute of Technology. He received his Ph.D. in theoretical physics from University of California Santa Barbara in 2018, M.S. in physics from University of Massachusetts Dartmouth in 2013, and B.S. in applied physics from Anhui Jianzhu University in China in 2011. He is interested in the impact of micro-physical and non-thermal processes, such as magnetohydrodynamics, turbulence, instabilities and cosmic rays, on circumgalactic medium, intracluster medium and Type Ia supernovae. (http://www.tapir.caltech.edu/~suoqing)
+
+Host: Prof. Xuening Bai
