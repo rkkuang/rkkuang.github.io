@@ -23,5 +23,18 @@
 - [2019.11.20] An X-ray Spectral View of the Innermost Regions of Violent Black Hole Accretion, Dr. Jiachen Jiang (DoA, Tsinghua), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/518/-/an-x-ray-spectral-view-of-the-innermost-regions-of-violent-black-hole-accretion-informal-talk), 
 - 2019.11.21 The Origin of Life from a planetary perspective, Dr. Eric Smith (Tokyo Inst. Tech.& Georgia Inst. Tech), [THDoA link]()
 - 2019.11.24-28, the 2019 SKA Meeting in Shanghai. [link and slides](https://indico.skatelescope.org/event/551/overview)
-- 2019.12.04, **Some new applications of strong lensing systems (helpful)**, Prof. Marek Biesiada (Univ. of Silesia), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/523/-/some-new-applications-of-strong-lensing-systems-informal-talk)
+- 2019.12.04, **Some new applications of strong lensing systems**, Prof. Marek Biesiada (Univ. of Silesia), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/523/-/some-new-applications-of-strong-lensing-systems-informal-talk)
+
+
+
 - 2019.12.05, The Cosmic Ray-Dominated Circumgalactic Medium, Dr. Suoqing Ji (Caltech), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/484/-/the-cosmic-ray-dominated-circumgalactic-medium)
+- 2019.12.12 **Consistent Microphysics in Astrophysical Simulations: Why we need it, how we make it, and where we use it**, Dr. Lile Wang (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/514/-/consistent-microphysics-in-astrophysical-simulations-why-we-need-it-how-we-make-it-and-where-we-use-it)
+- 2019.12.13 Demographics and Environment-dependent of Molecular Cloud Properties in Nearby Stat-forming Galaxies, Mr. Jiayi Sun (Ohio State Univ.), [THDoA info](191213.jpg)
+
+
+
+other gravitational lensing talks:
+
+[2017.11.16, Weak lensing or 'KIDS and Cosmology', Prof. Koen Kuijken (Leiden Observatory)](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/248/-/weak-lensing-or-kids-and-cosmology)
+
+[Probing the Cosmos through Gravitational Lensing, Dr. Dandan Xu (HITS), ](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/295/-/probing-the-cosmos-through-gravitational-lensing)

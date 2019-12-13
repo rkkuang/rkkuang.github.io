@@ -1,0 +1,55 @@
+Time:	 Thursday, December 12, 2019, 02:00pm
+ Title:	 Consistent Microphysics in Astrophysical Simulations: Why we need it, how we make it, and where we use it
+ Speaker:	 Dr. Lile Wang (Flatiron Institute)
+ Location:	
+蒙民伟科技南楼S727
+
+
+
+ABSTRACT
+
+Consistent time-dependent modeling of microphysics, especially thermochemistry and radiation-matter interactions, becomes increasingly desired by emerging astrophysical research. In this talk, I will introduce the need for these simulations, and our efforts to implement Microthena, the GPU-accelerated numerical infrastructures for microphysics. Their applications in the research of protoplanetary disks (PPDs) will be discussed. I will emphasize the comprehensive, thermochemistry-coupled dynamics of PPDs, in the modeling of photoevaporative and/or MHD-dominated wind-launching dispersal processes. With these tools, our discoveries in exoplanetary atmospheres will also be presented, including our proposed model of "super-puff" exoplanets. Moreover, our current efforts of conducting cosmological simulations on Microthena are expected to shed light on currently unresolved "sub-grid physics" and hence to prepare for intensity mapping observations of the upcoming decade. These simulations, with their rich details in thermochemical profiles, are promising for future attempts to bridge current theoretical models to observations.
+
+BIO
+Lile Wang is a Flatiron Research Fellow at the Center for Computational Astrophysics in the Flatiron Institute, New York. He received his B.S. in physics from Tsinghua University, before earning his Ph. D. in astrophysics from Princeton University, supervised by Jeremy Goodman. He is primarily interested in GPU-accelerated numerical methods in astrophysics, and applies them to cutting-edge simulations, including protoplanetary disks, exoplanet atmospheres, and galaxy clusters. He also works on bridging the gap between observation and simulation by utilizing those methods consistently.
+
+Host: Prof. Hua Feng
+
+
+chemistry in fluid
+thermodynamics
+magenitism
+
+Microthena: Realtime GPU Thermochemistry
+Wang Lile's Ph.D. Thesis 2018
+
+DDMC algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

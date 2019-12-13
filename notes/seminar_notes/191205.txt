@@ -1,6 +1,10 @@
 Time:	 Thursday, December 05, 2019, 02:00pm
  Title:	 The Cosmic Ray-Dominated Circumgalactic Medium
  Speaker:	 Dr. Suoqing Ji (Caltech)
+
+季索清
+
+
  Location:	
 蒙民伟科技南楼S727
 
@@ -12,3 +16,101 @@ BIO
 Dr. Suoqing Ji is currently a Sherman Fairchild Fellow in theoretical physics at California Institute of Technology. He received his Ph.D. in theoretical physics from University of California Santa Barbara in 2018, M.S. in physics from University of Massachusetts Dartmouth in 2013, and B.S. in applied physics from Anhui Jianzhu University in China in 2011. He is interested in the impact of micro-physical and non-thermal processes, such as magnetohydrodynamics, turbulence, instabilities and cosmic rays, on circumgalactic medium, intracluster medium and Type Ia supernovae. (http://www.tapir.caltech.edu/~suoqing)
 
 Host: Prof. Xuening Bai
+
+
+
+
+
+Simulation on galaxy formation
+
+One big problem in galaxy formation:
+	Galaxy formation is inefficient
+	Soccer match is inefficient
+
+The circumgalactic medium
+
+galaxies are embedded in HUGE gaseous halos
+
+Hydra cluster
+Mammoth
+
+Cool 10^4 K gas is stricking
+
+Possible origins of cool gas
+
+Form in-situ
+
+suppress buoyant oscillations
+
+OVI <-> warm CGM
+O_6
+
+Puzzling:
+	OVI -- only in star forming galaxy
+	flat profile
+	Co-spatial with low ions(cool phase?)
+	short cooling time ~ 10Myr
+
+Goal:
+How to obtain high (>10^{14.5}) O-VI columns?
+	3 attempt:
+		Make a larger halo - inconsistent with cutoff at R_vir
+		Make stronger feedbacks - overheat low ions
+		Make ...
+	Another possible O-VI sourve:
+		turbulent mixing
+
+Cosmic rays could be important
+	CR diffuses out into CGM
+
+CRs make CGM cool
+CGM phase is shifted to the cool end
+
+CR pressure gradient is dominant
+
+Galaxy formation simulations over the next decades
+
+Thermal insatbility 
+
+Hybeid MHD-PIC simulation for cosmic rays, first proposed by Bai+ 2015
+
+
+cosmic from supernova
+from star
+
+10% energy from ... to cosmic rays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
