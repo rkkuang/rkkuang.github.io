@@ -25,11 +25,19 @@
 - 2019.11.24-28, the 2019 SKA Meeting in Shanghai. [link and slides](https://indico.skatelescope.org/event/551/overview)
 - 2019.12.04, **Some new applications of strong lensing systems**, Prof. Marek Biesiada (Univ. of Silesia), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/523/-/some-new-applications-of-strong-lensing-systems-informal-talk)
 
-
-
 - 2019.12.05, The Cosmic Ray-Dominated Circumgalactic Medium, Dr. Suoqing Ji (Caltech), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/484/-/the-cosmic-ray-dominated-circumgalactic-medium)
+
 - 2019.12.12 **Consistent Microphysics in Astrophysical Simulations: Why we need it, how we make it, and where we use it**, Dr. Lile Wang (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/514/-/consistent-microphysics-in-astrophysical-simulations-why-we-need-it-how-we-make-it-and-where-we-use-it)
+
 - 2019.12.13 Demographics and Environment-dependent of Molecular Cloud Properties in Nearby Stat-forming Galaxies, Mr. Jiayi Sun (Ohio State Univ.), [THDoA info](191213.jpg)
+
+- 2019.12.13 Origin of material properties and elementary particles, Prof. Wen Xiao-Gang (MIT)
+
+  Material properties and elementary particles may have the same origin
+
+  
+
+
 
 
 
