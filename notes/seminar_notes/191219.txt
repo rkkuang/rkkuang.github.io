@@ -1,0 +1,183 @@
+And Prof. Mao Yi
+
+https://mp.weixin.qq.com/s/iB0REwTauywrDhAIJW_9gw
+
+理论只有两个诺奖
+Chandra, Peebles
+
+宇宙学之前还有三个诺奖，观测
+
+故事1
+宇宙微波背景辐射的“偶然”发现
+1965 Arno Penzias and Robert Wilson发现无法解释的很微弱的无线电噪音
+
+Dicke, Peebles, Roll & Wilkinson解释为宇宙大爆炸的余晖
+Dicke是Peebles的老板
+
+宇宙微波背景辐射的预言和发现历史
+
+故事2
+宇宙大爆炸
+事实 or 假说 --- 事实
+
+经典证据：
+	哈勃图
+	宇宙微波背景辐射 -- 预言：各向同性，黑体辐射谱， 微小的各向异性
+	大爆炸核合成
+
+大爆炸没有限定是有限还是无限大，只是要高温高压
+
+再复合过程，质子和电子，电离状态；温度>13.6eV 黑体谱---> 1eV, 中性氢稳定存在
+
+last scattering surface, fire wall, 光子能够发出，宇宙38万年
+
+T=2.725K
+
+黑体谱不一定处在热平衡中，处在热平衡一定是黑体谱
+
+COBE 1900 -- WMAP 2000 -- Plank 2010s -- 2018, (把银心band去掉)
+
+2006 Nobel prize --- COBE's PIs, CMB
+
+元素的合成--大爆炸核合成 vs 恒心合成
+
+
+丰度和重子密度的关系
+
+故事3 Peebles
+1935年，84岁现在
+	再复合 -- Recombination 1968
+	大爆炸核合成
+	微波背景辐射的各向异性
+	星系成团性的统计研究 1973
+	冷暗物质，1982，超出粒子物理标准模型的非重子物质
+	宇宙学常数-冷暗物质 宇宙学 ^CDM，冷暗物质占临界密度的20%, 其余80%是什么呢，1998 Ia - 宇宙加速膨胀
+		暗能量-^ 斥力
+暗能量对光的影响？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Time:	 Thursday, December 19, 2019, 02:00pm
+ Title:	 The Hidden Baryons of the Milky Way
+ Speaker:	 Dr. Yong Zheng (UC Berkeley)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+Galaxies are not lonely islands floating in the Universe. They host large gaseous envelopes of baryons, a.k.a., the circum-galactic medium (CGM), that exist far beyond a galaxy’s visible extent. Baryonic inflows from CGM replenish star-forming fuel in galaxies, whereas outflows from galaxies enrich the CGM. In this talk, I will describe the theoretical and observed distribution and flows of baryons in the CGM of our own Milky Way (MW), including how the MW’s disk hides up to half of its CGM from direct observation. I will then describe new techniques to generate synthetic observations of the CGM using the Enzo & FOGGIE cosmological simulations, and show how these can be used to reveal the hidden baryons in the MW’s CGM. Finally, I will briefly highlight the connections between low- and high-redshift CGM studies, including new applications that rely on fast radio bursts (FRBs).
+
+BIO
+I grew up in a beautiful village called Liaoyan (蓼沿) in southern China. I completed my bachelor’s degree in Astronomy in 2012 in Peking University, supervised by Prof. Richard de Grijs and Prof. Xiao-Wei Liu. From 2012 to 2018, I was advised by Prof. Mary Putman and Dr. Joshua Peek to pursue my Ph.D. degree at Columbia University in New York. I recently moved to Berkeley in Fall 2018 and continues my CGM research as a Miller Fellow hosted by Prof. Daniel Weisz. When not stargazing, activities such as climbing, running, yoga, and reading delightfully fill my spare time.
+
+Host: Prof. Zheng Cai
+
+
+Not related to missing baryons
+70%
+
+evapolate -- confine
+
+Spitzer's 2 phase theory
+
+1956 - On a possible intersteller galactic ...
+
+Methods of probing baryons in CGM
+
+1. absorption line of QSOs
+2. emission line measurements
+Ha, Lya
+
+
+Galaxies and Circumgalactic Medium (CGM) Gaseous Halos
+R_vir
+
+CGM - multiphase system, massive baryonic reservoir, 
+
+HI at < 3 kpc
+
+Warm Ionized Medium - Allsky Ha Emission Map
+Free Electrons in WIM, DM, dispersion measure
+
+FOCGIE
+figuring on ..
+
+A worked example: connecting MW's CGM with high-z CGM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
