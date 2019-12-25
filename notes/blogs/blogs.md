@@ -56,6 +56,7 @@
 - [Mathematica, Maple](https://www.xianjichina.com/news/details_87387.html), [pub/software/unix/Mathematica/](http://ftp.usal.es/pub/software/unix/Mathematica/), [tutotial1](https://wenku.baidu.com/view/a86ff44733687e21af45a925.html?sxts=1575439439610), [Tutorial2](https://www.zhihu.com/question/25039966), [install tutorial](https://tiebamma.github.io/InstallTutorial/), [jupyter](https://mathematica.stackexchange.com/questions/198839/how-to-add-a-front-end-to-the-free-wolfram-engine)
 - [TUNA](http://scateu.me/2011/03/01/welcome-tuna.html)
 - [make latex pdf smaller](https://tex.stackexchange.com/questions/18987/how-to-make-the-pdfs-produced-by-pdflatex-smaller), [pdfsizeopt](https://github.com/pts/pdfsizeopt), [If the contents of a ppt are mainly images rather than formulas, then you should not use latex to make ppt, otherwise the compilation time will be too long to accept]
+- [Scientific plots](https://zhuanlan.zhihu.com/p/82772502)
 
 ## Cutting edge technologies
 

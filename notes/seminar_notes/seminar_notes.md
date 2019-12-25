@@ -58,6 +58,8 @@
 
 - 2019.12.19 The Hidden Baryons of the Milky Way, Dr. Yong Zheng (UC Berkeley), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/485/-/the-hidden-baryons-of-the-milky-way)
 
+- [2019.12.24] Where Are the Electromagnetic-wave Counterparts of Stellar-mass Binary Black Hole Mergers? (informal talk), Dr. Shuxu Yi (Radboud Univ.) [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/522/-/where-are-the-electromagnetic-wave-counterparts-of-stellar-mass-binary-black-hole-mergers-informal-talk)
+
 other gravitational lensing talks:
 
 [2017.11.16, Weak lensing or 'KIDS and Cosmology', Prof. Koen Kuijken (Leiden Observatory)](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/248/-/weak-lensing-or-kids-and-cosmology)

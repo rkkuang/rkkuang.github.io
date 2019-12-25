@@ -1,0 +1,57 @@
+Time:	 Tuesday, December 24, 2019, 10:30am
+Title:	 Where Are the Electromagnetic-wave Counterparts of Stellar-mass Binary Black Hole Mergers? (informal talk)
+Speaker:	 Dr. Shuxu Yi (Radboud Univ.)
+Location:	
+蒙民伟科技南楼S621
+
+ABSTRACT
+
+Multimessenger astronomy, combining gravitational-wave (GW) and electromagnetic-wave (EM) observations, has a huge impact on physics, astrophysics, and cosmology. However, the majority of sources detected with currently running ground-based GW observatories are binary black hole (BBH) mergers, which disappointingly were expected to have no EM counterparts. In this Letter, we propose that if a BBH merger happens in a gaseous disk around a supermassive black hole, the merger can be accompanied by a transient radio flare like a fast radio burst (FRB). We argue that the total mass and the effective spin derived from GW detection can be used to distinguish such a source from other channels of BBH mergers. If this prediction is confirmed with future observations, multimessenger astronomy can be greatly improved. The mystery of the origin of FRBs could also be revealed partially.
+
+Host: Prof. Dandan Xu
+
+易疏序
+郑广生
+
+目前
+第三轮引力波探测阶段
+
+中子星黑洞合并 -- 从质量判断， 伴星的质量在中子星范围内
+
+潮汐瓦解 前落入黑洞视界 -- 没有电磁
+
+在真空中合并 -- 没有电磁
+
+在气体环境中合并 -- 可能有
+
+
+双黑洞 -- 边演化边靠近 common encelope；或 ...
+
+最近距离的BBH merge 100Mpc
+
+hardening
+
+射电波段 -- 类似 FRB 的射电信号
+
+有何特征，以找到可能有射电信号的 BBH merge 事例
+
+Yi & Zheng 2019
+
+https://arxiv.org/abs/1811.11146
+Clumpy jets from black hole-massive star binaries as engines of Fast Radio Bursts
+
+
+https://arxiv.org/abs/1904.07527
+Astrophysics > High Energy Astrophysical Phenomena
+Modelling the multi-wavelength emissions from PSR B1259-63/LS 2883: the effects of the stellar disc on shock radiations
+
+
+
+
+
+
+
+
+
+
+
