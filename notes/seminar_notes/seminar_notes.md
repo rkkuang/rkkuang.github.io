@@ -58,7 +58,11 @@
 
 - 2019.12.19 The Hidden Baryons of the Milky Way, Dr. Yong Zheng (UC Berkeley), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/485/-/the-hidden-baryons-of-the-milky-way)
 
-- [2019.12.24] Where Are the Electromagnetic-wave Counterparts of Stellar-mass Binary Black Hole Mergers? (informal talk), Dr. Shuxu Yi (Radboud Univ.) [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/522/-/where-are-the-electromagnetic-wave-counterparts-of-stellar-mass-binary-black-hole-mergers-informal-talk)
+- 2019.12.24 Where Are the Electromagnetic-wave Counterparts of Stellar-mass Binary Black Hole Mergers? (informal talk), Dr. Shuxu Yi (Radboud Univ.) [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/522/-/where-are-the-electromagnetic-wave-counterparts-of-stellar-mass-binary-black-hole-mergers-informal-talk)
+
+- 2019.12.26 大样本黑洞质量分布, Prof. Jifeng Liu (NAOC), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/530/-/)
+
+- 2019.12.27  Toward the intrinsic architecture of planetary systems, Dr. Wei Zhu (Canadian Institute for Theoretical Astrophysics), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/534/-/toward-the-intrinsic-architecture-of-planetary-systems)
 
 other gravitational lensing talks:
 

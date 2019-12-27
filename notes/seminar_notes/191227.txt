@@ -1,0 +1,52 @@
+Time:	 Friday, December 27, 2019, 09:30am
+Title:	 Toward the intrinsic architecture of planetary systems
+Speaker:	 Dr. Wei Zhu (Canadian Institute for Theoretical Astrophysics)
+Location:	
+蒙民伟科技南楼S527
+
+ABSTRACT
+
+Data from the Kepler mission have significantly improved our understanding of the exoplanet population. However, because Kepler only saw planets that transiting planets above certain thresholds, the data can mislead our interpretation if observational biases are not properly taken into account. In my talk, I will address three important limitations of the Kepler Mission and challenge several previously well-accepted results. The implications to theories of planet formation will also be discussed. I will conclude with some future prospects in the exoplanet demographics studies.
+
+BIO
+Ｗei Zhu is currently a senior research associate at the Canadian Institute for Theoretical Astrophysics (CITA) in the University of Toronto. He got his undergraduate degree from Peking University in 2013 and PhD degree from The Ohio State University in 2017. Since then, he has been working at CITA, first as a post-doctoral fellow and now as a senior research associate. His research interests include both theoretical and observational aspects of astrophysics, with a focus on exoplanets and gravitational microlensing.
+
+Host: Prof. Chris Ormel
+
+
+TESS and Gaia(astrometry)
+
+1% --- BH 
+2000 --- 20 isolated BH events
+8 per year -- 5 years = 40 BHs
+candidate --- long time scale, small microlensing 
+lens mass distribution, higher than 3M_sun
+
+design observations, dependes on you
+model TTV, measure 
+
+individual events,
+	statistics, --- microlensing, KMT, 
+	metalisity, --- combine microlensing with other methods
+
+what's your alternaltive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

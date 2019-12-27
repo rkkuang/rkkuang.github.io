@@ -1,0 +1,3 @@
+https://zhuanlan.zhihu.com/p/37121528?
+马尔可夫链蒙特卡罗算法（MCMC）
+
