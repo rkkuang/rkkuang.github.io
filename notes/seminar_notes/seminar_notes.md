@@ -64,6 +64,12 @@
 
 - 2019.12.27  Toward the intrinsic architecture of planetary systems, Dr. Wei Zhu (Canadian Institute for Theoretical Astrophysics), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/534/-/toward-the-intrinsic-architecture-of-planetary-systems)
 
+- 2019.12.30 From One to Many: Exoplanet Science with Precise Radial Velocities, Dr. Xuesong Wang (Carnegie Observatories), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/536/-/from-one-to-many-exoplanet-science-with-precise-radial-velocities)
+
+- 2019.12.30 The Nature and Impact of Supernovae Feedback in Galaxy Formation, Dr. Miao Li (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/540/-/the-nature-and-impact-of-supernovae-feedback-in-galaxy-formation), [notes](191230.txt)
+
+- 2019.12.31 Model the Nonlinear Universe in the era of Large Surveys and Machine Learning, Dr. Yin Li (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/535/-/model-the-nonlinear-universe-in-the-era-of-large-surveys-and-machine-learning )
+
 other gravitational lensing talks:
 
 [2017.11.16, Weak lensing or 'KIDS and Cosmology', Prof. Koen Kuijken (Leiden Observatory)](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/248/-/weak-lensing-or-kids-and-cosmology)

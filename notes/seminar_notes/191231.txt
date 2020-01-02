@@ -1,0 +1,125 @@
+Time:	 Tuesday, December 31, 2019, 10:00am
+ Title:	 Model the Nonlinear Universe in the era of Large Surveys and Machine Learning
+
+李寅
+
+cosmological survey data
+Discover/ Constrain New Physics
+
+Spectroscopic 6.5m proposed by Tsinghua
+
+survey data
+
+formation of large scale structure
+
+Information loss to nonlinear structure formation
+
+Numerical approach: N-body simulation
+	Vlasov-Poisson equation
+Analytic approach: Perturbation theories
+	fails in nonlinear regime
+
+
+isaacchanghau.github.io
+
+Deep learning
+model structure formation
+
+Numerical simulation -  - as label, to train the network
+
+Sensible design: Polyhedral symmetry, 
+ 1 --> 48 different simulation
+
+Model accuracy, pointwise comparasion
+
+powerlaw: fluctulation as a function of scale
+
+Questions:
+prediction performance? --- new simulation with new initial conditions which is not in the training set
+
+test at different cosmology
+
+Sensible design: input linear theory instead of initial condition
+
+Model efficiency: compared with Gadget
+
+map2map: a general NN emulator from field to fields
+
+Future directions & Synergies
+
+Ly alpha forest absorption prediction
+
+Super resolution simulation
+
+Forward Model the nonlinear structure formation
+using machine leanrning
+
+	input: initial condition
+
+Emulator with Quijote Simulation Suite
+
+Galaxy Formation using ML
+	reinforce learning
+	can we trust what ML tells us, or what new physics detail ML can tell
+
+Astrophysics Applications using ML
+	strong lensing finding
+	transit signal detecting
+
+
+Other projects on cosmology
+	
+What your opinion on the best results could get from DL
+
+
+
+Transfer learning, hieracy
+Large scale N body simulation --- Small scale hydrodynamic simulation
+
+favoriate: Cosmology: PFS, DESS
+existing data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Speaker:	 Dr. Yin Li (Flatiron Institute)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+Current and future cosmological surveys are going to map the large-scale structures at finer resolutions in an ever-increasing volume, enabling us to put unprecedented constraints on fundamental physics, and to potentially answer some of the most exciting questions in astrophysics and cosmology. However, structure formation is a highly nonlinear process, posing challenges to an accurate and efficient modeling crucial to an optimal exploitation of the valuable survey datasets.
+
+The two conventional approaches to structure formation are numerical simulation and perturbation theory, with the former being accurate but computationally costly, and the latter being fast but invalid below the nonlinear scale. Machine learning offers a promising third route, given its numerous recent successes at building nonlinear mappings.
+
+Trained with N-body simulations, our deep learning models can predict structure formation with an accuracy much higher than that of the perturbation theory, and an efficiency much greater than that of the training simulation.
+
+I will discuss other applications and ongoing works towards building a complete forward model of the observable Universe.
+
+BIO
+Yin Li is a Flatiron Research Fellow in the Center for Computational Astrophysics and the Center for Computational Mathematics at the Flatiron Institute. Previously, Yin was a joint Postdoctoral Fellow between the Berkeley Center for Cosmological Physics at the University of California-Berkeley and the Kavli Institute for the Physics and Mathematics of the Universe at the University of Tokyo. He obtained his Ph.D. in Physics at the University of Chicago and his B.S. in Physics at Peking University. Yin works on the large-scale structure in cosmology and is recently interested in tackling the cosmological structure formation using machine learning. His recent work has been published on PNAS and selected as one of the "top Phys.org articles of 2019".
+
+Host: Prof. Yi Mao

@@ -1,0 +1,220 @@
+Afternoon
+Time:	 Monday, December 30, 2019, 02:00pm
+ Title:	 The Nature and Impact of Supernovae Feedback in Galaxy Formation
+ Speaker:	 Dr. Miao Li (Flatiron Institute)
+ Location:	
+蒙民伟科技南楼S727
+
+李邈 Li, Miao
+神高驰之邈邈
+
+galaxy formation is not just about gravity
+feedback: bottleneck to understand galaxy formation
+
+SNe feedback: why challenging
+	Observationally:
+		ISM is multiphase, need multi-wavelength obs
+	Theoretically:
+		
+	--- Numerical hydrodynamic simulation is a helpful tool
+
+now: top-down approach
+Dr Li: bottom-up approach
+Outline:
+	1. inside
+		small boxes simuation, kpc patch of galaxy disk
+		quantify SNe-driven outflows: Mass loading, Energy, metal loading
+		Hot outflows carry most energy, much larger specific energy
+			Positive correlation: SNe ...
+		
+		
+	2. outside
+		
+
+	3. SNe Ia feedback in elliptical galaxies
+
+Future:
+1. small scale:
+	synthetic observation of ISM/outflows
+	role of cosmic rays + magnetic field
+2. large scale:
+	CGM studies with physical outflow models, for wide range of halo masses over cosmic time
+
+3. Impact of Type Ia SNe in old systems
+	Galactic bulges
+		Fueling of supermassive black holes
+
+	CGM of early-type galaxies, SDSS, Hubble, HUBS, TMT
+
+ENZO, Athena MHD, Athena, Gadget
+
+
+
+
+
+ABSTRACT
+
+The missing baryon and the missing metals problems are the two major challenges for galaxy formation. Circumgalactic Medium (CGM), where cosmic inflows interact with galactic outflows, bears critical information for solving these problems. Current cosmological simulations can model cosmic inflows but their galactic outflows usually rely on ad hoc sub-grid models. The path forward requires better understanding the feedback physics and using physically-based models in large-scale simulations. In this talk, I will first summarize the recent progress of small-box hydrodynamical simulations focusing on the nature of supernovae (SNe) feedback; particularly, the hot outflows are much more powerful than cool outflows while also appearing very simple. Then, I will introduce our galactic scale simulations, which adopt the outflow models from the small-box simulations. For a Milky Way-mass galaxy, when the star formation surface density is low, hot outflows form large-scale fountains in the halo. The warm-hot CGM has a universal density profile, which produces the observed column density of O VI, VII, and VIII, and X-ray emission. Cool gas condenses out of the hot CGM and falls toward the galaxy. In contrast, when the star formation surface density is high, the outflows are bipolar in shape and funnel metals into the intergalactic medium; cool phase is formed en route, with a fraction moving outward at several hundred km/s at large radii. I will discuss the implications of our results to the missing baryon and the missing metals problems.
+
+BIO
+Miao Li obtained her PhD in 2017 from Columbia University working with Prof. Jeremiah Ostriker and Prof. Greg Bryan. Since then she works as a Flatiron Research Fellow at Center for Computational Astrophysics, Flatiron Institute in New York. Miao Li's research interests are to understand galaxy formation and the distribution of cosmic baryons using high-performance computing. She has been working extensively on supernova feedback, multiphase ISM and circumgalactic medium, cosmic rays, and formation of first supermassive black holes.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time:	 Monday, December 30, 2019, 10:00am
+ Title:	 From One to Many: Exoplanet Science with Precise Radial Velocities
+
+Science: Search for and study the formation and evolution of exoplanets
+
+Expertise: RV: steller jitter, tellurics, data analysis, survey
+
+Projects: PI of RVx, EarthFinder,Magellan Planet Finder Spectrograph PFS, WIYN/NEID, Keck Planet Finder KPF, MINERVA(array of small telescopes)
+
+
+questions:
+	Are we alone
+		find earth analogs
+	How did we get here
+		characterize many exoplanets
+RV: mass, periods
+Transit: radius, periods
+
+challenges:
+	earth 2.0 -- steller jitter, data analysis
+	population -- formation
+
+Steller jitter is the bottleneck for detecting Earth analogs
+	gravitational redshift
+	magnetic cycle/ meridional flow
+	flare in active M dwarfs
+	oscillations
+	granulation
+	active regions
+Hope:
+	stellar jitter is generally chromatic
+	usually has other spectral of photometric signatures
+
+Photometric variation, RV variation
+	tackle the problem of stellar jitter with simutaneous precise RV and space photometry
+
+steller oscillation: averaging? modeling? --- important for 30 meter telescopes
+
+can we get rid of stellar gitter via modeling using photometry?
+	yes, with 2 free parameters
+	gaussian process, covariance matrix
+		RV amplitude not consistent with theoretical prediction	
+		extra noise may be from granulation or instrumental
+		wang et al 2020, APJL
+
+Two spectroscopic twins, very different behavious in long-term RVs
+	Mount Milson s --- ?
+	first evidence of meridional flow in another Sun-like star?
+RV archival data
+
+2. Data Analysis
+there is more than stellar jitter in the NIR ...
+	Earth's atmosphere (Tellurics)
+	Best mitigation of tellurics
+		Wang, Latouf et alm 2020a, AJ
+		Latout, Wang et al, 2020, APJL
+	Tensorflow, wobble by Megan Bedell(https://bedell.space/)
+Future: advanced computation informed by atmosphere modeling
+
+3. Population
+Population study informs planet formation
+
+Magellan TESS Survey (MTS), small planet population
+
+formulated survey strategy to avoid biases
+	target selection with TESS simulation
+		--- Radius gap in reality
+	gaussian process, Gan, Wang, et al, APJL, 2020 |
+		 < 100 points, always over fitting, model comparison, right model, gaussian process is an 绷带,
+
+
+
+Can we combine the transit and RV signal to extract the signal caused by the planet from the noise
+	--- simulation first
+is there some simulation/results in the combination of RV and photometry 
+
+
+
+
+Find, confirm and characterize Earth analogs
+	Space Missions , Mi-Yin, GTC/HRS, TMT
+
+True RV surveys of a variety of nearby stars
+	Maggellan 3: other ground RV instruments
+
+HUBS: X ray characterization of M dawarfs, escaping planet atmosphere
+Magellan 3: new instrument for multi-object RV surveys
+Other ground and space: CubeSat, small dedicated telescopes
+
+
+The best type of stars to detect Earth 2.0
+K darwfs --- twice aboundance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Speaker:	 Dr. Xuesong Wang (Carnegie Observatories)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+More than two decades after the first discovery of exoplanets, the field is moving towards the era of finding Earth analogs as well as building up robust samples of well-characterized exoplanets to study their formation and evolution. Precise radial velocity (RV) is taking the lead in surveying nearby bright stars for Earth analogs, while playing an important role in characterizing populations of exoplanets, such as following up transiting planets discovered by NASA’s Kepler and TESS missions. This talk focuses on the unique opportunities in detecting Earth analogs and surveying exoplanets with RVs. In particular, I will address some of the challenges we are facing, such as with stellar jitter and in data analysis, and introduce the projects I am leading to address these challenges (e.g., RVxTESS.com). I will also introduce my current and future works (e.g., the Magellan TESS Survey) on building statistically robust samples of well-characterized exoplanets to inform theories on planet formation and evolution.
+
+BIO
+Dr. Xuesong Wang (Sharon) is a Carnegie Fellow in Astronomy and Planetary Science at Carnegie Observatories. She received her B.S. in Physics at Tsinghua University and her Ph.D. in Astronomy and Astrophysics at Penn State University. Dr. Wang is an expert in detecting and characterizing exoplanets with radial velocities (RVs). In particular, her expertise is in understanding and mitigating stellar jitter, the intrinsic RV signals produced by stars instead of planets, as well as in RV data analysis and hardware diagnosis using data. She is the PI/leader of the RVx collaboration (rvxtess.com), which studies stellar jitter using multiple RV instruments coupled with Kepler and TESS photometry. She is a member of multiple RV science teams, such as the Magellan Planet Finder Spectrograph team and the WIYN-NEID science team. For more information, please see her website at https://bit.ly/sxwang.
+
+Host: Prof. Xuening Bai
+
+
