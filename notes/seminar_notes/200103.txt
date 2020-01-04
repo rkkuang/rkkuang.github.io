@@ -1,0 +1,113 @@
+2019.01.03 Embracing a new decade of galaxy-halo connection, Dr. Song Huang (Princeton Univ.) 
+
+What is Galaxy Halo Connection
+	Galaxy-Halo connection is statistical,
+	given cosmology model --> Matter distribution --> galaxies
+		Wechsler & Tinker 2019
+	THe connection goes both ways
+1. Measure the dark side of galaxies
+
+2. Understand how does galaxy grow within dark matter halo
+
+3. Using galaxies to trace the farbic of the universe
+
+What should we start
+1. Data products
+	Deep multiband Images, optical spectra
+2. Measurement:
+	Galaxy-galaxy lensing
+
+3. Modeling Approches
+	Semi Empirical modeling, 
+
+HSC
+	steller distribution, dark matter halo(much further away)
+
+measure tiny shape distortion
+
+Hyper Suprime-Cam Subaru
+
+The connection is Sparse - Primary & Secondary Properties
+Steller Mass vs Halo Mass, (Wechsler & Tinker 2018) --- Is there any theoretical interpretation about this relation
+
+The Two-Phase Assembly Scenario for Massive Galaxies
+	Phase-I: Intense Dissipation, Fast Quenching
+	Phase-II: Minor/Major Mergers
+	Huang+2013a,b, 2016
+
+Aperture Steller Massers: 10kpc vs 100kpc
+10^11 M_sun
+
+Surface Stellar Mass Density vs R^(0.25)
+Huang 2020
+Similarly massive galaxies have different assembly history
+They live in dark matter halo with different mass
+
+Application of A.S.A.P model: massive halo finder
+trace massive halo using central galaxy alone
+
+Different Selection - Similar Halo Mass - Subtle Differences
+
+Adding the most massive satellite galaxy
+arxiv 1905.09353
+
+Next steps:
+	Hydro-Simulations
+	Halo Modeling
+		Scatter of SHMR (Stellar-Halo Mass Relation)
+			-constrain feedback and quenching, or gain insights about halo assembly history, e.g. Tinker+2017
+			Photometry of definition of "Stellar mass" alone can introduce scatter and bias into the calibration of SHMR, MassiceBlackII Simulation, HSC Observation
+			Impact from Baryonic Effect is Important, Aurel Schneider; X-ray Clusters from XMM-XXL, Pacaud+2016, Chiappetti+2018, eFFDS survey is finished
+			Assembly Bias, Holo with the same mass but diff other properities cluster differently
+			Splash-back radius, 
+				A more physical boundary of dark matter halos
+				Help us measure halo accretion rate and much more
+		Lensing systematics
+			We are looking into the impact of photometric redshift of source galaxies
+			Lensing without borders
+			...
+                ...
+	Observations of Galaxies
+
+Short Term Plans 5Yrs
+1. Galaxies (HSC, DECaLS, & Follow-ups): Improve our understanding about steller steller
+2.
+3.
+4.
+
+Ten Year Plans
+...
+
+Universe Machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

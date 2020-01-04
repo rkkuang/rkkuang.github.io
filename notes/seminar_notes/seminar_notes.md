@@ -70,6 +70,8 @@
 
 - 2019.12.31 Model the Nonlinear Universe in the era of Large Surveys and Machine Learning, Dr. Yin Li (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/535/-/model-the-nonlinear-universe-in-the-era-of-large-surveys-and-machine-learning )
 
+- 2020.01.03 Embracing a new decade of galaxy-halo connection, Dr. Song Huang (Princeton Univ.) 
+
 other gravitational lensing talks:
 
 [2017.11.16, Weak lensing or 'KIDS and Cosmology', Prof. Koen Kuijken (Leiden Observatory)](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/248/-/weak-lensing-or-kids-and-cosmology)
