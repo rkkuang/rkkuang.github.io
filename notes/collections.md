@@ -47,6 +47,7 @@
 
 - [UvA MSc Radio Astronomy 2013](https://www.astron.nl/astrowiki/doku.php?id=uva_msc_radioastronomy_2013), [link](links/uva_msc_radioastronomy_2013AstroWiki.html)
 - [Radio Astronomy - Astro Panel Reports](https://www.nap.edu/read/1635/chapter/2)
+- [Radio_resource](http://www.iucaa.in/~rpl/Radio_resource.html)
 
 ### Aerospace Engineering
 
@@ -83,6 +84,8 @@
 - [NOAO - US](https://www.noao.edu/)
 - [EMU - Evolutionary Map of the Universe](http://emu-survey.org/)
 - [NASA Technical Reports Server](https://ntrs.nasa.gov/search.jsp)
+- [AJP Resource Letters](http://web.mit.edu/rhprice/www/Readers/resLetters.html)
+- [天文理科人](http://astroleaks.lamost.org/)
 
 ### PHD thesis
 
@@ -105,3 +108,4 @@
 - [Teaching Homepage of Prof. Vitaly Vanchurin](http://www.d.umn.edu/~vvanchur/)
 - [Astronomy Simulations and Animations](http://astro.unl.edu/animationsLinks.html)
 - [Taotie](https://taotie.readthedocs.io/en/latest/)
+- [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)

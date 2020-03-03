@@ -57,6 +57,7 @@
 - [TUNA](http://scateu.me/2011/03/01/welcome-tuna.html)
 - [make latex pdf smaller](https://tex.stackexchange.com/questions/18987/how-to-make-the-pdfs-produced-by-pdflatex-smaller), [pdfsizeopt](https://github.com/pts/pdfsizeopt), [If the contents of a ppt are mainly images rather than formulas, then you should not use latex to make ppt, otherwise the compilation time will be too long to accept]
 - [Scientific plots](https://zhuanlan.zhihu.com/p/82772502)
+- [天文相关Python资料收集](https://blog.csdn.net/u013709332/article/details/45768763)
 
 ## Cutting edge technologies
 

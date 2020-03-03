@@ -1,0 +1,24 @@
+Radio date is important
+
+
+Time:	 Thursday, January 09, 2020, 02:00pm
+ Title:	 Massive Spectroscopic Surveys & Fibre Positioner Robots
+ Speaker:	 Prof. Jean Paul Kneib (EPFL)
+ Location:	
+蒙民伟科技南楼S727
+
+ABSTRACT
+
+I will first motivate the need to conduct massive spectroscopic surveys to learn about the 3D distribution of galaxies. From these measurements we can then derive important parameter on the distribution of galaxies such as the Baryonic Acoustic Oscillation, and the Redshift Space distorsion. These measurements are key to learn on the universe content and constrain cosmological models.
+
+In a second part, I will explain how we can achieve these measurements and I will describe the difference techniques that can be used to conduct a massive spectroscopic redshift survey. I will in particular describes the work conducted at EPFL for the DESI, MOONS and SDSS-V fiber position robots. I will open the discussion for the future possible spectroscopic surveys.
+
+BIO
+Prof. Jean-Paul Kneib has been Director of the EPFL Space Center since July 2017. This center has three main projects: developing technologies for space debris removal, developing sustainable space logistics technologies, and deploying a gamma-ray small-satellite constellation.
+
+Prof. Kneib is also the Director of the Laboratory of Astrophysics (LASTRO) since April 2016. He is invested in astrophysics and observational cosmology research. In particular he has been the Principal investigator of the SDSS-IV/eBOSS project from 2011 to 2018. Currently he is leading at EPFL the construction of the fiber positioner robotic system for the SDSS-V project. He is also coordinating the Swiss SKA research group, promoting the participation of Switzerland in the SKA project. He is also very active in three observational collaborations which plan to constrain the nature of Dark Energy: using gravitational lensing techniques (Euclid) and using galaxy clustering (DESI and 4MOST). He is also renowned for his work on gravitational lensing, a field in which he is still active with participation in the Hubble Frontier Field and the Buffalo projects.
+
+Prof. Kneib has supervised 25 PhD students and has mentored 15 postdoctoral fellows. He has co-authored more than 440 referee articles. Prof. Kneib has been serving for many international committees: telescope time attribution committees (ESA/HST, ESA/XMM, ESO), grant attribution committees (French ANR, ERC, Swiss National Fund).
+
+Host: Prof. Dandan Xu
+

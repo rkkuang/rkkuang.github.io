@@ -1,4 +1,4 @@
-% THCA Seminars Notes
+<!-- % THCA Seminars Notes -->
 
 [Home page](https://rkkuang.github.io/)
 
@@ -71,6 +71,10 @@
 - 2019.12.31 Model the Nonlinear Universe in the era of Large Surveys and Machine Learning, Dr. Yin Li (Flatiron Institute), [THDoA link](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/535/-/model-the-nonlinear-universe-in-the-era-of-large-surveys-and-machine-learning )
 
 - 2020.01.03 Embracing a new decade of galaxy-halo connection, Dr. Song Huang (Princeton Univ.) 
+
+- 2020.01.09 Massive Spectroscopic Surveys & Fibre Positioner Robots,  Prof. Jean Paul Kneib (EPFL), [THDoA](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/531/-/massive-spectroscopic-surveys-fibre-positioner-robots)
+
+- 2020.02.37 Searching for particle nature of dark matter, Haipeng An (THU), [THDoA](http://astro.tsinghua.edu.cn/index.php/events/calendar/eventdetail/542/-/searching-for-particle-nature-of-dark-matter)
 
 other gravitational lensing talks:
 

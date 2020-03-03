@@ -1,0 +1,109 @@
+evidence for Dark matter
+	rotation curve of galaxy
+	grav lens
+	CMB
+What do we know about DM
+	Dark
+	Long lived
+	Cold(warm) - structure formation
+	           - Equation of state (matter like)
+	particles
+	All evidnece of DM are from grav effects
+	We want to know: mass, spin, size, internal structure fi any, interaction with SM particles other then gravity, self interaction
+	We know almost nothing about DM except for:
+		Equation of state
+		total energy density
+			23% of total enerfy density
+			about 5 times fo the energy density of baryons
+		Its velocity around the earth
+		..
+		..
+	The WIMP Miracle
+		Weakly Interacting Massive Particle
+
+recoil energy
+CDEX (Tsinghua)
+Theories of Dark Matter
+Use electron recoil for light DM
+
+With skipper-CCD detector, SENSEI 1901.10478, 0.177 gram-days
+exposure = time * mass
+Solar accelerated DM particles
+	How do we know the sun can heat the dark matter?
+https://www.newscientist.com/article/2149545-the-suns-energy-could-speed-up-dark-matter-so-we-can-detect-it/
+
+We pay the price that the flux is suppressed
+Gravitational focusing effect
+
+Cosmic ray accelerated DM
+	Bringman and Pospelov, PRL 122 2019 
+
+Axion and dark photon DM
+	Dark matter with mass smaller than about 200 ? must not be fermions
+What is axion
+
+T in the center of the sun is ~ 1 TeV
+Searching for axions and dark photons with their wave-nature
+Dark photon dark matter oscillate to on-shell photons
+
+Higgs invisible decay
+
+FermiLAT gamma ray spectrum
+
+Searching for DM in cosmic rays
+
+we need more clever ideas to search for dark matter
+
+for elactic scattering
+1907.11485
+
+steller neutrino as a warm dark matter candidate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time:	 Thursday, February 27, 2020, 02:00pm
+ Title:	 Searching for particle nature of dark matter
+ Speaker:	 Haipeng An (THU)
+ Location:	
+Online via Zoom
+
+ABSTRACT
+
+From rotation curves to the large scale structure, the evidences of the existence of dark matter appear in various scale of our universe. But its particle physics natures are still mysterious to us. People have been approaching the particle natures of dark matter using various methods. In this talk I will review the recent development of direct detections, indirect detections and collider searches of dark matter.
+
+
+BIO
+
+Haipeng An got his Ph.D. from University of Maryland in 2011. Then he moved to the Perimeter Institute for Theoretical Physics from 2011 to 2014. Then he worked at Caltech as a Walter Burke Fellow from 2014 to 2017. He joined Tsinghua University in 2017. His research mainly focuses on particle phenomenology and cosmology. His best known work is the first correct calculation of the solar production rate of light dark photon (a hypocritical vector particle mixes with photon through kinetic mixing).
+Zoom Meeting:
+Meeting ID: 865 579 200
+Password: 917058

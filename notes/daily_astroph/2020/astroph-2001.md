@@ -51,5 +51,44 @@
   - examine microlensing variability in the quadruply-imaged lensed quasar WFI 2026-4536.
   - This size measurement is fully consistent with the Quasar Accretion Disk Size - Black Hole Mass relation, providing another system in which the accretion disk is larger than predicted by thin disk theory.
 
+### Jan 6
+
+- [The Gravitational Wave Treasure Map: A Tool to Coordinate, Visualize, and Assess the Electromagnetic Follow-Up of Gravitational Wave Events](https://arxiv.org/abs/2001.00588)
+
+- [Clusters of Galaxies: Structure and Dynamics in the Last 8 Gyr](https://arxiv.org/abs/2001.00800)
+  - Clusters of galaxies, being dark matter dominated, have long been and still are the ideal cosmological targets to study the nature of dark matter. Constraints on the nature of dark matter comes in particular from the observational determination of the distribution of total and baryonic mass in clusters, by comparison with results from cosmological numerical simulations. I present here past and recent results on this research topic.
+- [Resolving the Nuclear Radio Emission from M32 with Very Large Array](https://arxiv.org/abs/2001.00827)
+  - The Local Group dwarf elliptical galaxy M32 hosts one of the nearest and most under-luminous super-massive black holes (SMBHs) ever known, offering a rare opportunity to study the physics of accreting SMBHs at the most quiescent state.
+  - Very Large Array (VLA) observations have detected a radio source at the nucleus of M32, which is suggested to be the radio counterpart of the SMBH.
+
+- [HIR4: cosmology from a simulated neutral hydrogen full sky using Horizon Run 4](https://arxiv.org/abs/2001.00833)
+  - we simulate future surveys of neutral hydrogen using the Horizon Run 4 (HR4) cosmological N-body simulation. We generate HI intensity maps from the HR4 halo catalogue, and combine with foreground radio emission maps from the Global Sky Model, to create accurate simulations over the entire sky.
+  - We test the accuracy of the fastICA, PCA and log-polynomial fitting foreground removal methods to recover the input cosmological angular power spectrum and measure the parameters.
+
+- [A Joint Fermi-GBM and LIGO/Virgo Analysis of Compact Binary Mergers From the First and Second Gravitational-wave Observing Runs](https://arxiv.org/abs/2001.00923)
+- [There's No Place Like Home (in Our Own Solar System): Searching for ET Near White Dwarfs](https://arxiv.org/abs/2001.00673)
+  - **Interesting**
+  - Any technologically advanced civilization residing within the habitable zone of a G-star will face grave peril when its star transitions from the main sequence and successively enters sub-giant, red giant, planetary nebula, and white dwarf stages.
+  - In fact, if the civilization takes no action it will face certain extinction. The two alternatives to passive extinction are ...
+  - This leads to the conclusion that sub-giants, red giants, planetary nebula, and white dwarfs are the best possible candidate targets for SETI observations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
