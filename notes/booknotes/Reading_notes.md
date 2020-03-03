@@ -13,6 +13,7 @@
 - [The Astronomy Revolution](../booknotes/TheAstronomyRevolution.pdf)
 - [General Relativity](../local_files/General_Relativity.html)
 - [PHD qualification prepare]()
+- [Astrophysics Major Princeton](../local_files/astromajor_princeton.pdf)
 
 ## Radio Astronomy
 

@@ -1,5 +1,5 @@
-dest="/home/anything/Documents/rkkuang.github.io/notes/booknotes"
-dest2="/home/anything/Documents/rkkuang.github.io/notes/local_files"
+dest="/Users/anything/Documents/rkkuang.github.io/notes/booknotes"
+dest2="/Users/anything/Documents/rkkuang.github.io/notes/local_files"
 
 cp ~/THU/astro/notes/difmap/difmap.pdf $dest
 cp ~/THU/astro/notes/casa/casa.pdf $dest
@@ -21,8 +21,8 @@ cp ~/THU/astro/notes/ehtim/ehtim.pdf $dest
 cp ~/Documents/me/CV/cv1908/cv1908.pdf ~/Documents/rkkuang.github.io/cv.pdf 
 #cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/GravLens_RenkunKuang.pdf notes/local_files/ 
 cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/texppt/gravlens_rkkuang.pdf  $dest2/GravLens_RenkunKuang.pdf
- 
 
-cp /home/anything/THU/astro/projs/radio_microlensing/paper_find_by_myself/multiplane/multiplane_link.txt $dest2 
 
+cp /Users/anything/THU/astro/projs/radio_microlensing/paper_find_by_myself/multiplane/multiplane_link.txt $dest2 
+cp ~/THU/self_university/princeton/astromajor_princeton.pdf $dest2
 
