@@ -3,8 +3,8 @@
 #pandoc --toc
 #pandoc -f markdown  -o index.html RenkunKuang_index.md
 
-mdnotesorig="/home/anything/THU/astro/notes/mdfiles"
-
+#mdnotesorig="/home/anything/THU/astro/notes/mdfiles"
+mdnotesorig="/Volumes/anything/Users/anything/THU/astro/notes/mdfiles"
 pandoc -f markdown -s --toc -c theme/css/pandoc.css  -o index.html RenkunKuang_index.md
 
 pandoc -f markdown -s --toc -c ../theme/css/pandoc.css  -o research/research.html research/research.md
@@ -24,4 +24,5 @@ pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/C
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/IntSyninRadioAstro2.html $mdnotesorig/IntSyninRadioAstro2.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/General_Relativity.html $mdnotesorig/General_Relativity.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/relatedmath.html $mdnotesorig/relatedmath.md
+pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/casa.html $mdnotesorig/casa.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/build_radio_array.html $mdnotesorig/build_radio_array.md

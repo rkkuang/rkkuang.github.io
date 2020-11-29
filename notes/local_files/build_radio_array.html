@@ -5,13 +5,19 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Building Radio Array</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../../theme/css/pandoc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -35,11 +41,11 @@
 <p>天线的作用，在于收集射电波段的电磁波。电磁波在金属天线上感应出电压，然后我们再利用模拟接收机来探测这个电压值。可以想象的是，天线做得越大，就能截获更多的电磁波，从而能够探测到更弱的电磁信号。 不同样式的天线，其工作频段和性能不尽相同。射电天文观测为了收集不同频段的电磁波信号，往往也要使用不同的天线形式。一般射电天文使用的也是各种金属杆子和金属锅。</p>
 <p><strong>二、模拟信号接收机</strong> 就目前普遍使用的（不是全部）射电天文模拟接收机而言，其原理和收音机的原理一致，都是使用的 “超外差接收机 (Superheterodyne receiver) ，不同的是射电天文不需要调制解调。所谓 “超外差接收机” ，简单来说，就是接收到来自天线处的电磁信号之后，会使用本振对信号进行 “混频” 处理，把信号的频率调节到另外一个我们想要的固定频率上。对于收音机来说，混频的好处可能更多的是简化电路，改善使用效果（建议看看这个关于超外差接收机原理的回答：<a href="https://www.zhihu.com/question/22836679/answer/25270075">超外差接收机工作原理？</a>）；对于射电天文来说，混频带来的好处更多的是降低信号频率，方便后续设备对信号进行处理。</p>
 <figure>
-<img src="https://pic3.zhimg.com/80/25513eae3cdf48da2265bc1d2a10b304_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic3.zhimg.com/80/25513eae3cdf48da2265bc1d2a10b304_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>超外差接收机原理框图（图源：<a href="https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Superheterodyne_receiver">Superheterodyne receiver</a>）。从左往右分别是：天线（倒三角符号）、滤波器（RF Filter）、放大器（RF Amplifier）、本振（Local Oscillator）、混频器（Mixer）、中频滤波（IF Filter）、中频放大（IF Amplifier）、解调（Demodulator）和声频放大器（Audio Amplifier）。 射电天文接收机的原理是超外差接收机，实际中还要根据自身需求增加一些功能模块。下面我们先来看看一个实际的例子。</p>
 <figure>
-<img src="https://pic3.zhimg.com/80/b5cb79416454ad0ce308a602b45fcef0_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic3.zhimg.com/80/b5cb79416454ad0ce308a602b45fcef0_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>美国VLA (Very Large Array) 的K波段（18~26GHz）模拟接收（前端，Front End）系统框图。（图源：<a href="https://link.zhihu.com/?target=http%3A//www.aoc.nrao.edu/evla/admin/projbook/chap5.pdf">nrao.edu</a>)</p>
 <p>由VLA的L波段前端系统框图我们可以看出，电磁波从K波段<strong>馈源</strong>喇叭（K Band Feed）进入系统内部后，先由一个正交模转化器（OMT，orthomode transducer）将进来的圆极化信号分为两路垂直线极化信号【为啥要转成线极化信号?<!-- ——线极化信号溯逆成电磁波信号就是纯正偏振光的意思。有些（如所谓的相干型）射电望远镜在获取光强之余，还想提取长波电磁场的具体信息如电场矢量之角度——这个值在后续的多阵列绘图中有各种可能用途——比方说筛选：如甲地记录某深空同步记录了电场矢量之黄道坐标方向、乙地也是对准该目标却发现电场矢量有偏移，这时就要考虑乙地是不是混了别的什么源进去。
@@ -51,17 +57,17 @@
 宇宙物质聚集体发射出E·B矢量绕着波矢打转转的——也就是文中所说的圆极化（不是圆偏振哈，后者系指各个波之电场矢量画在一起呈现出1一圆形，可表达发射装置的一些统计特征）——在我的认识集合中、似乎没有宇宙物理能发出这样的偏振光。地球上的圆极化光都是技术的产物——哪怕表现成1简单的晶体片-->】，再与噪声源（Noise）连接之后进入一个+35dB的低噪声放大器（LNA，Low-Noise Amplifiers）进行放大。细心的人估计会发现，OMT到LNA这一部分是被框在一个小框里的，并且框里写了 “COOLED”。这表明，该部分的器件是位于杜瓦之内，工作时需要用液氦对其进行制冷的。出了制冷的这部分，信号会经过隔离器、滤波器，再进行一次放大，通过一个隔离器之后进入混频器，与来自本振（K-Band Primary LO）的信号进行混频。混频完的信号通过隔离、滤波、再隔离，就可以输出出去了。</p>
 <p>前面说到，射电天文使用超外差接收机主要是为了降低信号频率，方便后续设备对信号进行处理。如果接收的信号频率已经足够低，那我们是不是就不需要是要超外差技术了呢？答案是肯定的。随着技术不断的进步，一些工作在较低频率的射电天文接收机已经不再使用超外差技术。还是来看看VLA的接收机。</p>
 <figure>
-<img src="https://pic3.zhimg.com/80/e912b3e6b3beebb2fe551f3ee488c310_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic3.zhimg.com/80/e912b3e6b3beebb2fe551f3ee488c310_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>美国VLA (Very Large Array) 的L波段（1~2GHz）模拟接收系统框图。（图源：<a href="https://link.zhihu.com/?target=http%3A//www.aoc.nrao.edu/evla/admin/projbook/chap5.pdf">nrao.edu</a>)</p>
 <p>从L波段的接收机框图可以看出，它并没有进行混频，信号通过放大等处理之后就直接输出出去了。如果是前面提到的LOFAR天线的接收机，那会更为简单，看：</p>
 <figure>
-<img src="https://pic2.zhimg.com/80/c198632e2da2f1c2b7a266870c6a1841_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic2.zhimg.com/80/c198632e2da2f1c2b7a266870c6a1841_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>荷兰LOFAR接收系统框图（<a href="http://www.radionet-eu.org/rda/archive/NA4-EN-SU-001-008_The%20LOFAR%20Receiver%20Unit.pdf">图源</a>)。对于单个LOFAR天线而言，其模拟接收机应该只是图中那个LNA（低噪声放大器）。对比之下会发现，LOFAR这个没有了制冷部分，这点后面再稍微详细地说说。</p>
 <p>====关于模拟接收机的一些额外说明：馈源喇叭及制冷 ==== <strong>1、馈源（Feed）</strong> 看了上面两个框图，估计有人会问，最左边我说的那个馈源（Feed）究竟是个啥东西？ 这个馈源啊~ 可以说是碟形天线形式（卫星锅，新疆25米射电望远镜那种形式）望远镜真正意义上的天线。不过射电天文中大家习惯把馈源算成接收机的一部分，所以我就给放在模拟接收机这块讲了。 对于卫星锅或者类似形式的射电望远镜，它那个大锅作用是把电磁波汇聚到焦点处。这点应该不难理解，就和我们拿一个凹面镜汇聚平行光一样一样的。汇聚完之后呢？我们需要放一个真正意义上的天线到焦点处，真真切切地把电磁波的信号收集起来，变成电压信号。卫星锅的高频头中也包含了这么一个馈源。</p>
 <figure>
-<img src="https://pic3.zhimg.com/80/2c2b98c07bc35d85a7660327ed54dfe6_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic3.zhimg.com/80/2c2b98c07bc35d85a7660327ed54dfe6_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>卫星高频头的喇叭馈源（网络图片）。</p>
 <p>射电天文由于对性能要求的不同，发展出了多种形式的馈源，也包括了像上图高频头中那样的喇叭馈源。</p>
@@ -70,7 +76,7 @@
 <p><strong>1、基带记录</strong> 所谓 “基带记录”，就是对模拟接收机输出的模拟信号仅使用ADC（Analog-to-Digital Converter，模数转化器）进行采样，不做其他处理。采样频率必须满足奈奎斯特采样定律，以满足复现模拟信号的要求。这点和我们后面要说到的脉冲星观测及谱线观测用的数字后端不同。后两者都需要对得到的基带信号做进一步的处理。 既然脉冲星观测及谱线观测的数据都是由基带信号处理得到的，那我们为什么不直接记录基带信号就好了呢？干嘛还要制造专门用来做脉冲星观测及谱线观测用的数字后端？ 那是因为，基带信号的数据量极大，传输和存储都很困难，所以一般很少记录下基带数据。有时对于一些特殊的目标，我们希望能够对其进行细致的研究时，可能就会需要用到基带信号，但要求把所有观测数据都用基带记录的形式保存下来，那是相当困难的。 <strong>2、脉冲星观测</strong> 【这里仅涉及用作非相干消色散情况下的数字接收机】 先说明一下，这里说是脉冲星观测，实际上泛指的是观测类似脉冲星信号那样的宽带、短时标脉冲信号，就好像近两年一直挺火的快速射电暴。 对于这种观测需求，要求系统观测带宽较大（几百MHz<sub>几千MHz），有很高的时间分辨率（几个微秒</sub>几百微秒），但对频率分辨率要求较低（几百kHz）。所以我们需要对模拟接收机给过来的信号使用较高的采样率进行采样，再对一段极短时间内采样获得的信号进行傅里叶变换，处理得到频谱数据。这样处理完的数据从数字后端出来，再送到计算机上储存起来。</p>
 <p><strong>3、谱线观测</strong> 谱线观测与脉冲星观测可以说正好相反。谱线观测一般要求很高的频率分辨率（几kHz<sub>零点几kHz），但观测带宽一般较窄（几百MHz</sub>几十MHz），时间分辨率要求也低（零点几秒~几秒）。所以我们可以（和仪器设备有关）使用较低的采样速率对模拟信号进行采样，再对一段较长时间内采样得到的信号进行傅里叶变换，得到精细的频谱。随后这些频谱数据同样会被送到计算机上进行存储。</p>
 <figure>
-<img src="https://pic2.zhimg.com/80/270726e63391867b8d22cae438294666_hd.jpg" alt="img" /><figcaption>img</figcaption>
+<img src="https://pic2.zhimg.com/80/270726e63391867b8d22cae438294666_hd.jpg" alt="img" /><figcaption aria-hidden="true">img</figcaption>
 </figure>
 <p>CASPER (Collaboration for Astronomy Signal Processing and Electronics Research) 制作的ROACH2 (<strong>R</strong>econfigurable <strong>O</strong>pen <strong>A</strong>rchitecture<strong>C</strong>omputing <strong>H</strong>ardware 2) 数字后端（图源：<a href="https://link.zhihu.com/?target=https%3A//casper.berkeley.edu/wiki/ROACH-2_Revision_2">ROACH-2 Revision 2</a>）。通过运行不同的处理程序，这块板子可以分别满足上述基带记录，脉冲星观测及谱线观测三种模式的数据处理要求。</p>
 <p><strong>======== 总结 ============</strong> <strong>1、使用天线收集电磁波信号，并将其转变为电压信号；</strong> <strong>2、使用模拟接收机对电压信号进行放大等处理；</strong> <strong>3、使用数字后端把模拟信号变为数字信号，并做相应的处理；</strong> <strong>4、保存，搞定~</strong></p>

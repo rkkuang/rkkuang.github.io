@@ -5,33 +5,42 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>The Feynman Lectures on Physics - Volume 1</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../../theme/css/pandoc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">The Feynman Lectures on Physics - Volume 1</h1>
 </header>
-<nav id="TOC">
+<nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#第1章-原子的运动">第1章 原子的运动</a><ul>
+<li><a href="#第1章-原子的运动">第1章 原子的运动</a>
+<ul>
 <li><a href="#引言">引言</a></li>
 <li><a href="#物质是由原子构成的">物质是由原子构成的</a></li>
 <li><a href="#原子过程">原子过程</a></li>
 <li><a href="#化学反应">化学反应</a></li>
 </ul></li>
-<li><a href="#第2章-基本物理">第2章 基本物理</a><ul>
+<li><a href="#第2章-基本物理">第2章 基本物理</a>
+<ul>
 <li><a href="#引言-1">引言</a></li>
 <li><a href="#年以前的物理学">1920年以前的物理学</a></li>
 <li><a href="#量子物理学">量子物理学</a></li>
 <li><a href="#原子核与粒子">原子核与粒子</a></li>
 </ul></li>
-<li><a href="#第3章-物理学与其他科学的关系">第3章 物理学与其他科学的关系</a><ul>
+<li><a href="#第3章-物理学与其他科学的关系">第3章 物理学与其他科学的关系</a>
+<ul>
 <li><a href="#引言-2">引言</a></li>
 <li><a href="#化学">化学</a></li>
 <li><a href="#生物学">生物学</a></li>
@@ -40,13 +49,15 @@
 <li><a href="#心理学">心理学</a></li>
 <li><a href="#情况何以会如此">情况何以会如此？</a></li>
 </ul></li>
-<li><a href="#第4章-能量守恒">第4章 能量守恒</a><ul>
+<li><a href="#第4章-能量守恒">第4章 能量守恒</a>
+<ul>
 <li><a href="#什么是能量">什么是能量</a></li>
 <li><a href="#重力势能">重力势能</a></li>
 <li><a href="#动能">动能</a></li>
 <li><a href="#能量的其他形式">能量的其他形式</a></li>
 </ul></li>
-<li><a href="#第5章-时间与距离">第5章 时间与距离</a><ul>
+<li><a href="#第5章-时间与距离">第5章 时间与距离</a>
+<ul>
 <li><a href="#运动">运动</a></li>
 <li><a href="#时间">时间</a></li>
 <li><a href="#短的时间">短的时间</a></li>
@@ -55,14 +66,16 @@
 <li><a href="#长的距离">长的距离</a></li>
 <li><a href="#短的距离">短的距离</a></li>
 </ul></li>
-<li><a href="#第6章-几率">第6章 几率</a><ul>
+<li><a href="#第6章-几率">第6章 几率</a>
+<ul>
 <li><a href="#机会和可能性">机会和可能性</a></li>
 <li><a href="#起伏">起伏</a></li>
 <li><a href="#无规行走">无规行走</a></li>
 <li><a href="#几率分布">几率分布</a></li>
 <li><a href="#测不准原理">测不准原理</a></li>
 </ul></li>
-<li><a href="#第7章-万有引力理论">第7章 万有引力理论</a><ul>
+<li><a href="#第7章-万有引力理论">第7章 万有引力理论</a>
+<ul>
 <li><a href="#行星运动">行星运动</a></li>
 <li><a href="#开普勒定律">开普勒定律</a></li>
 <li><a href="#动力学的发展">动力学的发展</a></li>
@@ -72,14 +85,16 @@
 <li><a href="#什么是引力">什么是引力</a></li>
 <li><a href="#引力与相对论">引力与相对论</a></li>
 </ul></li>
-<li><a href="#第8章-运动">第8章 运动</a><ul>
+<li><a href="#第8章-运动">第8章 运动</a>
+<ul>
 <li><a href="#运动的描述">运动的描述</a></li>
 <li><a href="#速率">速率</a></li>
 <li><a href="#速率作为导数">速率作为导数</a></li>
 <li><a href="#距离作为积分">距离作为积分</a></li>
 <li><a href="#加速度">加速度</a></li>
 </ul></li>
-<li><a href="#第9章-牛顿的动力学定律">第9章 牛顿的动力学定律</a><ul>
+<li><a href="#第9章-牛顿的动力学定律">第9章 牛顿的动力学定律</a>
+<ul>
 <li><a href="#动量和力">动量和力</a></li>
 <li><a href="#速率与速度">速率与速度</a></li>
 <li><a href="#速度加速度以及力的分量">速度、加速度以及力的分量</a></li>
@@ -88,14 +103,16 @@
 <li><a href="#方程的数值解">方程的数值解</a></li>
 <li><a href="#行星运动-1">行星运动</a></li>
 </ul></li>
-<li><a href="#第10章-动量守恒">第10章 动量守恒</a><ul>
+<li><a href="#第10章-动量守恒">第10章 动量守恒</a>
+<ul>
 <li><a href="#牛顿第三定律">牛顿第三定律</a></li>
 <li><a href="#动量守恒">动量守恒</a></li>
 <li><a href="#动量是守恒的">动量是守恒的！</a></li>
 <li><a href="#动量和能量">动量和能量</a></li>
 <li><a href="#相对论性动量">相对论性动量</a></li>
 </ul></li>
-<li><a href="#第11章-矢量">第11章 矢量</a><ul>
+<li><a href="#第11章-矢量">第11章 矢量</a>
+<ul>
 <li><a href="#物理学中的对称性">物理学中的对称性</a></li>
 <li><a href="#平移">平移</a></li>
 <li><a href="#转动">转动</a></li>
@@ -104,25 +121,29 @@
 <li><a href="#牛顿定律的矢量表示法">牛顿定律的矢量表示法</a></li>
 <li><a href="#矢量的标积">矢量的标积</a></li>
 </ul></li>
-<li><a href="#第12章-力的特性">第12章 力的特性</a><ul>
+<li><a href="#第12章-力的特性">第12章 力的特性</a>
+<ul>
 <li><a href="#什么是力-1">什么是力</a></li>
 <li><a href="#摩擦">摩擦</a></li>
 <li><a href="#分子力">分子力</a></li>
 </ul></li>
-<li><a href="#第13章-功与势能上">第13章 功与势能(上)</a><ul>
+<li><a href="#第13章-功与势能上">第13章 功与势能(上)</a>
+<ul>
 <li><a href="#落体的能量">落体的能量</a></li>
 <li><a href="#万有引力所作的功">万有引力所作的功</a></li>
 <li><a href="#能量的求和">能量的求和</a></li>
 <li><a href="#巨大物体的引力场">巨大物体的引力场</a></li>
 </ul></li>
-<li><a href="#第14章-功与势能下">第14章 功与势能（下）</a><ul>
+<li><a href="#第14章-功与势能下">第14章 功与势能（下）</a>
+<ul>
 <li><a href="#功">功</a></li>
 <li><a href="#约束运动">约束运动</a></li>
 <li><a href="#保守力">保守力</a></li>
 <li><a href="#非保守力">非保守力</a></li>
 <li><a href="#势与场">势与场</a></li>
 </ul></li>
-<li><a href="#第15章-狭义相对论">第15章 狭义相对论</a><ul>
+<li><a href="#第15章-狭义相对论">第15章 狭义相对论</a>
+<ul>
 <li><a href="#洛伦兹变换">洛伦兹变换</a></li>
 <li><a href="#迈克尔逊-莫雷实验">迈克尔逊-莫雷实验</a></li>
 <li><a href="#时间的变换">时间的变换</a></li>
@@ -132,46 +153,53 @@
 <li><a href="#相对论力学">相对论力学</a></li>
 <li><a href="#质能相当性">质能相当性</a></li>
 </ul></li>
-<li><a href="#第16章-相对论中的能量与动量">第16章 相对论中的能量与动量</a><ul>
+<li><a href="#第16章-相对论中的能量与动量">第16章 相对论中的能量与动量</a>
+<ul>
 <li><a href="#相对论与哲学家">相对论与哲学家</a></li>
 <li><a href="#孪生子佯谬">孪生子佯谬</a></li>
 <li><a href="#速度的变换">速度的变换</a></li>
 <li><a href="#相对论性质量">相对论性质量</a></li>
 <li><a href="#相对论性能量">相对论性能量</a></li>
 </ul></li>
-<li><a href="#第17章-空间-时间">第17章 空间-时间</a><ul>
+<li><a href="#第17章-空间-时间">第17章 空间-时间</a>
+<ul>
 <li><a href="#空-时几何学">空-时几何学</a></li>
 <li><a href="#空-时间隔">空-时间隔</a></li>
 <li><a href="#过去现在和将来">过去、现在和将来</a></li>
 <li><a href="#四维矢量的进一步讨论">四维矢量的进一步讨论</a></li>
 <li><a href="#四维矢量代数">四维矢量代数</a></li>
 </ul></li>
-<li><a href="#第18章-两维空间中的转动">第18章 两维空间中的转动</a><ul>
+<li><a href="#第18章-两维空间中的转动">第18章 两维空间中的转动</a>
+<ul>
 <li><a href="#质心">质心</a></li>
 <li><a href="#刚体的转动">刚体的转动</a></li>
 <li><a href="#角动量">角动量</a></li>
 <li><a href="#角动量守恒">角动量守恒</a></li>
 </ul></li>
-<li><a href="#第19章-质心转动惯量">第19章 质心，转动惯量</a><ul>
+<li><a href="#第19章-质心转动惯量">第19章 质心，转动惯量</a>
+<ul>
 <li><a href="#质心的性质">质心的性质</a></li>
 <li><a href="#质心位置的确定">质心位置的确定</a></li>
 <li><a href="#转动惯量的求法">转动惯量的求法</a></li>
 <li><a href="#转动动能">转动动能</a></li>
 </ul></li>
-<li><a href="#第28章-电磁辐射">第28章 电磁辐射</a><ul>
+<li><a href="#第28章-电磁辐射">第28章 电磁辐射</a>
+<ul>
 <li><a href="#电磁学">电磁学</a></li>
 <li><a href="#辐射">辐射</a></li>
 <li><a href="#偶极辐射子">偶极辐射子</a></li>
 <li><a href="#干涉">干涉</a></li>
 </ul></li>
-<li><a href="#第29章-干涉">第29章 干涉</a><ul>
+<li><a href="#第29章-干涉">第29章 干涉</a>
+<ul>
 <li><a href="#电磁波">电磁波</a></li>
 <li><a href="#辐射的能量">辐射的能量</a></li>
 <li><a href="#正弦波">正弦波</a></li>
 <li><a href="#两个偶极辐射子">两个偶极辐射子</a></li>
 <li><a href="#干涉的数学">干涉的数学</a></li>
 </ul></li>
-<li><a href="#第30章-衍射">第30章 衍射</a><ul>
+<li><a href="#第30章-衍射">第30章 衍射</a>
+<ul>
 <li><a href="#n-个相同振子的合振幅">n 个相同振子的合振幅</a></li>
 <li><a href="#衍射光栅">衍射光栅</a></li>
 <li><a href="#光栅的分辨-本领">光栅的分辨 本领</a></li>
@@ -180,7 +208,8 @@
 <li><a href="#不透明屏的衍射">不透明屏的衍射</a></li>
 <li><a href="#振荡电荷组成的平面所产生的场">振荡电荷组成的平面所产生的场</a></li>
 </ul></li>
-<li><a href="#折射率的起源">折射率的起源</a><ul>
+<li><a href="#折射率的起源">折射率的起源</a>
+<ul>
 <li><a href="#折射率">折射率</a></li>
 <li><a href="#物质引起的场">物质引起的场</a></li>
 <li><a href="#色散">色散</a></li>
@@ -188,14 +217,16 @@
 <li><a href="#电波所携带的能量">电波所携带的能量</a></li>
 <li><a href="#屏的衍射">屏的衍射</a></li>
 </ul></li>
-<li><a href="#第32章-辐射阻尼光的散射">第32章 辐射阻尼，光的散射</a><ul>
+<li><a href="#第32章-辐射阻尼光的散射">第32章 辐射阻尼，光的散射</a>
+<ul>
 <li><a href="#辐射电阻">辐射电阻</a></li>
 <li><a href="#能量辐射率">能量辐射率</a></li>
 <li><a href="#辐射阻尼">辐射阻尼</a></li>
 <li><a href="#独立的辐射源">独立的辐射源</a></li>
 <li><a href="#光的散射">光的散射</a></li>
 </ul></li>
-<li><a href="#第33章-偏振">第33章 偏振</a><ul>
+<li><a href="#第33章-偏振">第33章 偏振</a>
+<ul>
 <li><a href="#光的点矢量">光的点矢量</a></li>
 </ul></li>
 </ul>
@@ -458,20 +489,20 @@
 <p>P(x,x) = p(x)x</p>
 <p>p(x) —— 几率密度 —— 曲线半宽度 是 (N)</p>
 <p>靠近 0 处的 p(x) 值反比于 (N) —— 曲线与 (N) 成比例变宽，为保持积分面积始终=1, 高度必须正比于 (N)</p>
-<p>高斯几率密度： <br /><span class="math display">$$
+<p>高斯几率密度： <span class="math display">$$
 p(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-x^2/2\sigma^2}
-$$</span><br /> 其中 simga, 称为标准偏差，抛硬币实验中 sigma = sqrt{N}, 或者当方均根步长S{rms}不为1时，sigma = sqrt{N}S{rms}</p>
+$$</span> 其中 simga, 称为标准偏差，抛硬币实验中 sigma = sqrt{N}, 或者当方均根步长S{rms}不为1时，sigma = sqrt{N}S{rms}</p>
 <p><a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima">mathJax plugin for github</a></p>
 <p><a href="https://blog.csdn.net/mingzhuo_126/article/details/82722455">使用Typora添加数学公式</a></p>
 <p>往后会看到，麦克斯韦如何运用常识和几率观念为 p(v) 找到一个数学表达式。</p>
-<p>他的表达式为 <br /><span class="math display"><em>p</em>(<em>v</em>) = <em>C</em><em>v</em><sup>2</sup><em>ρ</em><sup> − <em>a</em><em>v</em><sup>2</sup></sup></span><br /> 其中 a 是一个与温度有关的常数，而 C 依据总的积分为 1 来确定。</p>
+<p>他的表达式为 <span class="math display"><em>p</em>(<em>v</em>) = <em>C</em><em>v</em><sup>2</sup><em>ρ</em><sup> − <em>a</em><em>v</em><sup>2</sup></sup></span> 其中 a 是一个与温度有关的常数，而 C 依据总的积分为 1 来确定。</p>
 <h3 id="测不准原理">测不准原理</h3>
 <p>几率的概念是描写原子事件所必不可少的, 按照于量子力学这个有关粒子的数学理论, 在说明位置和速度方面总是存在着某种不确定性. 充其量我们可以说，任何粒子只有一定的几率可以使它的位置接近某一坐标 x</p>
 <p>可以引进几率密度函数 p_1(x) 限制粒子的位置，p_2(v) 限制粒子的速度，量子力学的基本结果之一是：</p>
 <p>两个函数不能予以独立选定，特别是不能把它们都取得任意窄。</p>
-<p>如果称 p_1(x) 的典型”宽度“为 [Delta x], p_2(v) 的典型”宽度“为 [Delta v], 那么自然界就要求这两个宽度的乘积满足： <br /><span class="math display">[<em>Δ</em><em>x</em>][<em>Δ</em><em>v</em>] ≥ <em>h</em>/<em>m</em></span><br /> 这就是海森堡测不准原理的一种表述。</p>
+<p>如果称 p_1(x) 的典型”宽度“为 [Delta x], p_2(v) 的典型”宽度“为 [Delta v], 那么自然界就要求这两个宽度的乘积满足： <span class="math display">[<em>Δ</em><em>x</em>][<em>Δ</em><em>v</em>] ≥ <em>h</em>/<em>m</em></span> 这就是海森堡测不准原理的一种表述。</p>
 <p><strong>测不准原理描述了在叙述自然界的任何尝试中所必然存在着的那种内在的模糊性或不明确性、我们对自然界的最准确描写必须用几率的观念</strong>, 有些人不喜欢用这种方法来描写自然界,不知怎么地,他们总觉得,只要能说出一个粒子真正在做什么,他们就能同时知道它的速度和位置。在量子力学发展的初期,爱因斯坦曾为这个问题十分担忧. 他常摇头说：“啊! 一帝肯定不是用掷骰子来决定电子应如何运动的。”他为这个问题担忧了好长时间，或许他从来没有使他自己相信过这个事实：这是人们对自然界所能做出的最好描述</p>
-<p>在距离原子核 r 处，发现电子的几率密度，对于未受扰动的氢原子： <br /><span class="math display"><em>p</em>(<em>r</em>) = <em>A</em><em>e</em><sup> − <em>r</em><sup>2</sup>/<em>a</em><sup>2</sup></sup></span><br /> a 是典型的半径，在离原子核距离远大于 a 处找到电子的几率很小。</p>
+<p>在距离原子核 r 处，发现电子的几率密度，对于未受扰动的氢原子： <span class="math display"><em>p</em>(<em>r</em>) = <em>A</em><em>e</em><sup> − <em>r</em><sup>2</sup>/<em>a</em><sup>2</sup></sup></span> a 是典型的半径，在离原子核距离远大于 a 处找到电子的几率很小。</p>
 <p>电子云/几率云</p>
 <p><strong>在尽可能多地了解自然界的努力中,现代物理学曾发现,有些事情永远不可能确切地“知道“.我们的许多知识必然总是不确定的。而用几率来表述时,我们所能获得的知识则最多</strong></p>
 <h2 id="第7章-万有引力理论">第7章 万有引力理论</h2>
@@ -544,18 +575,18 @@ $$</span><br /> 其中 simga, 称为标准偏差，抛硬币实验中 sigma = sq
 <h3 id="矢量代数">矢量代数</h3>
 <h3 id="牛顿定律的矢量表示法">牛顿定律的矢量表示法</h3>
 <h3 id="矢量的标积">矢量的标积</h3>
-<p><br /><span class="math display"><strong>a</strong> <strong>⋅</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|cos <em>θ</em></span><br /></p>
+<p><span class="math display"><strong>a</strong> <strong>⋅</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|cos <em>θ</em></span></p>
 <p><a href="https://zh.wikipedia.org/wiki/叉积">矢量叉积</a></p>
 <p><a href="https://blog.csdn.net/dcrmg/article/details/52416832">向量点乘（内积）和叉乘（外积、向量积）概念及几何意义解读</a></p>
-<p><a href="https://blog.csdn.net/u012419410/article/details/41897439">叉积 的 推导，以及证明叉积的几何意义</a> <br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span><br /> 叉乘几何意义的推导：</p>
-<p>对于三维空间中任意维数的两个向量 <strong>a,b</strong>，都能在这两个向量所共的平面内，让 <strong>a</strong> 在 x 轴建立坐标系，有： <br /><span class="math display"><strong>a</strong> = (<em>x</em><sub>1</sub>, 0, 0), <strong>b</strong> = (<em>x</em><sub>2</sub>, <em>y</em><sub>2</sub>, 0)</span><br /></p>
-<p><br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = <em>x</em><sub>1</sub><em>y</em><sub>2</sub><strong>k</strong></span><br /></p>
-<p><br /><span class="math display">|<strong>a</strong> <strong>×</strong> <strong>b</strong>|<sup>2</sup> = <em>x</em><sub>1</sub><sup>2</sup><em>y</em><sub>2</sub><sup>2</sup></span><br /></p>
-<p><br /><span class="math display"><strong>|</strong><strong>a</strong><strong>|</strong><sup><strong>2</strong></sup><strong>|</strong><strong>b</strong><strong>|</strong><sup><strong>2</strong></sup> = <em>x</em><sub>1</sub><sup>2</sup>(<em>x</em><sub>2</sub><sup>2</sup> + <em>y</em><sub>2</sub><sup>2</sup>)</span><br /></p>
-<p><br /><span class="math display">$$
+<p><a href="https://blog.csdn.net/u012419410/article/details/41897439">叉积 的 推导，以及证明叉积的几何意义</a> <span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span> 叉乘几何意义的推导：</p>
+<p>对于三维空间中任意维数的两个向量 <strong>a,b</strong>，都能在这两个向量所共的平面内，让 <strong>a</strong> 在 x 轴建立坐标系，有： <span class="math display"><strong>a</strong> = (<em>x</em><sub>1</sub>, 0, 0), <strong>b</strong> = (<em>x</em><sub>2</sub>, <em>y</em><sub>2</sub>, 0)</span></p>
+<p><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = <em>x</em><sub>1</sub><em>y</em><sub>2</sub><strong>k</strong></span></p>
+<p><span class="math display">|<strong>a</strong> <strong>×</strong> <strong>b</strong>|<sup>2</sup> = <em>x</em><sub>1</sub><sup>2</sup><em>y</em><sub>2</sub><sup>2</sup></span></p>
+<p><span class="math display"><strong>|</strong><strong>a</strong><strong>|</strong><sup><strong>2</strong></sup><strong>|</strong><strong>b</strong><strong>|</strong><sup><strong>2</strong></sup> = <em>x</em><sub>1</sub><sup>2</sup>(<em>x</em><sub>2</sub><sup>2</sup> + <em>y</em><sub>2</sub><sup>2</sup>)</span></p>
+<p><span class="math display">$$
 \sin^2\theta=1-\cos^2\theta=1-(\frac{\mathbf{a\cdot b}}{\mathbf{|a||b|}})^2=1-\frac{x_1^2x_2^2}{x_1^2(x_2^2+y_2^2)}
-$$</span><br /></p>
-<p>于是 <br /><span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span><br /></p>
+$$</span></p>
+<p>于是 <span class="math display"><strong>a</strong> <strong>×</strong> <strong>b</strong> = |<strong>a</strong>||<strong>b</strong>|sin <em>θ</em></span></p>
 <h2 id="第12章-力的特性">第12章 力的特性</h2>
 <h3 id="什么是力-1">什么是力</h3>
 <p>力的最重要的特征之一就是它具有物质的起源，</p>
@@ -579,9 +610,9 @@ $$</span><br /></p>
 <h2 id="第13章-功与势能上">第13章 功与势能(上)</h2>
 <h3 id="落体的能量">落体的能量</h3>
 <p>能量守恒与牛顿定律想符合——牛二可以推导出能量守恒</p>
-<p>设 T 为动能， <br /><span class="math display">$$
+<p>设 T 为动能， <span class="math display">$$
 \frac{dT}{dt}=m\frac{d\mathbf{v}}{dt}\cdot\mathbf{v}=\mathbf{F\cdot v}=\mathbf{F\cdot }\frac{d\mathbf{s}}{dt}
-$$</span><br /> Fv 称为功率——</p>
+$$</span> Fv 称为功率——</p>
 <p>一个物体动能的变化率等于作用于该物体的力所消耗的功率</p>
 <p>动能的改变量等于作用于物体的力所做的功。</p>
 <h3 id="万有引力所作的功">万有引力所作的功</h3>
@@ -622,14 +653,14 @@ $$</span><br /> Fv 称为功率——</p>
 <p>例如, 如果我们分析一个很大的球状星团, 我们从一张这种星团的照片上可以看到有几千个星球彼此相互作用, 那么, 总势能的式子只不过是一项加另一项等等, 对所有各对星球求和, 而动能是所有各个星球动能之和, 但星团作为一个整体也在空间漂移, 假若我们离开它足够远, 不能详细观察它, 可以把它想象为一个单一的物体。假若对它施加作用力, 其中有一部分力最终驱使它作为整体向前运动。我们就看到物体的中心在运动, 另一方面, 有些力可以说是“消耗“在增加内部“粒子“的动能或势能上。例如, 我们假定这些力的作用使整个星团扩张, 并且使其中的质点运动得更快, 整个体系的总能量实际上是守恒的, 但用我们不精确的眼睛从外面看(它不能看出里面运动的混乱情况)，并且把整个物体运动的动能看作单一物体的动能, 能量就似乎是不守恒了。但这是由于我们对看到的东两缺乏了解, 结果实际的情形却是, 当我们足够仔细地观察时, 世界上的总能量(动能加势能)是一个恒量。</p>
 <h3 id="势与场">势与场</h3>
 <p>场概念的提出分析</p>
-<p>势函数 Psi — 场 C 积分的负值 (对 Psi的理解还不够深，包括下面的推导) <br /><span class="math display">$$
+<p>势函数 Psi — 场 C 积分的负值 (对 Psi的理解还不够深，包括下面的推导) <span class="math display">$$
 U=-\int F\cdot ds = -m\int C\cdot ds = m\Psi \\ \partial U=m\partial\Psi
-$$</span><br /> 半径为 a 的球壳所引起的势能</p>
-<p>如何从已知势能去求出力: <br /><span class="math display"><em>F</em><sub><em>x</em></sub> =  − ∂<em>U</em>/∂<em>x</em></span><br /> 从势能求得场强： <br /><span class="math display"><em>C</em><sub><em>x</em></sub> =  − ∂<em>Ψ</em>/∂<em>x</em></span><br /> 梯度/grad 符号，不是一个量，而是从标量得出矢量的算符 <br /><span class="math display">$$
+$$</span> 半径为 a 的球壳所引起的势能</p>
+<p>如何从已知势能去求出力: <span class="math display"><em>F</em><sub><em>x</em></sub> =  − ∂<em>U</em>/∂<em>x</em></span> 从势能求得场强： <span class="math display"><em>C</em><sub><em>x</em></sub> =  − ∂<em>Ψ</em>/∂<em>x</em></span> 梯度/grad 符号，不是一个量，而是从标量得出矢量的算符 <span class="math display">$$
 \mathbf{F}=-\nabla U, \space \mathbf{C}=-\nabla \Psi
-$$</span><br /> 以上在力的场合中， <br /><span class="math display"><strong>F</strong> = <em>m</em><strong>C</strong></span><br /> 在电的场合中： <br /><span class="math display"><strong>F</strong> = <em>q</em><strong>E</strong></span><br /> 用与万有引力同样的方法，我们可以计算能量，或电场力所作的功，并可以计算 的数值，它是 Eds 从任意确定的一点到我们想要计算的哪一点的积分的负值，于是电场的势能就是电荷乘以 phi： <br /><span class="math display">$$
+$$</span> 以上在力的场合中， <span class="math display"><strong>F</strong> = <em>m</em><strong>C</strong></span> 在电的场合中： <span class="math display"><strong>F</strong> = <em>q</em><strong>E</strong></span> 用与万有引力同样的方法，我们可以计算能量，或电场力所作的功，并可以计算 的数值，它是 Eds 从任意确定的一点到我们想要计算的哪一点的积分的负值，于是电场的势能就是电荷乘以 phi： <span class="math display">$$
 \phi(r)=-\int \mathbf{E\cdot ds},\\U=q\phi
-$$</span><br /> phi 的物理意义 — 电压/电势 — 电场 E 的积分</p>
+$$</span> phi 的物理意义 — 电压/电势 — 电场 E 的积分</p>
 <p>Psi 的物理意义 — XXX — 力场 C 的积分</p>
 <h2 id="第15章-狭义相对论">第15章 狭义相对论</h2>
 <p>两百多年来，牛顿所阐述的运动方程一直被认为是对自然的一种正确描述。第一次看出这些定律中存在的一个谬误，并且找到了修正它的方法是在1905年，爱因斯坦的工作。</p>
@@ -661,11 +692,11 @@ $$</span><br /> phi 的物理意义 — 电压/电势 — 电场 E 的积分</p>
 <p>如果一个恒力作用在一个物体上很长时间，那会出现什么情况？牛顿力学认为，物体将不断获得速度，直到它的运动超过光速。但是在相对论力学中，这是不可能的。在相对论中，物体不断得到的不是速度，而是动量。如果一个力只使物体的速度产生非常小的变化，我们就说这个物体具有很大的惯性。</p>
 <p>在加州理工学院所用的同步加速器中，为了要偏转高速电子，所需的磁场的强度要比依据牛顿定律所预言的大 2000 倍。</p>
 <p>质量的相对论效应带来的其他一些结果：</p>
-<p>当速度较小时 <br /><span class="math display">$$
+<p>当速度较小时 <span class="math display">$$
 m_0/\sqrt{1-v^2/c^2}\approx m_0(1-v^2/c^2)^{-1/2}\approx m_0+1/2\times m_0v^2/c^2
-$$</span><br /> 右边第二项表示由分子的速度而来的质量的增加。由于温度升高时，v^2 与之成正比地增加，所以质量的增加正比于温度的增加。由于 1/2 m_0 v^2 在原来牛顿含义中是动能，所以可以说：整个气体的质量的增加，等于动能增加的量除以 c^2, 或者说： <br /><span class="math display"><em>Δ</em><em>m</em> = <em>Δ</em>(<em>K</em>.<em>E</em>.)/<em>c</em><sup>2</sup></span><br /></p>
+$$</span> 右边第二项表示由分子的速度而来的质量的增加。由于温度升高时，v^2 与之成正比地增加，所以质量的增加正比于温度的增加。由于 1/2 m_0 v^2 在原来牛顿含义中是动能，所以可以说：整个气体的质量的增加，等于动能增加的量除以 c^2, 或者说： <span class="math display"><em>Δ</em><em>m</em> = <em>Δ</em>(<em>K</em>.<em>E</em>.)/<em>c</em><sup>2</sup></span></p>
 <h3 id="质能相当性">质能相当性</h3>
-<p>上面的观察给了爱因斯坦一个启发：如果我们说物体的质量等于该物体总能量的含量除以 c^2, 那么一个物体的质量就可以表示得更简单： <br /><span class="math display"><em>m</em><em>c</em><sup>2</sup> = <em>m</em><sub>0</sub><em>c</em><sup>2</sup> + 1/2 × <em>m</em><sub>0</sub><em>v</em><sup>2</sup></span><br /> 第一项：“静能” — 内在能量</p>
+<p>上面的观察给了爱因斯坦一个启发：如果我们说物体的质量等于该物体总能量的含量除以 c^2, 那么一个物体的质量就可以表示得更简单： <span class="math display"><em>m</em><em>c</em><sup>2</sup> = <em>m</em><sub>0</sub><em>c</em><sup>2</sup> + 1/2 × <em>m</em><sub>0</sub><em>v</em><sup>2</sup></span> 第一项：“静能” — 内在能量</p>
 <p>从 E=mc^2, 推导出 m = m_0/sqrt(1-v<sup>2/c</sup>2)</p>
 <p>一个电子与一个正电子在静止时质量各为 m_0, 当它们碰撞在一起时，会变为两束 gamma 射线，各测得带有 m_0c^2 的能量。</p>
 <h2 id="第16章-相对论中的能量与动量">第16章 相对论中的能量与动量</h2>
@@ -684,7 +715,7 @@ $$</span><br /> 右边第二项表示由分子的速度而来的质量的增加�
 <h3 id="空-时几何学">空-时几何学</h3>
 <p>在空-时中的一个给定点 (x,y,z,t) 称为一个事件</p>
 <h3 id="空-时间隔">空-时间隔</h3>
-<p>空-时系统中两点间距离： <br /><span class="math display"><em>s</em><sup>2</sup> = <em>c</em><sup>2</sup><em>t</em><sup>2</sup> − <em>x</em><sup>2</sup> − <em>y</em><sup>2</sup> − <em>z</em><sup>2</sup></span><br /> 不因坐标原点选取而改变。（就像三维空间中两点的距离不因坐标原点的选取而改变）</p>
+<p>空-时系统中两点间距离： <span class="math display"><em>s</em><sup>2</sup> = <em>c</em><sup>2</sup><em>t</em><sup>2</sup> − <em>x</em><sup>2</sup> − <em>y</em><sup>2</sup> − <em>z</em><sup>2</sup></span> 不因坐标原点选取而改变。（就像三维空间中两点的距离不因坐标原点的选取而改变）</p>
 <p>在相对论中，间隔可以是实数，也可以是虚数、间隔的平方可正可负。当间隔为虚数时，说这两点间有一个类空间隔（不说虚数），因为这个间隔比较更像空间而不像时间（即把上式 t 设为 0, 得到的 s就是虚数，t=0表示时间上没有间隔，但空间有间隔，所以叫类空间隔）；另一方面，如果两个物体在一给定坐标系中的同一地方，仅是时间不同，这时时间的平方是正的，空间距离为0, 所以空-时间隔的平方为正，所以这类间隔称为类时间隔。</p>
 <h3 id="过去现在和将来">过去、现在和将来</h3>
 <p>在一给定空-时点周围的空-时区域可以分为三个区域。</p>
