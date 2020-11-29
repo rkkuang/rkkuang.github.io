@@ -22,18 +22,24 @@
 <body>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#learning-casa-based-radio-data-reduce">Learning CASA based radio data reduce</a></li>
+<li><a href="#learning-casa-based-radio-data-reduce">Learning CASA based radio data reduce</a>
+<ul>
+<li><a href="#step-1---obtaining-public-data">Step 1 - Obtaining public data</a></li>
+<li><a href="#step2---converting-.idifits-format-data-to-casa-measurement-sets">Step2 - Converting “.idifits” format data to CASA Measurement Sets</a></li>
+<li><a href="#step-3---handling-.ms-file">Step 3 - Handling .ms file</a></li>
+</ul></li>
 </ul>
 </nav>
-<h3 id="learning-casa-based-radio-data-reduce">Learning CASA based radio data reduce</h3>
+<h2 id="learning-casa-based-radio-data-reduce">Learning CASA based radio data reduce</h2>
 <ul>
 <li>Resource 1: <a href="https://www.jive.eu/casa-vlbi2020/index.php">CASA-VLBI workshop 2020</a></li>
+<li>Related tools need to be installed: casacore (can not be installed on MacOs on 2020.11.29), Aoflagger, Wsclean. (All can be installed on Ubuntu.)</li>
 </ul>
-<h4 id="step-1---obtaining-public-data">Step 1 - Obtaining public data</h4>
+<h3 id="step-1---obtaining-public-data">Step 1 - Obtaining public data</h3>
 <p>The data can be obtained from the <a href="https://archive.nrao.edu/archive/advquery.jsp">NRAO Science Data Archive : Advanced Search Tool</a></p>
 <p>After opening that website, in ‘’Target Name’’ box, fill in <strong>B0128+437</strong> then click “Submit Query”, then all the publicly available data related to that source can be downloaded following the instructions on the website.</p>
 <p>The data may in “.uvfits” or “.idifits” formats.</p>
-<h4 id="step2---converting-.idifits-format-data-to-casa-measurement-sets">Step2 - Converting “.idifits” format data to CASA Measurement Sets</h4>
+<h3 id="step2---converting-.idifits-format-data-to-casa-measurement-sets">Step2 - Converting “.idifits” format data to CASA Measurement Sets</h3>
 <p>Before handling in CASA, the original “.idifits” format data needs to be converted to the CASA Measurement Sets format. Using the <a href="https://casa.nrao.edu/docs/UserMan/casa_cookbook003.html#section%3Aio.import.uvfitsidi.import"><strong>importfitsidi</strong></a> task of CASA:</p>
 <p><em>In CASA, importfitsidi tool is used to import a idifits file</em></p>
 <p>First open casa software in terminal, and then type (see <a href="https://casaguides.nrao.edu/index.php/Getting_Started_in_CASA">Getting Started in CASA</a>):</p>
@@ -43,6 +49,6 @@ fitsidifile = &quot;input.idifits&quot;
 vis = &quot;output.ms&quot;
 go</code></pre>
 <p>The code will run and a resultant “.ms” file will be stored for later processing processes.</p>
-<h4 id="step-3---handling-.ms-file">Step 3 - Handling .ms file</h4>
+<h3 id="step-3---handling-.ms-file">Step 3 - Handling .ms file</h3>
 </body>
 </html>
