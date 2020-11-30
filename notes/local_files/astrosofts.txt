@@ -1,0 +1,77 @@
+https://astrobites.org/guides/guide-to-astrophysical-software/
+
+Guide to Astrophysical Software
+Editors: Ian Czekala, Ellie Newton
+
+Despite being observational and theoretical scientists (in training), astrophysicists spend a great deal of time at their computers (and not just checking the arXiv or their email)! This guide will serve as a nexus for many of the astronomical software programs that an astrophysicist might encounter in his or her daily work. Feel free to peruse the websites of programs and programming languages such as IRAF, CASA, SExtractor, Python and more! If you have a favorite analysis program of your own that you would like to share, please leave a comment.
+
+This guide aims to provide an overview of software and programming languages useful for Astronomy that will be continually updated.
+
+Programming Languages/Mathematical Packages:
+Python: Scipy, Numpy, matplotlib and more
+Python is the programming language that has been on the tip of everybody’s tounge recently, and for good reason. An open-source, easy to use scripting language with extensive object-oriented programming capabilities, Python is designed for ease of code re-use and integration, including access to GUI toolkits like Tkinter (interface to Tk), wxPython, pyQT, and pyGKT. Many additional packages/programs such as Scipy, Numpy, iPython, and Matplotlib turn Python into a powerful scientific and computational environment perfect for astronomers. Tom Aldcroft at the Center for Astrophysics has put together a wonderful Python for Astronomers tutorial that does a great job of introducing Python for astronomical use. ALMA even does most of their telescope scripting with Python, so it’s fast enough for real-time applications. A key advantage of Python over other programming languages is the speed at which quality code can be produced (that can then be reused later). Although execution time of code might be slightly longer than lower level languages such as C/C++/Fortran, Python will likely save a significant amount of “programmer time.” I’ve found Python to be fast enough for every application I have used it thus far. Granted, if you are writing a cosmological simulation that will take time on a super-cluster of computers, then it is probably best that it be optimized with a compiled language like C/C++. Although lengthy and wordy, good, thorough references for learning Python include Mark Lutz’s Learning/Programming Python. Before spending money on technical manuals, check to see if your university library has electronic access to programming ebooks. Good libraries usually have an extensive collection of technical books available in electronic form, which makes it easy to reference the book whenever and wherever you need it.
+
+Python Boot Camp is a free, 3-day tutorial designed to get you started in python
+A large collection of Python packages written for astronomical tasks can be found at Astropython
+Many python-related articles can be found on the AstroBetter blog
+IDL
+The Interactive Data Language is a proprietary programming language that has occupied a niche among astronomers and other scientists. Robust and specifically designed for use with data arrays, IDL is a natural fit to perform astronomical data reduction tasks.  Large arrays are simple to access and operate on, while external packages and modules are not required.  IDL has an extensive, experience user base and many astronomers have contributed to the large number of well-documented, astro-specific programs available for public use. (However, the number of astronomical packages available for Python has been growing and Python additionally has the benefit of high quality plotting capabilities via Matplotlib. This AstroBetter post weighs in on the Python v. IDL debate.)
+
+IDLUTILS: a collection of astronomy-related routines conveniently packaged in one library
+Coyote’s Guide to IDL: tutorials, tips, books and routines from David Fanning.  Several IDL libraries make up for areas in which IDL is lacking (especially graphics!)
+C/C++
+For tasks that require speed and small code size, C or C++ might be great programming languages to use. Although these languages have a steeper learning curve than interactive, scripting languages, the fundamental understanding of programming might be worth the investment. For scientific programming with C/C++, check out the GNU scientific library.
+
+Mathematica
+Python and IDL are great all-around languages that have a wide variety of tools and packages available to develop system-quality applications. However, for high-level, conceptual, or mathematical applications, a proprietary program such as Mathematica can work magic. Mathematica’s easy to use function syntax makes it a breeze to visualize a multidimensional function in one line of code. The “notebook” style of Mathematica documents makes it very well suited for working on problem sets, because it is easy to show your work in a clean manner (as opposed to turning in pages of source code if you programmed in Python or IDL). Mathematica’s ability to perform symbolic algebra and integration can be a lifesaver for complicated integrals found in a quantum mechanics problem set, for example. Although Mathematica is not free, there are educational discounts available for students. Some universities may make an educational licence available for registered students too, check with your computational department for more information. If you don’t have the ability to acquire the full-blown Mathematica package, check out Wolfram Alpha, which can still perform nearly all of the functions of Mathematica. Mathematica’s Astronomical demos.
+
+MATLAB
+MATLAB Simulink is great for interfacing with actual lab equipment and other models.
+
+Other languages
+Perl is another scripting language, similar to Python, that is worthwhile to use for data processing.
+
+Software Packages
+IRAF Image Reduction and Analysis Facility is used for a wide range of tasks pertaining to optical and infrared data processing. STScI has released pyRAF, which allows Python scripting of IRAF tasks, a great advantage when trying to batch process data!
+
+SAO ds9 is an astronomical image viewer and manipulator that has stood the test of time. In order to get started looking at astronomical images, please see Nathan’s astrobite about how to use ds9!  An alternative to ds9 is GAIA, the Graphical Astronomy and Image Analysis Tool.
+
+AIPS and CASA are two radio astronomy analysis packages developed for use with data sets from ALMA and the EVLA.
+
+SExtractor, or Source Extractor, is a program that operates on a FITS image to automatically detect objects.  Once sources have been identified, a variety of measurements are made including source size, shape and magnitude.  A pdf manual is available here (for a slightly older version of the code).  SExtractor for Dummies is another manual, though untested by this author.
+
+Sherpa
+
+The Python Crater Detection Algorithm (PyCDA) is a machine learning algorithm using Python that takes surface images from planets, moons, etc. and automatically counts all of the craters.
+
+Simulation software
+The cosmological simulation code Gadget-2 is very popular. For more information, see Nathan’s astrobite about how to install and run Gadget-2.
+
+Interactive Software
+
+Worldwide Telescope An effort by Microsoft to combine high quality astronomical data sets into an intuitive data visualization package freely available (and able to run in your web-browser)!
+
+TOPCAT is a program to interactively view tabular data of astronomical data sets. Check out their screenshots page to see some neat examples of what it can do.
+
+Writing Software
+LaTeX. You may have noticed that the font and layout used for many of the papers on the arXiv are different from normal Word documents. LaTeX is a document preparation programming language. Yes, you will actually compile your document into a PDF. If you’re running Linux, installing LaTeX is as easy as using a package manager. Otherwise, for Windows you may want to try installing the Miktex distribution.  For Macs, the TeXShop interface is available.  The LaTeX wikibook is a great place to look for more information on how to get started typesetting scholarly papers.
+
+Operating Systems
+Apple OS X
+By my informal visual survey of graduate students, post-docs, and faculty at the Center for Astrophysics, I would say that greater than 80% of astronomers here use Mac computers. A vast amount of astronomical software was developed on and for the Unix operating system. Mac OS X benefits from being based upon the Unix operating system, which means that many Unix terminal programs are already accessible out of the box. Apple and Steve Jobs have done a wonderful job making intuitive and visually appealing software an important component of their product, and is a large reason why Macs are so widely used in astronomy, a profession that relies heavily on the art of the Keynote/Powerpoint presentation.
+
+Because Macs are so popular, a plethora of online resources are available for astronomers using them.  Several are listed here:
+
+Mac OS X for astrophysicists
+OS X for astronomers
+AstroBetter Mac links
+Linux
+Those astronomers that don’t have Macs generally use some flavor of the Linux operating system. Ubuntu, Debian, Fedora, and Arch Linux are all popular distributions that many astronomers use (particularly as desktop machines).
+
+Windows
+
+Because many astronomical programs have been written to run in a Unix environment, they might not run on Windows. Those users who wish to run these programs might wish to check out Cygwin.
+
+If you have a favorite astronomical software package or programming language that is not listed here, please feel free to suggest it as a comment to this page! As all of our glossaries, this page will continue to grow with the addition of more astrophysical software.
+
+

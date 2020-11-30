@@ -23,6 +23,7 @@
 - [relativitycalculator](http://www.relativitycalculator.com/)
 - [entropy of the universe], [What Was The Entropy Of The Universe At The Big Bang?](https://medium.com/starts-with-a-bang/ask-ethan-what-was-the-entropy-of-the-universe-at-the-big-bang-45ce2622ecb7)
 - [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/), *An MIT physicist has proposed the provocative idea that life exists because the law of increasing entropy drives matter to acquire lifelike physical properties.*
+- [Astrobits guides](https://astrobites.org/guides/) 
 
 ## Physics
 
@@ -42,7 +43,7 @@
 - [All kinds of daily learning notes/materials of mine](https://github.com/rkkuang/learning_notes)
 - [Python read fits files](https://blog.csdn.net/kdyyh/article/details/72652110), [other link](https://blog.csdn.net/fupotui7870/article/details/82148620), [Python pyuvdata tutorial](https://pyuvdata.readthedocs.io/en/latest/tutorial.html), 
 - [Radio Astronomy Software Group](https://github.com/RadioAstronomySoftwareGroup)
-- [Astronomy Softwares](http://blog.sciencenet.cn/blog-587102-949176.html)
+- [Astronomy Softwares](https://astrobites.org/guides/guide-to-astrophysical-software/), [local file](../local_files/astrosofts.txt)
 - [Latex symbols](https://blog.csdn.net/Ying_Xu/article/details/51240291), [my_note](../local_files/latex_notes.txt)
 - [python 12306](https://github.com/testerSunshine/12306)
 - [Universe Sandbox](http://universesandbox.com/)
@@ -59,6 +60,7 @@
 - [make latex pdf smaller](https://tex.stackexchange.com/questions/18987/how-to-make-the-pdfs-produced-by-pdflatex-smaller), [pdfsizeopt](https://github.com/pts/pdfsizeopt), [If the contents of a ppt are mainly images rather than formulas, then you should not use latex to make ppt, otherwise the compilation time will be too long to accept]
 - [Scientific plots](https://zhuanlan.zhihu.com/p/82772502)
 - [天文相关Python资料收集](https://blog.csdn.net/u013709332/article/details/45768763)
+- [Play with linux](../local_files/play_with_linux.txt)
 
 ## Cutting edge technologies
 

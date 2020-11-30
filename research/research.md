@@ -2,21 +2,18 @@
 
 # Projects
 
-## All-Sky Nanosecond-Response Low-Frequency Radio Interferometry
+### Lightcurve Calculations for Triple Microlensing Systems [triplelens](https://github.com/rkkuang/triplelens)
 
-#### Materials
+#### Microlensing as a unique exoplanet searching technique
 
-- [MWA Technical Details](MWAtechdetail.txt)
+#### Microlensing lightcurve calculation is not straight forward
 
-#### References
-
-- [Building Radio Array](../notes/local_files/build_radio_array.html)
-
-## Gravitational Lensing
+## Gravitational Lensing - Background
 
 #### Related Theories/Algorithms
 
 - [Inverse ray shooting for caustics]()
+- Countour integration for calculating microlensing lightcurves
 
 #### Slides
 
@@ -33,6 +30,16 @@
 - [GLAMER](http://glenco.github.io/glamer/), [github](https://github.com/glenco/glamer), [paper-part 1](https://arxiv.org/abs/1312.1128), [paper-part2](https://arxiv.org/abs/1312.1536)
 - [lenstool](https://projets.lam.fr/projects/lenstool/wiki)
 
-# Ideas/Thoughts
+## All-Sky Nanosecond-Response Low-Frequency Radio Interferometry
+
+#### Materials
+
+- [MWA Technical Details](MWAtechdetail.txt)
+
+#### References
+
+- [Building Radio Array](../notes/local_files/build_radio_array.html)
+
+# Thoughts
 
 - [random_thoughts]()
