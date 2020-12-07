@@ -26,7 +26,7 @@
 <ul>
 <li><a href="#step-1---obtaining-public-data">Step 1 - Obtaining public data</a></li>
 <li><a href="#step2---converting-.idifits-format-data-to-casa-measurement-sets">Step2 - Converting “.idifits” format data to CASA Measurement Sets</a></li>
-<li><a href="#step-3---handling-.ms-file">Step 3 - Handling .ms file</a></li>
+<li><a href="#step-3---handling-.ms-file-ref">Step 3 - Handling .ms file <span>(Ref)</span></a></li>
 </ul></li>
 </ul>
 </nav>
@@ -41,7 +41,7 @@
 <p>The data may in “.uvfits” or “.idifits” formats.</p>
 <h3 id="step2---converting-.idifits-format-data-to-casa-measurement-sets">Step2 - Converting “.idifits” format data to CASA Measurement Sets</h3>
 <p>Before handling in CASA, the original “.idifits” format data needs to be converted to the CASA Measurement Sets format. Using the <a href="https://casa.nrao.edu/docs/UserMan/casa_cookbook003.html#section%3Aio.import.uvfitsidi.import"><strong>importfitsidi</strong></a> task of CASA:</p>
-<p><em>In CASA, importfitsidi tool is used to import a idifits file</em></p>
+<p>In CASA, <code>importfitsidi</code> tool is used to import a idifits file</p>
 <p>First open casa software in terminal, and then type (see <a href="https://casaguides.nrao.edu/index.php/Getting_Started_in_CASA">Getting Started in CASA</a>):</p>
 <pre class="shell"><code>tget importfitsidi
 inp
@@ -49,6 +49,62 @@ fitsidifile = &quot;input.idifits&quot;
 vis = &quot;output.ms&quot;
 go</code></pre>
 <p>The code will run and a resultant “.ms” file will be stored for later processing processes.</p>
-<h3 id="step-3---handling-.ms-file">Step 3 - Handling .ms file</h3>
+<h3 id="step-3---handling-.ms-file-ref">Step 3 - Handling .ms file <a href="http://www.jb.man.ac.uk/DARA/unit4/Workshops/EVN_continuum_part_1.html">(Ref)</a></h3>
+<h4 id="general-information-of-the-data">3.1 General information of the data</h4>
+<p>One of the most important aspects of data reduction is to <strong>understand your data!</strong>. Without knowing what your data looks like and its quality, the resultant calibration can often be sub-optimal. CASA provides lots of tools to assess and understand your data. The first, and one of the most essential of these is provided by the <code>listobs</code> task. This task outlines the <strong>structure</strong> of your data such as the frequencies observed, the antennas involved and the observing plan.</p>
+<pre class="shell"><code>default(listobs)
+vis=&#39;XXX.ms&#39;
+listfile=&#39;XXX.ms.listobs&#39;   # This makes a file with the listobs info.
+listobs()</code></pre>
+<p>The command makes a file in the current working directory called <code>XXX.ms.listobs</code> which contains information about the measurement set. Try opening this file with your favourite text editor such as <code>gedit</code>. Remember a ! lets you run UNIX commands from CASA. So, if you use <code>cat</code>, the command to write in the command line would be <code>!cat XXX.ms.listobs</code>.</p>
+<p>• Observer: XXX, Fields: 4, J0132+4325, XXX, 3C48, J0359+5057s</p>
+<p>• Spectral Windows: 2, 1504 MHz, 1632 MHz, each 256 channels, chanel width 0.5 MHz, total BW 128 MHz. 4 polarisation products (RR RL LR LL)</p>
+<p>• Antennas: 9. The offset from the array centre is 0 ß absolute Earth-centred (geocentric) coordinates are given for each antenna.</p>
+<h4 id="correct-antenna-tables">3.2 Correct antenna tables</h4>
+<h4 id="a-priori-calibration">3.3 A Priori Calibration</h4>
+<p>The <code>append_tsys.py</code> <a href="https://github.com/jive-vlbi/casa-vlbi">(source github)</a> helper script was used to attach the system temperature information for each telescope to the FITS-IDI files. The system temperature is measured every few minutes. This compensates roughly for the different levels of signal from different sources, the effects of elevation and other amplitude fluctuations. Each antenna has a characteristic response in terms of Kelvin of system temperature per Jy of flux, so Tsys is also used to scale the flux density.</p>
+<p>In CASA, calibration is conducted using calibration tables which are then used to modify the visibilities. To obtain our fluxscaling we therefore have to generate a system temperature calibration table using the task <code>gencal</code>. This task is used to generate caltables from ancillary information which can be found in the measurement set or in external files, and can also be used to create manual calibration tables from scratch. The <code>gencal</code> task has a special function to generate Tsys tables. To generate these tables we need to input:</p>
+<pre class="shell"><code># In CASA
+default(gencal)  # This reads the Tsys information appended to a ms
+vis=&#39;XXX.ms&#39;
+caltable=&#39;XXX.tsys&#39;
+caltype=&#39;tsys&#39;
+uniform=False   #Set to False to get spw dependent Tsys extraction
+gencal()</code></pre>
+<p>You will find that there is a new table named <code>XXX.tsys</code> which contains the gain information.</p>
+<p><strong>Important:</strong> A key factor whenever generating calibration tables is to inspect them to see if there are errant values which simply do not make sense. To inspect tables, we can use either <code>plotcal</code> or, since CASA v5.4, <code>plotms</code>. For this example, we shall use <code>plotcal</code>. If we initialise the task (remember use <code>default</code>), we can see that we have to set the xx and yy axes along with what each plot shall be iterated over. So in this case we want to plot <strong>Tsys against frequency for each antenna</strong>. Note that the subplot parameter is the matplotlib subplot syntax. We should therefore input the following:</p>
+<pre class="shell"><code>default(plotcal)
+caltable=&#39;XXX.tsys&#39;
+xaxis=&#39;freq&#39;
+yaxis=&#39;tsys&#39;
+subplot=321
+iteration=&#39;antenna&#39;
+plotcal()</code></pre>
+<p>or if we use <code>plotms</code>:</p>
+<pre class="shell"><code>default(plotms)
+vis=&#39;XXX.tsys&#39;
+xaxis=&#39;freq&#39;
+yaxis=&#39;tsys&#39;
+gridrows=3
+grodcols=3
+iteraxis=&#39;antenna&#39;
+go</code></pre>
+<p>We can also see how the Tsys changes over time! Most parameters are already set from the last run of <code>plotms</code>, therefore we can just write (and remembering to check the inputs before running!):</p>
+<pre class="shell"><code>xaxis=&#39;time&#39;
+go</code></pre>
+<p>You can see the changes with each source change.</p>
+<h5 id="obtain-gaincurve-file-.gc-antenna-gain-elevation-curve-calibration">Obtain gaincurve file .gc <a href="https://casa.nrao.edu/Release3.3.0/docs/UserMan/UserMansu175.html">(Antenna Gain-Elevation Curve Calibration)</a></h5>
+<p>In the next step we will generate the gain curve table. This provides the scaled gain-elevation correction which scales the visibility amplitudes to the sensitivity of the dish, albeit without any allowance for weather or source contributions. Again, we use <code>gencal</code> to do this and the gain information (<code>XXX.gc</code>) that we <strong>extracted from the .antab file</strong>:</p>
+<pre><code># In CASA
+default(gencal)
+vis=&quot;XXX.ms&quot;
+caltable= &quot;XXX.gcal&quot; ## Name of output gain curve cal. table
+caltype=&quot;gc&quot;           ## Special caltype for gaincurves
+infile=&quot;XXX.gc&quot;      ## Gaincurve information derived from antab file
+gencal()</code></pre>
+<h4 id="inspect-and-flag-data">3.4 Inspect and flag data</h4>
+<h4 id="fringe-fitting">3.5 Fringe fitting</h4>
+<h4 id="bandpass-calibration">3.6 Bandpass calibration</h4>
+<h4 id="split-out-phase-ref-target-pairs">3.7 Split out phase-ref-target pairs</h4>
 </body>
 </html>

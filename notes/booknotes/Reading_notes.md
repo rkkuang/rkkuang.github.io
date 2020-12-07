@@ -20,7 +20,7 @@
 - [Essential Radio Astronomy Lecture Notes](../booknotes/essential_radio_astronomy_lecture_notes.pdf)
 - [Cutting Edge Scientific Researches in Radio Astronomy - A Survey](../booknotes/cutting_edge_radioastro.pdf)
 - [Synthesis Imaging in Radio Astronomy](../booknotes/SynthesisImagingInRadioAstronomy.pdf)
-- Techs/Tools: [Difmap](../booknotes/difmap.pdf), [eht-imaging](../booknotes/ehtim.pdf), [CLEAN Algorithm](../booknotes/clean.pdf), [CASA](../booknotes/casa.pdf), [AIPS], [Source Extractor](../local_files/SExtractor.md)
+- Techs/Tools: [Difmap](../booknotes/difmap.pdf), [eht-imaging](../booknotes/ehtim.pdf), [CLEAN Algorithm](../booknotes/clean.pdf), [CASA](../booknotes/casa.pdf), [AIPS install record (run aips in bash rather than zsh)](https://home.strw.leidenuniv.nl/~ims/aips.html), [Source Extractor](../local_files/SExtractor.md)
 - [射电天文工具](../booknotes/射电天文工具.pdf)
 - [University Michigan Radio Astronomy Observatory - UMRAO](../booknotes/umrao.pdf)
 - [Tools of Radio Astronomy](../booknotes/Tools4Radio_Astronomy.pdf)

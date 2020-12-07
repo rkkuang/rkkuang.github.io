@@ -2,18 +2,22 @@
 
 # Projects
 
-### Lightcurve Calculations for Triple Microlensing Systems [triplelens](https://github.com/rkkuang/triplelens)
+### Lightcurve Calculations for Triple Microlensing Systems [(triplelens)](https://github.com/rkkuang/triplelens)
 
 #### Microlensing as a unique exoplanet searching technique
 
 #### Microlensing lightcurve calculation is not straight forward
+
+#### Contour integration method applied on triple microlensing systems
+
+
 
 ## Gravitational Lensing - Background
 
 #### Related Theories/Algorithms
 
 - [Inverse ray shooting for caustics]()
-- Countour integration for calculating microlensing lightcurves
+- Contour integration for calculating microlensing lightcurves
 
 #### Slides
 
