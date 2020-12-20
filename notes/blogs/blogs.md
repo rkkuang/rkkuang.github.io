@@ -6,6 +6,7 @@
 
 ## Astronomy & Astrophysics
 
+- [2020.12.14 共筑“世界巨眼” | 平方公里阵（SKA）射电望远镜 by 秦波](https://mp.weixin.qq.com/s/Q7uPbhrITOwlva3RnOo-QA)
 - [2018 - Imaging Techniques in Radio Astronomy](https://www.iist.ac.in/node/3538), [abstract](local_files/talk_imging_radioastro_2018.txt)
 - [MIT - 21 cm Radio Asotrophysics - telescope build report](http://web.mit.edu/8.13/www/JLExperiments/JLExp46.pdf)
 - [VERY LONG BASELINE INTERFEROMETRY IMAGING](https://blackholecam.org/research/bhshadow/vlbi/)
@@ -39,9 +40,10 @@
 
 ## Techniques and Tools
 
-- [VLBI data reduce with CASA](../local_files/casa.html)
+- [VLBI data reduce with CASA](../local_files/casa.html), [AOFlagger](../local_files/aoflagger.html)
 - [Radio Astronomy Related Tools - KERN] [https://kernsuite.info](https://kernsuite.info/)
 - [Backup files incrementally using rsync](http://einverne.github.io/post/2017/07/rsync-introduction.html), [linux-timemachine](https://github.com/cytopia/linux-timemachine), [python-rsync-system-backup](https://github.com/xolox/python-rsync-system-backup), [My simple linux backup shell script](../local_files/sysbak.sh)
+- [Linux pack and compress](../local_files/linux_pack_comp.txt)
 - [All kinds of daily learning notes/materials of mine](https://github.com/rkkuang/learning_notes)
 - [Python read fits files](https://blog.csdn.net/kdyyh/article/details/72652110), [other link](https://blog.csdn.net/fupotui7870/article/details/82148620), [Python pyuvdata tutorial](https://pyuvdata.readthedocs.io/en/latest/tutorial.html), 
 - [Radio Astronomy Software Group](https://github.com/RadioAstronomySoftwareGroup)
@@ -63,6 +65,7 @@
 - [Scientific plots](https://zhuanlan.zhihu.com/p/82772502)
 - [天文相关Python资料收集](https://blog.csdn.net/u013709332/article/details/45768763), [Astropython](http://www.astropython.org/)
 - [Play with linux](../local_files/play_with_linux.txt)
+- [Computing a power spectrum in Python](https://bertvandenbroucke.netlify.app/2019/05/24/computing-a-power-spectrum-in-python/)
 
 ## Cutting edge technologies
 
@@ -81,7 +84,7 @@
 ## Paper Related
 
 - [WikiCFP](http://www.wikicfp.com/cfp/), [Conference Monkey](https://conferencemonkey.org/)
-- [Astroplotlib](http://astroplotlib.stsci.edu/)
+- [**Astroplotlib**](http://astroplotlib.stsci.edu/)
 - [Organizing Academic Research Papers: Purpose of Guide](https://library.sacredheart.edu/c.php?g=29803&p=185901)
 
 ## Miscellaneous

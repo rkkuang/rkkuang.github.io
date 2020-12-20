@@ -28,8 +28,8 @@
 
 ### Astronomy
 
+- [Yao-Yuan Mao, Einsten fellow](https://yymao.github.io/)
 - **[Dr. Huang Song](http://dr-guangtou.github.io/)**
-
 - [Bo Zhang](http://bzhang.lamost.org/website/)
 - [Prof. Jonathan Pritchard](https://pritchardjr.github.io/)
 - [The Spectrum Of Riemannium](http://www.thespectrumofriemannium.com/)
@@ -109,3 +109,7 @@
 - [Astronomy Simulations and Animations](http://astro.unl.edu/animationsLinks.html)
 - [Taotie](https://taotie.readthedocs.io/en/latest/)
 - [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+- [https://astrostatistics.psu.edu/ (Statistics for Astronomers Lectures)](https://astrostatistics.psu.edu/)
+- [indico.cern.ch](https://indico.cern.ch/)
+- [Jason Kendall's Intro to Astronomy Course](http://www.jasonkendall.com/)
+

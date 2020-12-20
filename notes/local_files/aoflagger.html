@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>aoflagger</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../../theme/css/pandoc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#aoflagger-tutorial">Aoflagger tutorial</a>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#getting-started">Getting started</a></li>
+</ul></li>
+</ul>
+</nav>
+<h2 id="aoflagger-tutorial">Aoflagger tutorial</h2>
+<h5 id="references">References</h5>
+<ul>
+<li><a href="https://aoflagger.readthedocs.io/en/latest/">AOFlagger manual by André Offringa</a> (main reference)</li>
+<li><a href="https://www.astro.rug.nl/rfi-software/index.html#usage">RFI software home page</a>, <a href="https://www.astro.rug.nl/rfi-software/gui-tutorial.html"><strong>RFI GUI tutorial</strong></a>, <a href="https://www.astro.rug.nl/rfi-software/strategy-example-a.html"><strong>A strategy example: daylight WSRT observation with strong solar fringes</strong></a></li>
+<li><a href="https://support.astron.nl/LOFARImagingCookbook/aoflagger.html">LOFAR Imaging Cookbook, chapter 2 AOFlagger</a></li>
+<li><a href="https://github.com/pkgw/aoflagger">source code by André Offringa in github</a>, and <a href="https://sourceforge.net/p/aoflagger/wiki/faq/">FAQs</a> and <a href="">Manual</a>, e.g. <a href="https://sourceforge.net/p/aoflagger/wiki/scripted_plotting/">scripted_plotting</a></li>
+<li><a href="https://indico.ced.inaf.it/event/9/contributions/352/attachments/113/122/2019-06-11_Preprocessing_tutorial.pdf">LOFAR Preprocessing tutorial 2019 - AOFlagger by André Offringa</a></li>
+<li><a href="https://www.eso.org/sci/meetings/2015/eris2015/L5_Offringa-Editing-and-RFI.pdf">ERIS 2015 - Data inspection, editing &amp; RFI flagging by André Offringa</a></li>
+<li><a href="https://arxiv.org/abs/1906.01093">2019 paper - Absolving the ssins of Precision Interferometric Radio Data: A New Technique for Mitigating Faint Radio Frequency Interference</a>, the corresponding <a href="https://github.com/mwilensky768/SSINS">SSINS package</a> and its <a href="https://ssins.readthedocs.io/en/latest/">documentation</a></li>
+<li><a href="https://github.com/RadioAstronomySoftwareGroup">Radio Astronomy Software Group</a></li>
+</ul>
+<h3 id="introduction">Introduction</h3>
+<p>The AOFlagger software can find and remove radio-frequency interference (RFI) in radio astronomical observations. The Lua language is used for writing flexible flagging strategies. The tools are applicable to a wide range of telescopes.</p>
+<p>AOFlagger makes it possible to detect radio-frequency interference in radio-observations. In this process, often called “flagging” the data, samples that are contaminated by interference are marked. As shown by the figure below, the frequencies covered by telescopes like LOFAR and the MWA are considerably affected by radio-frequency interference (RFI). Efficient RFI detection is essential to obtain high quality images.</p>
+<figure>
+<img src="https://aoflagger.readthedocs.io/en/latest/_images/LOFAR-rfi-spectrum.png" alt="LOFAR RFI spectrum" /><figcaption aria-hidden="true">LOFAR RFI spectrum</figcaption>
+</figure>
+<p>The AOFlagger software is aimed at being a fast and accurate flagger. Implemented algorithms such as the <strong>SumThreshold method, background fitting techniques (smoothing, sliding window, median filters, high-pass filters) and morphological operators</strong> can be combined into strategy scripts. These are written in the <a href="https://www.lua.org/">Lua language</a>. The default strategy performs well on a wide range of telescope observations. Further tweaking to accomodate for specific features of a telescope can sometimes improve the results.</p>
+<p>The software consists of the flagger library (<code>libaoflagger</code>) that can be integrated into observatory pipelines by using the Application Programming Interface (API). It also provides several programs to execute the flagger on measurement sets, tweak strategies and visualize results. Tools are provided that can for example plot time-frequency diagrams and power spectra, both interactively or from scripts. The two main programs are <a href="https://aoflagger.readthedocs.io/en/latest/using_aoflagger.html">aoflagger</a> and <a href="https://aoflagger.readthedocs.io/en/latest/using_rfigui.html">rfigui</a>. Furthermore, aoqplot can be used to visualize plots (<a href="https://aoflagger.readthedocs.io/en/latest/using_aoqplot.html">interactively</a> or <a href="https://aoflagger.readthedocs.io/en/latest/programs_scripting.html">scripted</a>). The API is available as for programs written in C++ and Python.</p>
+<p>AOFlagger is used by default for the LOFAR, MWA and Apertif radio telescope. The software can run in a fully automated way, but a graphical interface (rfigui) is provided to analyse results and tweak the strategy. The preferred input file format is the Casa Measurement Set (MS) format, but single dish SDFits files are also supported.</p>
+<p>I believe that the AOFlagger is the best available flagger, both in terms of accuracy and speed. It has been succesfully used on several interferometric telescopes, including LOFAR, WSRT, Apertif, VLA, GMRT, ATCA and MWA, and the single-dish telescopes Parkes and Arecibo 305m.</p>
+<ul>
+<li><p>History</p>
+<p>The AOFlagger was originally written as part of Dr Offringa’s thesis for the LOFAR Epoch of Reionization key science project, which needed a fast flagger with high accuracy. Since then it was made more generic and functionality was added to work on data from other observatories and at other frequency ranges.</p></li>
+</ul>
+<h3 id="getting-started">Getting started</h3>
+<p>Installation on MacOS is possible too, but installing the dependencies in the right way can be a lot of work.</p>
+<ul>
+<li><p><a href="https://aoflagger.readthedocs.io/en/latest/python_interface.html">Python interface</a></p></li>
+<li><p><a href="https://aoflagger.readthedocs.io/en/latest/cpp_interface.html">C++ interface</a></p></li>
+</ul>
+<h4 id="overview-of-programs">Overview of programs</h4>
+<p>AOFlagger provides several programs. The <a href="https://aoflagger.readthedocs.io/en/latest/using_rfigui.html">rfigui program</a> makes it possible to perform a “baseline by baseline” analysis of measurement sets (and other supported formats). <strong>When analyzing data from a telescope for the first time, it is recommended to first analyze the data with the <code>rfigui</code>, and use it to test and tweak flagging strategies</strong>, or if necessary to use it to <a href="https://aoflagger.readthedocs.io/en/latest/designing_strategies.html">design your own</a>.</p>
+<p>The <a href="https://aoflagger.readthedocs.io/en/latest/using_aoflagger.html">aoflagger program</a> runs strategies in a non-interactive, automated fashion. It is a command line program that, unlike <code>rfigui</code>, does not require a graphical terminal. It applies a flagging strategy to a dataset, and is optimized to run as fast as possible. <code>aoflagger</code> is therefore typically used to flag datasets “in production”, once a good flagging strategy has been found with the <code>rfigui</code>.</p>
+<p>After flagging, <a href="https://aoflagger.readthedocs.io/en/latest/using_aoqplot.html">aoqplot</a> can be used to inspect the results.</p>
+<p>If the strategy works well for a number of observations, it might be desirable to integrate the flagging into an observational pipeline. This could involve calling <code>aoflagger</code> during the processing, but sometimes it might be desirable to have a tighter coupling, e.g. to keep data in memory. For this, the <a href="https://aoflagger.readthedocs.io/en/latest/cpp_interface.html">C++ interface</a> or <a href="https://aoflagger.readthedocs.io/en/latest/python_interface.html">Python interface</a> can be used. Another reason to use the API is to run a flagging strategy on a dataset with a format that is not natively supported by <code>aoflagger</code>, e.g. a numpy array.</p>
+</body>
+</html>

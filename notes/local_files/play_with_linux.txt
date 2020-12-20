@@ -1,3 +1,20 @@
+https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg
+convert mp4 to mp3 command line on MacOS:
+ffmpeg -i video.mp4 -vn audio.mp3
+
+ffmpeg out.mp3 -i in.m4a -codec:a libmp3lame -qscale:a 1
+
+Split mp3 to many files:
+ffmpeg -i somefile.mp3 -f segment -segment_time 3 -c copy out%03d.mp3
+	Where -segment_time is the amount of time you want per each file (in seconds).
+	so if you have a total 10h43m = 640m, then you can set 64m each file and 4000s each file
+
+
+
+also for Mp4
+ffmpeg -i * -c:v libx264 -crf 22 -map 0 -segment_time 1 -g 1 -sc_threshold 0 -force_key_frames "expr:gte(t,n_forced*9)" -f segment output%03d.mp4
+
+
 
 当开机进程卡住时，有个可以查看的是 - 磁盘是否满了
 df -h，不是所有东西都在主分区里

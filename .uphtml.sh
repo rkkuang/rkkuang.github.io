@@ -25,4 +25,5 @@ pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/I
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/General_Relativity.html $mdnotesorig/General_Relativity.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/relatedmath.html $mdnotesorig/relatedmath.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/casa.html $mdnotesorig/casa.md
+pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/aoflagger.html $mdnotesorig/aoflagger.md
 pandoc -f markdown -s --toc -c ../../theme/css/pandoc.css -o notes/local_files/build_radio_array.html $mdnotesorig/build_radio_array.md

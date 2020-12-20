@@ -1,0 +1,10 @@
+pack:
+	tar -cvf xxx.tar xxx
+
+unpack:
+	tar xf xxx.tar
+
+compress:
+	tar -zcvf xxx.tar.gz xxx
+decompress:
+	tar xf xxx.tar.gz
