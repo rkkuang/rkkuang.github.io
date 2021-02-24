@@ -13,6 +13,7 @@
 - [Masamune Oguri - Grav-lensing - glafic](http://www-utap.phys.s.u-tokyo.ac.jp/~oguri/index-e.html)
 - [Dr. Matthew R. Becker](https://beckermr.github.io/index.html)
 - [Prof. Sean Carroll](https://www.preposterousuniverse.com/)
+- [Prof. Yin-Zhe Ma](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=5782)
 
 ### Particle astrophysics
 
@@ -25,6 +26,9 @@
 - [Andrew Chael (EHT eht-imaging)](https://achael.github.io/)
 - [Dou Wei](https://dw839566105.github.io/)
 - [Prof. Tegmark's TECHNICAL UNIVERSE](https://space.mit.edu/home/tegmark/technical.html)
+- [Eric Koch](https://e-koch.github.io/)
+- [Xing "Walker" Lu](https://xinglunju.github.io/index.html)
+- [Jens Kauffmann](https://sites.google.com/site/jenskauffmann/)
 
 ### Astronomy
 
@@ -36,12 +40,16 @@
 - [CfA Harvard - Astronomer Dr. Jun-Hui Zhao's Home Page](https://www.cfa.harvard.edu/~jzhao/index.html)
 - [Cambridge - THDoA Dr. Jiachen Jiang](https://jianghello.jimdo.com/), [Cambridge](https://www.ast.cam.ac.uk/people/jiachen.jiang)
 - [Tsinghua high z team](https://tsinghuahighzteam.github.io/)
+- [Astronomical Files from Black Oak Observatory](https://www.handprint.com/ASTRO/)
 
 ## Resources
 
 ### Astronomy and Astrophysics
 
 - [Scientific America - Astronomy and Astrophysics](https://www.scientificamerican.com/article/astronomy-and-astrophysic/)
+- [Astronomical Software for Mac OS X](http://research.iac.es/sieinvens/SINFIN/Linux/AstronomicalSoftwareMacOSX.php)
+- [Mac Software Hints](http://www2.lowell.edu/users/massey/Macsoftware.html)
+- [Astronomical software installation in (Ubuntu) laptops](https://research.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.AstronomicalSoftwareLaptop)
 
 #### Radio Astronomy
 

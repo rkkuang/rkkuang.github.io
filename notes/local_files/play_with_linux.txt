@@ -1,3 +1,51 @@
+
+
+
+====================
+download entire html
+
+https://www.lifewire.com/uses-of-command-wget-2201085
+use this:
+wget -r -k -R "*.gz, *.tar" www.xxx
+
+
+
+
+https://www.linuxjournal.com/content/downloading-entire-web-site-wget
+
+wget \
+     --recursive \
+     --no-clobber \
+     --page-requisites \
+     --html-extension \
+     --convert-links \
+     --restrict-file-names=windows \
+     --domains website.org \
+     --no-parent \
+         www.website.org/tutorials/html/
+This command downloads the Web site www.website.org/tutorials/html/.
+
+The options are:
+
+--recursive: download the entire Web site.
+
+--domains website.org: don't follow links outside website.org.
+
+--no-parent: don't follow links outside the directory tutorials/html/.
+
+--page-requisites: get all the elements that compose the page (images, CSS and so on).
+
+--html-extension: save files with the .html extension.
+
+--convert-links: convert links so that they work locally, off-line.
+
+--restrict-file-names=windows: modify filenames so that they will work in Windows as well.
+
+--no-clobber: don't overwrite any existing files (used in case the download is interrupted and resumed).
+
+
+====================
+
 https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg
 convert mp4 to mp3 command line on MacOS:
 ffmpeg -i video.mp4 -vn audio.mp3

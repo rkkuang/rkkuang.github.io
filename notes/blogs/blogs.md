@@ -66,6 +66,8 @@
 - [天文相关Python资料收集](https://blog.csdn.net/u013709332/article/details/45768763), [Astropython](http://www.astropython.org/)
 - [Play with linux](../local_files/play_with_linux.txt)
 - [Computing a power spectrum in Python](https://bertvandenbroucke.netlify.app/2019/05/24/computing-a-power-spectrum-in-python/)
+- [CS books by 谭庆波](https://tanqingbo.cn/CSBook001/)
+- [Dezhi Yu - Senior Back End Engineer at Alibaba Group](https://github.com/halfrost), [his blog](https://halfrost.com/)
 
 ## Cutting edge technologies
 
