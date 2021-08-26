@@ -177,10 +177,11 @@ gencal()</code></pre>
 <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>autocorr <span class="op">=</span> <span class="va">True</span></span>
 <span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>go    </span></code></pre></div></li>
 <li><p>Next we can see what telescopes are involved and their position relative to each other, using the CASA task <code>plotants</code></p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>default(plotants)</span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>vis <span class="op">=</span> <span class="st">&quot;XXX.ms&quot;</span></span>
-<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>figfile <span class="op">=</span> <span class="st">&quot;antanas&quot;</span></span>
-<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>go</span></code></pre></div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>plotants(vis <span class="op">=</span> <span class="st">&quot;F.ms&quot;</span>)</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>default(plotants)</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>vis <span class="op">=</span> <span class="st">&quot;XXX.ms&quot;</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>figfile <span class="op">=</span> <span class="st">&quot;antanas&quot;</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>go</span></code></pre></div>
 <figure>
 <img src="/Users/anything/THU/astro/notes/mdfiles/casa.assets/antanas.png" alt="antanas" /><figcaption aria-hidden="true">antanas</figcaption>
 </figure></li>
