@@ -18,7 +18,7 @@ Currently I am mainly working on [[research](https://rkkuang.github.io/research/
 
 Previous project:
 
-- Light Curve Calculations for Triple Microlensing Systems [[github repo triplelens](https://github.com/rkkuang/triplelens)] and the [paper](https://arxiv.org/abs/2102.09163).
+- Light Curve Calculations for Triple Microlensing Systems [[github repo triplelens](https://github.com/rkkuang/triplelens)] and the [paper](https://doi.org/10.1093/mnras/stab509).
 
 Here I will post my daily study [[notes](https://rkkuang.github.io/notes)] including reading notes, experiences, collected resources, blogs, thoughts, etc.
 
