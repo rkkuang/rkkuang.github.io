@@ -1,5 +1,5 @@
-dest="~/Documents/rkkuang.github.io/notes/booknotes"
-dest2="~/Documents/rkkuang.github.io/notes/local_files"
+dest="~/Documents/rkkuang.github.io/notes/booknotes/"
+dest2="~/Documents/rkkuang.github.io/notes/local_files/"
 
 cp ~/THU/astro/notes/difmap/difmap.pdf $dest
 cp ~/THU/astro/notes/casa/casa.pdf $dest
