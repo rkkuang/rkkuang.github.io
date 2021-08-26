@@ -20,7 +20,7 @@ cp ~/THU/astro/notes/ehtim/ehtim.pdf $dest
 
 cp ~/Documents/me/CV/cv2101/cv2101.pdf ~/Documents/rkkuang.github.io/cv.pdf 
 #cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/GravLens_RenkunKuang.pdf notes/local_files/ 
-cp ~/THU/astro/projs/radio_microlensing/files/gravlens_ppt/texppt/gravlens_rkkuang.pdf  $dest2/GravLens_RenkunKuang.pdf
+cp ~/THU/astro/projs/files/gravlens_ppt/texppt/gravlens_rkkuang.pdf  $dest2/GravLens_RenkunKuang.pdf
 
 
 cp /Users/anything/THU/astro/projs/radio_microlensing/paper_find_by_myself/multiplane/multiplane_link.txt $dest2 
